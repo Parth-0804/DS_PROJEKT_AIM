@@ -1,5 +1,4 @@
 # 🏏 DS_PROJEKT_Msc_AIM – Cricket Data Analytics  
-## ✍️ Contribution by: [Your Name]
 
 This branch is created to **research cricket datasets** and build a **complete end-to-end ML solution** for match prediction, player scouting, and auction strategy.
 
