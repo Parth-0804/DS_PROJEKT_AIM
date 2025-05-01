@@ -1,0 +1,244 @@
+ 
+
+Project: IPL Player Valuation & Auction Strategy Analyzer 
+
+This project combines machine learning for player price prediction with auction strategy simulations and interactive visualizations. Perfect for 3 members over 2 months. 
+
+Core Components 
+
+1. Player Valuation Engine (ML Specialist) 
+
+Build regression models to predict player auction prices 
+
+Key features from search results: 
+
+Historical performance metrics (batting avg, economy rate) 
+
+Player role (batter, all-rounder, etc.) 
+
+Age, nationality, T20 experience 
+
+Previous auction prices34 
+
+Models to try: 
+
+XGBoost (best performer in existing projects) 
+
+Ensemble methods (combine team needs + player value) 
+
+Time-series analysis for career trajectories5 
+
+2. Auction Simulator (Data Engineer) 
+
+Interactive tool to: 
+
+Set team budgets (₹90-100 Cr cap) 
+
+Simulate bidding wars 
+
+Optimize team composition 
+
+Features: 
+
+"What-if" scenarios for different strategies 
+
+Real-time budget tracking 
+
+Team balance analyzer (batting depth/bowling variety)6 
+
+3. Strategy Dashboard (Visualization Expert) 
+
+Interactive panel showing: 
+
+Price vs performance metrics 
+
+Team-wise spending analysis 
+
+Value-for-money comparisons 
+
+Historical auction trends (2018-2024) 
+
+Tools: 
+
+Streamlit/Plotly Dash (used successfully in27) 
+
+Power BI for advanced visualizations 
+
+Unique Value Propositions 
+
+Dual Prediction System 
+
+Predict both player price and team likelihood to bid (classification) 
+
+Combine wisdom-of-crowd approach5 with performance metrics 
+
+Auction Impact Analyzer 
+
+Quantify how marquee signings affect team balance 
+
+Salary cap optimization using constraint programming 
+
+Team Strategy Profiler 
+
+Classify teams as "Youth Focused" vs "Star Powered" 
+
+Compare actual bids vs model recommendations6 
+
+Implementation Roadmap 
+
+Week 
+
+Tasks 
+
+1-2 
+
+Data collection & cleaning (merge match stats + auction data) 
+
+3-4 
+
+Feature engineering (create "T20 Impact Score") 
+
+5-6 
+
+Model development & hyperparameter tuning 
+
+7 
+
+Dashboard prototyping 
+
+8 
+
+Final integration & testing 
+
+Sample Outputs 
+
+Player Valuation Card 
+
+text 
+
+Player: Mitchell Starc 
+Predicted Price: ₹22.5 Cr [Actual: ₹24.75 Cr] [7] 
+Top Interested Teams: KKR, MI, RCB 
+Value Recommendation: Overpriced (+12%)  
+ 
+
+Team Strategy Matrix 
+
+text 
+
+| Team | Budget Used | Batting Strength | Bowling Depth | 
+|-----------------|-------------|------------------|---------------| 
+| KKR | 94% | ★★★☆☆ | ★★★★☆ | 
+| CSK | 88% | ★★★★☆ | ★★★☆☆ | 
+ 
+
+Tech Stack 
+
+Data: Python (Pandas/Numpy), SQL 
+
+ML: Scikit-learn, XGBoost, Optuna 
+
+Viz: Streamlit, Plotly, Tableau 
+
+Data Sources:1347 
+
+This project offers hands-on experience with real-world sports analytics while addressing current gaps in public IPL analysis tools. The modular structure allows parallel development across team members. 
+
+Citations: 
+
+https://github.com/shiv6146/ipl_auction_predictor 
+
+https://github.com/abhi227070/IPL-2024-SOLD-PLAYER-DATA-ANALYSIS 
+
+https://github.com/samriddhivwalia/IPL-Price-Prediction 
+
+https://github.com/Sahilzayn/IPL-Player-Auction- 
+
+https://danweston.substack.com/p/ipl-2025-auction-player-values 
+
+https://www.linkedin.com/pulse/influence-data-analysis-ipl-auctions-prajith-ps-owkwc 
+
+https://www.linkedin.com/pulse/unveiling-insights-from-ipl-2024-auction-data-overview-mandar-shinde-xi0nf 
+
+https://www.ijirmps.org/papers/2021/5/1276.pdf 
+
+https://github.com/Lakshmipriya-S/Player-Values-Predicition-In-IPL 
+
+https://danweston.substack.com/p/valuing-ipl-bowlers 
+
+https://github.com/abhi227070/IPL-2024-SOLD-PLAYER-DATA-ANALYSIS/blob/main/IPL_2024_SOLD_Player_Data_Analysis.ipynb 
+
+https://www.novypro.com/project/ipl-auction-analysis 
+
+https://www.linkedin.com/pulse/ipl-auction-strategies-insights-talent-evaluation-team-kumari-fl3zc 
+
+https://www.novypro.com/project/ipl-auction-summary 
+
+https://www.simplilearn.com/data-science-in-ipl-auctions-article 
+
+https://www.kaggle.com/datasets/souviksamanta1053/ipl-2025-mega-auction-dataset 
+
+https://github.com/Foridur3210/IPL-Dataset-Player-price-prediction 
+
+https://www.kaggle.com/kalilurrahman/ipl-player-auction-data-analysis/code 
+
+https://www.ijirmps.org/papers/2021/5/1276.pdf 
+
+https://www.scribd.com/presentation/717449716/IPL-Auction-Analysis-for-Player-selection-Based 
+
+https://www.gigasheet.com/sample-data/ipl-auction-2023 
+
+https://github.com/shayan09/ipl-analysis 
+
+https://www.iplt20.com/auction 
+
+https://www.kaggle.com/datasets/kalilurrahman/ipl-player-auction-dataset-from-start-to-now 
+
+https://www.hindustantimes.com/cricket/ipl/player-stats 
+
+https://www.springerprofessional.de/en/exploratory-data-analysis-on-ipl-data/19917282 
+
+https://www.iplt20.com/auction/2024 
+
+https://www.iplt20.com/stats/2025 
+
+https://sports.ndtv.com/ipl-2025/auction/retainedplayer 
+
+https://www.espncricinfo.com/auction/ipl-2025-auction-1460972 
+
+https://danweston.substack.com/p/ipl-2025-auction-player-values 
+
+https://www.kaggle.com/datasets/viditjain211/mock-ipl-auction-player-ratings 
+
+https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-auction-2025-full-list-of-sold-and-unsold-players-of-all-teams/articleshow/115618338.cms 
+
+https://www.espncricinfo.com/auction/ipl-2025-auction-1460972/all-players 
+
+https://www.kkr.in/ipl-auction 
+
+https://ministryofsport.com/decoding-the-ipl-auction-structure-valuation-and-high-value-acquisitions/ 
+
+https://www.vision11.in/blog/2024/03/20/inside-the-ipl-auction-decoding-strategies-and-player-valuations/ 
+
+https://shs.cairn.info/journal-gestion-2000-2024-1-page-70?lang=en 
+
+https://journals.sagepub.com/doi/10.3233/JSA-200580 
+
+https://www.kaggle.com/code/kalilurrahman/ipl-player-auction-data-analysis 
+
+http://vslir.iima.ac.in:8080/xmlui/handle/11718/14019 
+
+https://ijcaonline.org/archives/volume186/number30/statistical-analysis-of-ipl-player-performance-using-advanced-computational-methods/ 
+
+Python For Beginners | IPL Data Analysis Using Python | Python Data Analysis Project | SimpliCode 
+
+ 
+
+
+https://repository.iimb.ac.in/handle/2074/21719 
+
+https://www.iplt20.com/auction/2023 
+
+https://content.iospress.com/articles/journal-of-sports-analytics/jsa220633 
+
+ 
