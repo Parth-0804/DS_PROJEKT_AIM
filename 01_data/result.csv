@@ -1,8 +1,0 @@
-,Bin,Count,Columns
-0,0-0.1%,0,[]
-1,0.1-20%,5,"['extras_type', 'player_dismissed', 'dismissal_kind', 'fielder', 'method']"
-2,20-40%,0,[]
-3,40-60%,0,[]
-4,60-80%,0,[]
-5,80-99%,2,"['city', 'result_margin']"
-6,99-100%,30,"['inning', 'batting_team', 'bowling_team', 'over', 'ball', 'batter', 'bowler', 'non_striker', 'batsman_runs', 'extra_runs', 'total_runs', 'is_wicket', 'id', 'season', 'date', 'match_type', 'player_of_match', 'venue', 'team1', 'team2', 'toss_winner', 'toss_decision', 'winner', 'result', 'target_runs', 'target_overs', 'super_over', 'umpire1', 'umpire2', 'year']"
