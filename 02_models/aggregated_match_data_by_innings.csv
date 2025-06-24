@@ -1,0 +1,1077 @@
+id,inning1_runs,inning1_wickets,inning1_balls,inning2_runs,inning2_wickets,inning2_balls,season,city,venue,toss_winner,toss_decision,winner,result,result_margin,player_of_match,team1,team2,batting_team,bowling_team
+335982,222,3,124,82,10,101,2008,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Kolkata,runs,140.0,BB McCullum,Bangalore,Kolkata,Kolkata,Bangalore
+335983,240,5,124,207,4,124,2008,Chandigarh,Punjab Cricket Association Stadium,Chennai,bat,Chennai,runs,33.0,MEK Hussey,Punjab,Chennai,Chennai,Punjab
+335984,129,8,122,132,1,97,2008,Delhi,Feroz Shah Kotla,Rajasthan,bat,Delhi,wickets,9.0,MF Maharoof,Delhi,Rajasthan,Rajasthan,Delhi
+335985,165,7,123,166,5,123,2008,Mumbai,Wankhede Stadium,Mumbai,bat,Bangalore,wickets,5.0,MV Boucher,Mumbai,Bangalore,Mumbai,Bangalore
+335986,110,10,118,112,5,122,2008,Kolkata,Eden Gardens,Hyderabad,bat,Kolkata,wickets,5.0,DJ Hussey,Kolkata,Hyderabad,Hyderabad,Kolkata
+335987,166,8,122,168,4,119,2008,Jaipur,Sawai Mansingh Stadium,Punjab,bat,Rajasthan,wickets,6.0,SR Watson,Rajasthan,Punjab,Punjab,Rajasthan
+335988,142,8,122,143,1,83,2008,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,bat,Delhi,wickets,9.0,V Sehwag,Hyderabad,Delhi,Hyderabad,Delhi
+335989,208,5,127,202,7,128,2008,Chennai,MA Chidambaram Stadium,Mumbai,field,Chennai,runs,6.0,ML Hayden,Chennai,Mumbai,Chennai,Mumbai
+335990,214,5,126,217,7,122,2008,Hyderabad,Rajiv Gandhi International Stadium,Rajasthan,field,Rajasthan,wickets,3.0,YK Pathan,Hyderabad,Rajasthan,Hyderabad,Rajasthan
+335991,182,10,124,116,9,126,2008,Chandigarh,Punjab Cricket Association Stadium,Mumbai,field,Punjab,runs,66.0,KC Sangakkara,Punjab,Mumbai,Punjab,Mumbai
+335992,135,8,124,138,3,105,2008,Bangalore,M Chinnaswamy Stadium,Rajasthan,field,Rajasthan,wickets,7.0,SR Watson,Bangalore,Rajasthan,Bangalore,Rajasthan
+335993,147,9,126,152,1,107,2008,Chennai,MA Chidambaram Stadium,Kolkata,bat,Chennai,wickets,9.0,JDP Oram,Chennai,Kolkata,Kolkata,Chennai
+335994,154,7,125,155,0,77,2008,Mumbai,Dr DY Patil Sports Academy,Hyderabad,field,Hyderabad,wickets,10.0,AC Gilchrist,Mumbai,Hyderabad,Mumbai,Hyderabad
+335995,158,8,125,162,6,123,2008,Chandigarh,Punjab Cricket Association Stadium,Delhi,bat,Punjab,wickets,4.0,SM Katich,Punjab,Delhi,Delhi,Punjab
+335996,178,5,123,165,10,124,2008,Bangalore,M Chinnaswamy Stadium,Chennai,bat,Chennai,runs,13.0,MS Dhoni,Bangalore,Chennai,Chennai,Bangalore
+335997,137,8,125,138,3,118,2008,Kolkata,Eden Gardens,Kolkata,bat,Mumbai,wickets,7.0,ST Jayasuriya,Kolkata,Mumbai,Kolkata,Mumbai
+335998,191,5,122,181,5,121,2008,Delhi,Feroz Shah Kotla,Bangalore,field,Delhi,runs,10.0,GD McGrath,Delhi,Bangalore,Delhi,Bangalore
+335999,164,8,122,167,3,117,2008,Hyderabad,Rajiv Gandhi International Stadium,Punjab,field,Punjab,wickets,7.0,SE Marsh,Hyderabad,Punjab,Hyderabad,Punjab
+336000,196,7,127,151,10,122,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan,bat,Rajasthan,runs,45.0,SA Asnodkar,Rajasthan,Kolkata,Rajasthan,Kolkata
+336001,169,6,126,172,2,118,2008,Chennai,MA Chidambaram Stadium,Chennai,bat,Delhi,wickets,8.0,V Sehwag,Chennai,Delhi,Chennai,Delhi
+336002,165,10,126,171,5,114,2008,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,bat,Bangalore,wickets,5.0,R Vinay Kumar,Hyderabad,Bangalore,Hyderabad,Bangalore
+336003,178,6,125,169,6,122,2008,Chandigarh,Punjab Cricket Association Stadium,Punjab,bat,Punjab,runs,9.0,IK Pathan,Punjab,Kolkata,Punjab,Kolkata
+336004,162,8,124,133,10,114,2008,Mumbai,Dr DY Patil Sports Academy,Delhi,field,Mumbai,runs,29.0,SM Pollock,Mumbai,Delhi,Mumbai,Delhi
+336005,109,10,116,110,2,93,2008,Jaipur,Sawai Mansingh Stadium,Chennai,bat,Rajasthan,wickets,8.0,Sohail Tanvir,Rajasthan,Chennai,Chennai,Rajasthan
+336006,126,10,121,127,4,117,2008,Bangalore,M Chinnaswamy Stadium,Punjab,field,Punjab,wickets,6.0,S Sreesanth,Bangalore,Punjab,Bangalore,Punjab
+336007,144,7,124,148,3,112,2008,Chennai,MA Chidambaram Stadium,Hyderabad,field,Hyderabad,wickets,7.0,AC Gilchrist,Chennai,Hyderabad,Chennai,Hyderabad
+336008,103,10,103,104,3,99,2008,Mumbai,Dr DY Patil Sports Academy,Mumbai,field,Mumbai,wickets,7.0,A Nehra,Mumbai,Rajasthan,Rajasthan,Mumbai
+336009,187,5,126,188,6,125,2008,Delhi,Feroz Shah Kotla,Chennai,field,Chennai,wickets,4.0,MS Dhoni,Delhi,Chennai,Delhi,Chennai
+336010,129,7,98,124,4,99,2008,Kolkata,Eden Gardens,Kolkata,bat,Kolkata,runs,5.0,SC Ganguly,Kolkata,Bangalore,Kolkata,Bangalore
+336011,140,8,122,141,2,101,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Rajasthan,wickets,8.0,YK Pathan,Rajasthan,Hyderabad,Hyderabad,Rajasthan
+336012,122,9,115,126,1,102,2008,Bangalore,M Chinnaswamy Stadium,Mumbai,field,Mumbai,wickets,9.0,CRD Fernando,Bangalore,Mumbai,Bangalore,Mumbai
+336013,181,4,131,163,9,122,2008,Chennai,MA Chidambaram Stadium,Punjab,field,Chennai,runs,18.0,L Balaji,Chennai,Punjab,Chennai,Punjab
+336014,204,4,124,181,7,128,2008,Hyderabad,Rajiv Gandhi International Stadium,Kolkata,bat,Kolkata,runs,23.0,SC Ganguly,Hyderabad,Kolkata,Kolkata,Hyderabad
+336015,156,7,123,159,7,122,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Rajasthan,wickets,3.0,SR Watson,Rajasthan,Delhi,Delhi,Rajasthan
+336016,143,8,124,144,1,97,2008,Chandigarh,Punjab Cricket Association Stadium,Bangalore,bat,Punjab,wickets,9.0,SE Marsh,Punjab,Bangalore,Bangalore,Punjab
+336017,133,6,128,110,10,110,2008,Kolkata,Eden Gardens,Kolkata,bat,Kolkata,runs,23.0,Shoaib Akhtar,Kolkata,Delhi,Kolkata,Delhi
+336018,156,6,127,158,1,94,2008,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,9.0,ST Jayasuriya,Mumbai,Chennai,Chennai,Mumbai
+336019,221,3,124,180,7,121,2008,Chandigarh,Punjab Cricket Association Stadium,Rajasthan,field,Punjab,runs,41.0,SE Marsh,Punjab,Rajasthan,Punjab,Rajasthan
+336020,194,4,125,182,9,122,2008,Delhi,Feroz Shah Kotla,Hyderabad,field,Delhi,runs,12.0,A Mishra,Delhi,Hyderabad,Delhi,Hyderabad
+336021,67,10,98,68,2,38,2008,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,8.0,SM Pollock,Mumbai,Kolkata,Kolkata,Mumbai
+336022,118,4,73,94,3,50,2008,Delhi,Feroz Shah Kotla,Delhi,bat,Punjab,runs,6.0,DPMD Jayawardene,Delhi,Punjab,Delhi,Punjab
+336023,197,1,127,132,9,125,2008,Jaipur,Sawai Mansingh Stadium,Bangalore,field,Rajasthan,runs,65.0,GC Smith,Rajasthan,Bangalore,Rajasthan,Bangalore
+336024,178,7,128,153,7,124,2008,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Mumbai,runs,25.0,DJ Bravo,Hyderabad,Mumbai,Mumbai,Hyderabad
+336025,149,5,124,55,0,51,2008,Kolkata,Eden Gardens,Kolkata,bat,Chennai,runs,3.0,M Ntini,Kolkata,Chennai,Kolkata,Chennai
+336026,154,7,125,158,5,111,2008,Bangalore,M Chinnaswamy Stadium,Delhi,field,Delhi,wickets,5.0,SP Goswami,Bangalore,Delhi,Bangalore,Delhi
+336027,147,8,122,150,4,102,2008,Kolkata,Eden Gardens,Rajasthan,field,Rajasthan,wickets,6.0,YK Pathan,Kolkata,Rajasthan,Kolkata,Rajasthan
+336028,189,4,124,188,10,125,2008,Mumbai,Wankhede Stadium,Mumbai,field,Punjab,runs,1.0,SE Marsh,Mumbai,Punjab,Punjab,Mumbai
+336029,126,8,121,112,8,126,2008,Chennai,MA Chidambaram Stadium,Bangalore,bat,Bangalore,runs,14.0,A Kumble,Chennai,Bangalore,Bangalore,Chennai
+336031,175,4,121,178,4,122,2008,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Punjab,wickets,6.0,SE Marsh,Punjab,Hyderabad,Hyderabad,Punjab
+336032,176,8,127,179,5,120,2008,Delhi,Feroz Shah Kotla,Delhi,field,Delhi,wickets,5.0,KD Karthik,Delhi,Mumbai,Mumbai,Delhi
+336033,211,5,122,201,7,126,2008,Chennai,MA Chidambaram Stadium,Rajasthan,bat,Rajasthan,runs,10.0,JA Morkel,Chennai,Rajasthan,Rajasthan,Chennai
+336034,156,8,122,153,6,122,2008,Bangalore,M Chinnaswamy Stadium,Hyderabad,field,Bangalore,runs,3.0,P Kumar,Bangalore,Hyderabad,Bangalore,Hyderabad
+336035,174,6,126,175,7,122,2008,Kolkata,Eden Gardens,Punjab,bat,Kolkata,wickets,3.0,Umar Gul,Kolkata,Punjab,Punjab,Kolkata
+336036,145,7,127,146,5,126,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Rajasthan,wickets,5.0,Sohail Tanvir,Rajasthan,Mumbai,Mumbai,Rajasthan
+336037,147,8,126,148,3,124,2008,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,bat,Chennai,wickets,7.0,SK Raina,Hyderabad,Chennai,Hyderabad,Chennai
+336038,192,9,123,87,10,100,2008,Mumbai,Wankhede Stadium,Delhi,field,Rajasthan,runs,105.0,SR Watson,Delhi,Rajasthan,Rajasthan,Delhi
+336039,112,8,122,116,1,93,2008,Mumbai,Wankhede Stadium,Punjab,bat,Chennai,wickets,9.0,M Ntini,Chennai,Punjab,Punjab,Chennai
+336040,163,5,124,164,7,126,2008,Mumbai,Dr DY Patil Sports Academy,Rajasthan,field,Rajasthan,wickets,3.0,YK Pathan,Chennai,Rajasthan,Chennai,Rajasthan
+392181,165,7,121,146,7,123,2009,Cape Town,Newlands,Chennai,field,Mumbai,runs,19.0,SR Tendulkar,Chennai,Mumbai,Mumbai,Chennai
+392182,133,8,122,58,10,99,2009,Cape Town,Newlands,Bangalore,bat,Bangalore,runs,75.0,R Dravid,Bangalore,Rajasthan,Bangalore,Rajasthan
+392183,104,7,76,58,0,32,2009,Cape Town,Newlands,Delhi,field,Delhi,wickets,10.0,DL Vettori,Delhi,Punjab,Punjab,Delhi
+392184,101,10,119,104,2,80,2009,Cape Town,Newlands,Kolkata,bat,Hyderabad,wickets,8.0,RP Singh,Hyderabad,Kolkata,Kolkata,Hyderabad
+392185,179,5,124,87,10,96,2009,Port Elizabeth,St George's Park,Chennai,bat,Chennai,runs,92.0,M Muralitharan,Bangalore,Chennai,Chennai,Bangalore
+392186,158,6,127,79,1,60,2009,Durban,Kingsmead,Kolkata,field,Kolkata,runs,11.0,CH Gayle,Punjab,Kolkata,Punjab,Kolkata
+392188,184,6,121,160,8,126,2009,Cape Town,Newlands,Hyderabad,bat,Hyderabad,runs,24.0,AC Gilchrist,Bangalore,Hyderabad,Hyderabad,Bangalore
+392189,189,5,121,180,9,125,2009,Durban,Kingsmead,Delhi,bat,Delhi,runs,9.0,AB de Villiers,Chennai,Delhi,Delhi,Chennai
+392191,168,9,123,173,3,119,2009,Durban,Kingsmead,Bangalore,bat,Punjab,wickets,7.0,RS Bopara,Bangalore,Punjab,Bangalore,Punjab
+392192,168,9,125,156,7,127,2009,Durban,Kingsmead,Hyderabad,bat,Hyderabad,runs,12.0,PP Ojha,Hyderabad,Mumbai,Hyderabad,Mumbai
+392194,149,7,126,150,4,120,2009,Port Elizabeth,St George's Park,Bangalore,bat,Delhi,wickets,6.0,TM Dilshan,Bangalore,Delhi,Bangalore,Delhi
+392195,139,6,128,112,7,125,2009,Cape Town,Newlands,Punjab,bat,Punjab,runs,27.0,KC Sangakkara,Punjab,Rajasthan,Punjab,Rajasthan
+392196,165,6,127,169,4,121,2009,Durban,Kingsmead,Hyderabad,field,Hyderabad,wickets,6.0,HH Gibbs,Chennai,Hyderabad,Chennai,Hyderabad
+392197,187,6,124,95,9,95,2009,Port Elizabeth,St George's Park,Mumbai,bat,Mumbai,runs,92.0,SR Tendulkar,Kolkata,Mumbai,Mumbai,Kolkata
+392198,143,7,122,147,5,118,2009,Centurion,SuperSport Park,Delhi,bat,Rajasthan,wickets,5.0,YK Pathan,Delhi,Rajasthan,Delhi,Rajasthan
+392199,139,6,123,143,5,125,2009,Durban,Kingsmead,Kolkata,bat,Bangalore,wickets,5.0,MV Boucher,Bangalore,Kolkata,Kolkata,Bangalore
+392200,119,8,126,116,7,128,2009,Durban,Kingsmead,Punjab,bat,Punjab,runs,3.0,KC Sangakkara,Punjab,Mumbai,Punjab,Mumbai
+392201,148,9,123,150,4,120,2009,Centurion,SuperSport Park,Delhi,field,Delhi,wickets,6.0,DP Nannes,Hyderabad,Delhi,Hyderabad,Delhi
+392202,164,5,123,126,9,120,2009,Centurion,SuperSport Park,Rajasthan,field,Chennai,runs,38.0,SK Raina,Chennai,Rajasthan,Chennai,Rajasthan
+392203,148,6,126,139,6,127,2009,East London,Buffalo Park,Mumbai,bat,Mumbai,runs,9.0,JP Duminy,Kolkata,Mumbai,Mumbai,Kolkata
+392204,145,9,124,137,7,123,2009,Durban,Kingsmead,Bangalore,bat,Bangalore,runs,8.0,Yuvraj Singh,Bangalore,Punjab,Bangalore,Punjab
+392205,141,5,124,142,7,122,2009,Port Elizabeth,St George's Park,Hyderabad,bat,Rajasthan,wickets,3.0,YK Pathan,Hyderabad,Rajasthan,Hyderabad,Rajasthan
+392206,163,10,125,145,8,121,2009,Johannesburg,New Wanderers Stadium,Delhi,field,Chennai,runs,18.0,SB Jakati,Chennai,Delhi,Chennai,Delhi
+392207,153,3,123,154,4,126,2009,Port Elizabeth,St George's Park,Kolkata,bat,Punjab,wickets,6.0,DPMD Jayawardene,Punjab,Kolkata,Kolkata,Punjab
+392208,149,4,122,150,1,116,2009,Johannesburg,New Wanderers Stadium,Mumbai,bat,Bangalore,wickets,9.0,JH Kallis,Bangalore,Mumbai,Mumbai,Bangalore
+392209,178,3,124,100,10,91,2009,East London,Buffalo Park,Chennai,bat,Chennai,runs,78.0,MS Dhoni,Chennai,Hyderabad,Chennai,Hyderabad
+392210,211,4,124,133,8,128,2009,Durban,Kingsmead,Punjab,field,Rajasthan,runs,78.0,GC Smith,Punjab,Rajasthan,Rajasthan,Punjab
+392211,154,3,124,157,1,116,2009,Durban,Kingsmead,Kolkata,bat,Delhi,wickets,9.0,G Gambhir,Delhi,Kolkata,Kolkata,Delhi
+392212,145,6,124,126,8,121,2009,Centurion,SuperSport Park,Hyderabad,bat,Hyderabad,runs,19.0,RG Sharma,Hyderabad,Mumbai,Hyderabad,Mumbai
+392213,105,10,125,107,3,93,2009,Centurion,SuperSport Park,Rajasthan,field,Rajasthan,wickets,7.0,A Singh,Bangalore,Rajasthan,Bangalore,Rajasthan
+392214,185,3,109,174,3,111,2009,Centurion,SuperSport Park,Chennai,bat,Chennai,runs,12.0,ML Hayden,Chennai,Punjab,Chennai,Punjab
+392215,116,10,130,118,3,117,2009,East London,Buffalo Park,Mumbai,bat,Delhi,wickets,7.0,A Nehra,Delhi,Mumbai,Mumbai,Delhi
+392216,168,5,125,169,7,122,2009,Kimberley,De Beers Diamond Oval,Punjab,field,Punjab,wickets,3.0,DPMD Jayawardene,Hyderabad,Punjab,Hyderabad,Punjab
+392217,140,7,122,141,3,116,2009,Kimberley,De Beers Diamond Oval,Rajasthan,bat,Chennai,wickets,7.0,S Badrinath,Chennai,Rajasthan,Rajasthan,Chennai
+392218,157,2,127,141,7,128,2009,Port Elizabeth,St George's Park,Mumbai,bat,Mumbai,runs,16.0,JP Duminy,Bangalore,Mumbai,Mumbai,Bangalore
+392219,123,8,126,125,3,108,2009,Johannesburg,New Wanderers Stadium,Delhi,field,Delhi,wickets,7.0,A Mishra,Delhi,Kolkata,Kolkata,Delhi
+392220,166,7,121,113,10,120,2009,Kimberley,De Beers Diamond Oval,Hyderabad,bat,Hyderabad,runs,53.0,DR Smith,Hyderabad,Rajasthan,Hyderabad,Rajasthan
+392221,173,4,124,176,4,124,2009,Centurion,SuperSport Park,Bangalore,field,Bangalore,wickets,6.0,LRPL Taylor,Bangalore,Kolkata,Kolkata,Bangalore
+392222,119,9,130,122,2,104,2009,Centurion,SuperSport Park,Punjab,bat,Mumbai,wickets,8.0,Harbhajan Singh,Punjab,Mumbai,Punjab,Mumbai
+392223,173,7,126,161,10,123,2009,Durban,Kingsmead,Hyderabad,field,Delhi,runs,12.0,R Bhatia,Hyderabad,Delhi,Delhi,Hyderabad
+392224,129,10,119,132,8,121,2009,Durban,Kingsmead,Chennai,bat,Bangalore,wickets,2.0,LRPL Taylor,Bangalore,Chennai,Chennai,Bangalore
+392225,145,7,124,143,10,127,2009,Durban,Kingsmead,Rajasthan,bat,Rajasthan,runs,2.0,SK Warne,Mumbai,Rajasthan,Rajasthan,Mumbai
+392226,120,9,127,123,4,122,2009,Bloemfontein,OUTsurance Oval,Punjab,field,Punjab,wickets,6.0,B Lee,Delhi,Punjab,Delhi,Punjab
+392227,147,5,122,151,3,120,2009,Port Elizabeth,St George's Park,Mumbai,bat,Chennai,wickets,7.0,ML Hayden,Chennai,Mumbai,Mumbai,Chennai
+392228,160,5,124,166,4,124,2009,Johannesburg,New Wanderers Stadium,Hyderabad,field,Hyderabad,wickets,6.0,RG Sharma,Hyderabad,Kolkata,Kolkata,Hyderabad
+392229,134,7,126,133,8,124,2009,Johannesburg,New Wanderers Stadium,Hyderabad,field,Punjab,runs,1.0,Yuvraj Singh,Hyderabad,Punjab,Punjab,Hyderabad
+392230,150,3,124,136,9,127,2009,Bloemfontein,OUTsurance Oval,Delhi,bat,Delhi,runs,14.0,AB de Villiers,Delhi,Rajasthan,Delhi,Rajasthan
+392231,188,3,129,189,3,121,2009,Centurion,SuperSport Park,Chennai,bat,Kolkata,wickets,7.0,BJ Hodge,Chennai,Kolkata,Chennai,Kolkata
+392232,134,7,123,135,3,116,2009,Johannesburg,New Wanderers Stadium,Delhi,bat,Bangalore,wickets,7.0,JH Kallis,Bangalore,Delhi,Delhi,Bangalore
+392233,101,9,123,102,6,119,2009,Durban,Kingsmead,Kolkata,field,Kolkata,wickets,4.0,LR Shukla,Kolkata,Rajasthan,Rajasthan,Kolkata
+392234,116,9,122,92,8,123,2009,Durban,Kingsmead,Chennai,bat,Chennai,runs,24.0,M Muralitharan,Chennai,Punjab,Chennai,Punjab
+392235,165,8,131,166,6,110,2009,Centurion,SuperSport Park,Delhi,field,Delhi,wickets,4.0,V Sehwag,Delhi,Mumbai,Mumbai,Delhi
+392236,170,4,121,158,6,126,2009,Centurion,SuperSport Park,Bangalore,bat,Bangalore,runs,12.0,MK Pandey,Bangalore,Hyderabad,Bangalore,Hyderabad
+392237,153,8,125,154,4,112,2009,Centurion,SuperSport Park,Hyderabad,field,Hyderabad,wickets,6.0,AC Gilchrist,Delhi,Hyderabad,Delhi,Hyderabad
+392238,146,5,123,149,4,115,2009,Johannesburg,New Wanderers Stadium,Bangalore,field,Bangalore,wickets,6.0,MK Pandey,Bangalore,Chennai,Chennai,Bangalore
+392239,143,6,126,137,9,121,2009,Johannesburg,New Wanderers Stadium,Bangalore,field,Hyderabad,runs,6.0,A Kumble,Bangalore,Hyderabad,Hyderabad,Bangalore
+419106,161,4,127,150,7,127,2010,Mumbai,Dr DY Patil Sports Academy,Hyderabad,field,Kolkata,runs,11.0,AD Mathews,Hyderabad,Kolkata,Kolkata,Hyderabad
+419107,212,7,129,208,7,125,2010,Mumbai,"Brabourne Stadium, Mumbai",Mumbai,bat,Mumbai,runs,4.0,YK Pathan,Mumbai,Rajasthan,Mumbai,Rajasthan
+419108,142,9,125,146,5,121,2010,Chandigarh,Punjab Cricket Association Stadium,Delhi,field,Delhi,wickets,5.0,G Gambhir,Punjab,Delhi,Punjab,Delhi
+419109,135,7,122,136,3,121,2010,Kolkata,Eden Gardens,Kolkata,field,Kolkata,wickets,7.0,MK Tiwary,Kolkata,Bangalore,Bangalore,Kolkata
+419110,190,4,131,159,9,123,2010,Chennai,MA Chidambaram Stadium,Hyderabad,bat,Hyderabad,runs,31.0,WPUJC Vaas,Chennai,Hyderabad,Hyderabad,Chennai
+419111,141,6,125,142,4,107,2010,Ahmedabad,Sardar Patel Stadium,Delhi,field,Delhi,wickets,6.0,V Sehwag,Rajasthan,Delhi,Rajasthan,Delhi
+419112,203,3,130,204,2,118,2010,Bangalore,M Chinnaswamy Stadium,Punjab,bat,Bangalore,wickets,8.0,JH Kallis,Bangalore,Punjab,Punjab,Bangalore
+419113,164,3,121,109,10,119,2010,Kolkata,Eden Gardens,Chennai,bat,Chennai,runs,55.0,MS Dhoni,Kolkata,Chennai,Chennai,Kolkata
+419114,218,7,127,120,9,103,2010,Delhi,Feroz Shah Kotla,Delhi,field,Mumbai,runs,98.0,SR Tendulkar,Delhi,Mumbai,Mumbai,Delhi
+419115,92,10,124,93,0,71,2010,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Bangalore,wickets,10.0,JH Kallis,Bangalore,Rajasthan,Rajasthan,Bangalore
+419116,185,6,125,190,5,123,2010,Delhi,Feroz Shah Kotla,Delhi,bat,Chennai,wickets,5.0,ML Hayden,Delhi,Chennai,Delhi,Chennai
+419117,170,8,121,164,8,122,2010,Cuttack,Barabati Stadium,Punjab,field,Hyderabad,runs,6.0,A Symonds,Hyderabad,Punjab,Hyderabad,Punjab
+419118,168,7,123,134,5,121,2010,Ahmedabad,Sardar Patel Stadium,Rajasthan,bat,Rajasthan,runs,34.0,AA Jhunjhunwala,Rajasthan,Kolkata,Rajasthan,Kolkata
+419119,151,9,124,155,3,115,2010,Mumbai,"Brabourne Stadium, Mumbai",Mumbai,bat,Bangalore,wickets,7.0,JH Kallis,Mumbai,Bangalore,Mumbai,Bangalore
+419120,171,6,121,161,9,121,2010,Cuttack,Barabati Stadium,Hyderabad,bat,Hyderabad,runs,10.0,A Symonds,Hyderabad,Delhi,Hyderabad,Delhi
+419122,155,3,126,156,3,115,2010,Mumbai,"Brabourne Stadium, Mumbai",Kolkata,bat,Mumbai,wickets,7.0,SR Tendulkar,Mumbai,Kolkata,Kolkata,Mumbai
+419123,171,5,124,135,7,126,2010,Bangalore,M Chinnaswamy Stadium,Chennai,field,Bangalore,runs,36.0,RV Uthappa,Bangalore,Chennai,Bangalore,Chennai
+419124,183,5,127,152,10,119,2010,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Rajasthan,runs,31.0,AC Voges,Punjab,Rajasthan,Rajasthan,Punjab
+419125,180,2,130,181,5,120,2010,Mumbai,"Brabourne Stadium, Mumbai",Mumbai,field,Mumbai,wickets,5.0,SR Tendulkar,Chennai,Mumbai,Chennai,Mumbai
+419126,148,9,127,151,2,97,2010,Ahmedabad,Sardar Patel Stadium,Hyderabad,bat,Rajasthan,wickets,8.0,YK Pathan,Rajasthan,Hyderabad,Hyderabad,Rajasthan
+419127,183,5,130,144,6,125,2010,Chandigarh,Punjab Cricket Association Stadium,Kolkata,bat,Kolkata,runs,39.0,MK Tiwary,Punjab,Kolkata,Kolkata,Punjab
+419128,183,4,127,166,9,125,2010,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Delhi,runs,17.0,KM Jadhav,Bangalore,Delhi,Delhi,Bangalore
+419129,177,8,122,160,6,123,2010,Ahmedabad,Sardar Patel Stadium,Rajasthan,bat,Rajasthan,runs,17.0,NV Ojha,Rajasthan,Chennai,Rajasthan,Chennai
+419130,172,7,129,131,10,110,2010,Mumbai,Dr DY Patil Sports Academy,Hyderabad,field,Mumbai,runs,41.0,Harbhajan Singh,Hyderabad,Mumbai,Mumbai,Hyderabad
+419131,177,4,124,137,9,126,2010,Delhi,Feroz Shah Kotla,Delhi,bat,Delhi,runs,40.0,DA Warner,Delhi,Kolkata,Delhi,Kolkata
+419132,163,10,127,164,6,124,2010,Mumbai,"Brabourne Stadium, Mumbai",Mumbai,field,Mumbai,wickets,4.0,SL Malinga,Mumbai,Punjab,Punjab,Mumbai
+419133,161,4,124,162,5,117,2010,Chennai,MA Chidambaram Stadium,Bangalore,bat,Chennai,wickets,5.0,M Vijay,Chennai,Bangalore,Bangalore,Chennai
+419134,188,6,124,121,10,109,2010,Delhi,Feroz Shah Kotla,Delhi,bat,Delhi,runs,67.0,KD Karthik,Delhi,Rajasthan,Delhi,Rajasthan
+419135,181,6,126,157,5,125,2010,Kolkata,Eden Gardens,Kolkata,bat,Kolkata,runs,24.0,SC Ganguly,Kolkata,Hyderabad,Kolkata,Hyderabad
+419136,181,5,124,184,4,118,2010,Chandigarh,Punjab Cricket Association Stadium,Punjab,bat,Bangalore,wickets,6.0,KP Pietersen,Punjab,Bangalore,Punjab,Bangalore
+419137,246,5,122,223,5,125,2010,Chennai,MA Chidambaram Stadium,Chennai,bat,Chennai,runs,23.0,M Vijay,Chennai,Rajasthan,Chennai,Rajasthan
+419138,178,5,124,115,10,114,2010,Mumbai,"Brabourne Stadium, Mumbai",Mumbai,bat,Mumbai,runs,63.0,AT Rayudu,Mumbai,Hyderabad,Mumbai,Hyderabad
+419139,200,3,127,204,2,112,2010,Kolkata,Eden Gardens,Kolkata,bat,Punjab,wickets,8.0,DPMD Jayawardene,Kolkata,Punjab,Kolkata,Punjab
+419140,184,5,123,147,9,121,2010,Delhi,Feroz Shah Kotla,Delhi,bat,Delhi,runs,37.0,PD Collingwood,Delhi,Bangalore,Delhi,Bangalore
+419141,159,10,123,157,10,126,2010,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",Rajasthan,bat,Rajasthan,runs,2.0,SK Warne,Hyderabad,Rajasthan,Rajasthan,Hyderabad
+419142,165,4,128,141,9,129,2010,Chennai,MA Chidambaram Stadium,Chennai,bat,Chennai,runs,24.0,SK Raina,Chennai,Mumbai,Chennai,Mumbai
+419143,153,6,126,157,1,97,2010,Jaipur,Sawai Mansingh Stadium,Punjab,bat,Rajasthan,wickets,9.0,MJ Lumb,Rajasthan,Punjab,Punjab,Rajasthan
+419144,181,3,126,167,8,124,2010,Kolkata,Eden Gardens,Kolkata,bat,Kolkata,runs,14.0,SC Ganguly,Kolkata,Delhi,Kolkata,Delhi
+419145,184,6,130,186,3,121,2010,Bangalore,M Chinnaswamy Stadium,Hyderabad,field,Hyderabad,wickets,7.0,TL Suman,Bangalore,Hyderabad,Bangalore,Hyderabad
+419146,154,9,121,158,4,119,2010,Chandigarh,Punjab Cricket Association Stadium,Mumbai,bat,Punjab,wickets,6.0,KC Sangakkara,Punjab,Mumbai,Mumbai,Punjab
+419147,138,8,123,139,4,121,2010,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",Chennai,bat,Hyderabad,wickets,6.0,RJ Harris,Hyderabad,Chennai,Chennai,Hyderabad
+419148,160,9,126,162,3,106,2010,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Bangalore,wickets,7.0,R Vinay Kumar,Bangalore,Kolkata,Kolkata,Bangalore
+419149,111,10,126,112,3,113,2010,Delhi,Feroz Shah Kotla,Delhi,bat,Punjab,wickets,7.0,PP Chawla,Delhi,Punjab,Delhi,Punjab
+419150,174,5,128,137,8,123,2010,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Mumbai,runs,37.0,SR Tendulkar,Rajasthan,Mumbai,Mumbai,Rajasthan
+419151,151,6,124,138,10,125,2010,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",Bangalore,field,Hyderabad,runs,13.0,Harmeet Singh,Hyderabad,Bangalore,Hyderabad,Bangalore
+419152,183,4,125,144,7,122,2010,Mumbai,"Brabourne Stadium, Mumbai",Mumbai,bat,Mumbai,runs,39.0,KA Pollard,Mumbai,Delhi,Mumbai,Delhi
+419153,139,8,126,143,1,86,2010,Chennai,MA Chidambaram Stadium,Kolkata,bat,Chennai,wickets,9.0,R Ashwin,Chennai,Kolkata,Kolkata,Chennai
+419154,130,6,123,132,5,94,2010,Jaipur,Sawai Mansingh Stadium,Rajasthan,bat,Bangalore,wickets,5.0,KP Pietersen,Rajasthan,Bangalore,Rajasthan,Bangalore
+419155,112,9,126,113,4,116,2010,Chennai,MA Chidambaram Stadium,Chennai,bat,Delhi,wickets,6.0,G Gambhir,Chennai,Delhi,Chennai,Delhi
+419156,174,3,125,178,5,122,2010,Dharamsala,Himachal Pradesh Cricket Association Stadium,Hyderabad,field,Hyderabad,wickets,5.0,RG Sharma,Punjab,Hyderabad,Punjab,Hyderabad
+419157,191,4,126,134,9,122,2010,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Mumbai,runs,57.0,R McLaren,Bangalore,Mumbai,Mumbai,Bangalore
+419158,132,9,121,133,2,104,2010,Kolkata,Eden Gardens,Rajasthan,bat,Kolkata,wickets,8.0,JD Unadkat,Kolkata,Rajasthan,Rajasthan,Kolkata
+419159,192,3,123,195,4,123,2010,Dharamsala,Himachal Pradesh Cricket Association Stadium,Chennai,field,Chennai,wickets,6.0,MS Dhoni,Punjab,Chennai,Punjab,Chennai
+419160,145,7,121,134,7,123,2010,Delhi,Feroz Shah Kotla,Hyderabad,bat,Hyderabad,runs,11.0,A Symonds,Delhi,Hyderabad,Hyderabad,Delhi
+419161,133,8,122,135,1,111,2010,Kolkata,Eden Gardens,Mumbai,bat,Kolkata,wickets,9.0,M Kartik,Kolkata,Mumbai,Mumbai,Kolkata
+419162,184,5,127,149,9,128,2010,Mumbai,Dr DY Patil Sports Academy,Mumbai,bat,Mumbai,runs,35.0,KA Pollard,Bangalore,Mumbai,Mumbai,Bangalore
+419163,142,7,123,104,10,118,2010,Mumbai,Dr DY Patil Sports Academy,Chennai,bat,Chennai,runs,38.0,DE Bollinger,Chennai,Hyderabad,Chennai,Hyderabad
+419164,82,10,114,86,1,84,2010,Mumbai,Dr DY Patil Sports Academy,Hyderabad,bat,Bangalore,wickets,9.0,A Kumble,Bangalore,Hyderabad,Hyderabad,Bangalore
+419165,168,5,124,146,9,125,2010,Mumbai,Dr DY Patil Sports Academy,Chennai,bat,Chennai,runs,22.0,SK Raina,Chennai,Mumbai,Chennai,Mumbai
+501198,153,4,121,151,7,123,2011,Chennai,MA Chidambaram Stadium,Chennai,bat,Chennai,runs,2.0,S Anirudha,Chennai,Kolkata,Chennai,Kolkata
+501199,137,8,121,141,2,116,2011,Hyderabad,Rajiv Gandhi International Stadium,Rajasthan,field,Rajasthan,wickets,8.0,SK Trivedi,Hyderabad,Rajasthan,Hyderabad,Rajasthan
+501200,161,5,124,162,4,121,2011,Kochi,Nehru Stadium,Kerala,bat,Bangalore,wickets,6.0,AB de Villiers,Kerala,Bangalore,Kerala,Bangalore
+501201,95,10,110,99,2,108,2011,Delhi,Feroz Shah Kotla,Delhi,bat,Mumbai,wickets,8.0,SL Malinga,Delhi,Mumbai,Delhi,Mumbai
+501202,112,8,125,113,3,82,2011,Mumbai,Dr DY Patil Sports Academy,Punjab,bat,Pune,wickets,7.0,SB Wagh,Pune,Punjab,Punjab,Pune
+501203,163,4,123,154,8,124,2011,Kolkata,Eden Gardens,Kolkata,bat,Kolkata,runs,9.0,JH Kallis,Kolkata,Hyderabad,Kolkata,Hyderabad
+501204,151,6,124,152,4,114,2011,Jaipur,Sawai Mansingh Stadium,Delhi,bat,Rajasthan,wickets,6.0,SK Warne,Rajasthan,Delhi,Delhi,Rajasthan
+501205,140,4,124,143,1,113,2011,Bangalore,M Chinnaswamy Stadium,Mumbai,field,Mumbai,wickets,9.0,SR Tendulkar,Bangalore,Mumbai,Bangalore,Mumbai
+501206,188,4,122,193,4,116,2011,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Punjab,wickets,6.0,PC Valthaty,Punjab,Chennai,Chennai,Punjab
+501207,148,8,123,151,6,123,2011,Mumbai,Dr DY Patil Sports Academy,Kerala,bat,Pune,wickets,4.0,MD Mishra,Pune,Kerala,Kerala,Pune
+501208,175,5,125,142,9,125,2011,Hyderabad,Rajiv Gandhi International Stadium,Bangalore,field,Hyderabad,runs,33.0,DW Steyn,Hyderabad,Bangalore,Hyderabad,Bangalore
+501209,159,4,128,160,1,114,2011,Jaipur,Sawai Mansingh Stadium,Kolkata,field,Kolkata,wickets,9.0,G Gambhir,Rajasthan,Kolkata,Rajasthan,Kolkata
+501210,182,2,126,184,2,121,2011,Mumbai,Wankhede Stadium,Kerala,field,Kerala,wickets,8.0,BB McCullum,Mumbai,Kerala,Mumbai,Kerala
+501211,183,5,121,162,7,125,2011,Chennai,MA Chidambaram Stadium,Chennai,bat,Chennai,runs,21.0,MEK Hussey,Chennai,Bangalore,Chennai,Bangalore
+501212,165,8,122,166,2,113,2011,Hyderabad,Rajiv Gandhi International Stadium,Punjab,field,Punjab,wickets,8.0,PC Valthaty,Hyderabad,Punjab,Hyderabad,Punjab
+501213,187,5,126,190,7,121,2011,Mumbai,Dr DY Patil Sports Academy,Delhi,field,Delhi,wickets,3.0,Yuvraj Singh,Pune,Delhi,Pune,Delhi
+501214,81,10,96,85,2,89,2011,Kolkata,Eden Gardens,Kolkata,field,Kolkata,wickets,8.0,L Balaji,Kolkata,Rajasthan,Rajasthan,Kolkata
+501215,131,4,104,135,3,92,2011,Kochi,Nehru Stadium,Kerala,field,Kerala,wickets,7.0,BB McCullum,Kerala,Chennai,Chennai,Kerala
+501216,168,4,122,152,7,122,2011,Delhi,Feroz Shah Kotla,Hyderabad,bat,Hyderabad,runs,16.0,S Sohal,Delhi,Hyderabad,Hyderabad,Delhi
+501218,118,10,109,124,3,121,2011,Mumbai,Wankhede Stadium,Pune,bat,Mumbai,wickets,7.0,MM Patel,Mumbai,Pune,Pune,Mumbai
+501219,132,7,123,126,9,122,2011,Kolkata,Eden Gardens,Kolkata,field,Kerala,runs,6.0,DPMD Jayawardene,Kolkata,Kerala,Kerala,Kolkata
+501220,195,7,128,147,7,121,2011,Chandigarh,Punjab Cricket Association Stadium,Rajasthan,field,Punjab,runs,48.0,SE Marsh,Punjab,Rajasthan,Punjab,Rajasthan
+501221,164,4,128,156,9,129,2011,Mumbai,Wankhede Stadium,Chennai,field,Mumbai,runs,8.0,Harbhajan Singh,Mumbai,Chennai,Mumbai,Chennai
+501222,171,5,129,175,1,113,2011,Kolkata,Eden Gardens,Bangalore,field,Bangalore,wickets,9.0,CH Gayle,Kolkata,Bangalore,Kolkata,Bangalore
+501223,231,4,126,202,6,123,2011,Delhi,Feroz Shah Kotla,Punjab,field,Delhi,runs,29.0,DA Warner,Delhi,Punjab,Delhi,Punjab
+501224,172,4,122,135,8,123,2011,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Mumbai,runs,37.0,SL Malinga,Hyderabad,Mumbai,Mumbai,Hyderabad
+501225,109,10,123,111,2,86,2011,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Rajasthan,wickets,8.0,SK Warne,Rajasthan,Kerala,Kerala,Rajasthan
+501226,142,6,123,117,9,123,2011,Chennai,MA Chidambaram Stadium,Pune,field,Chennai,runs,25.0,MEK Hussey,Chennai,Pune,Chennai,Pune
+501227,160,6,129,161,7,122,2011,Delhi,Feroz Shah Kotla,Bangalore,field,Bangalore,wickets,3.0,V Kohli,Delhi,Bangalore,Delhi,Bangalore
+501228,141,6,124,145,2,123,2011,Mumbai,Dr DY Patil Sports Academy,Pune,bat,Chennai,wickets,8.0,DE Bollinger,Pune,Chennai,Pune,Chennai
+501229,129,7,125,74,10,103,2011,Kochi,Nehru Stadium,Kerala,field,Hyderabad,runs,55.0,I Sharma,Kerala,Hyderabad,Hyderabad,Kerala
+501230,148,7,126,131,9,124,2011,Delhi,Feroz Shah Kotla,Delhi,field,Kolkata,runs,17.0,MK Tiwary,Delhi,Kolkata,Kolkata,Delhi
+501231,94,8,124,95,3,110,2011,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Rajasthan,wickets,7.0,J Botha,Rajasthan,Mumbai,Mumbai,Rajasthan
+501232,181,5,121,155,5,125,2011,Bangalore,M Chinnaswamy Stadium,Pune,field,Bangalore,runs,26.0,V Kohli,Bangalore,Pune,Bangalore,Pune
+501233,157,7,125,119,10,114,2011,Kochi,Nehru Stadium,Delhi,bat,Delhi,runs,38.0,V Sehwag,Kerala,Delhi,Delhi,Kerala
+501234,119,6,124,120,2,109,2011,Kolkata,Eden Gardens,Kolkata,field,Kolkata,wickets,8.0,Iqbal Abdulla,Kolkata,Punjab,Punjab,Kolkata
+501235,143,7,122,144,4,119,2011,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Rajasthan,wickets,6.0,LRPL Taylor,Rajasthan,Pune,Pune,Rajasthan
+501236,165,5,124,146,8,123,2011,Chennai,MA Chidambaram Stadium,Chennai,bat,Chennai,runs,19.0,JA Morkel,Chennai,Hyderabad,Chennai,Hyderabad
+501237,159,5,121,136,8,121,2011,Mumbai,Wankhede Stadium,Punjab,field,Mumbai,runs,23.0,KA Pollard,Mumbai,Punjab,Mumbai,Punjab
+501238,140,6,125,141,3,101,2011,Delhi,Feroz Shah Kotla,Kerala,field,Kerala,wickets,7.0,P Parameswaran,Delhi,Kerala,Delhi,Kerala
+501239,169,4,126,149,6,123,2011,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Kolkata,runs,20.0,YK Pathan,Hyderabad,Kolkata,Kolkata,Hyderabad
+501240,147,6,122,149,2,116,2011,Chennai,MA Chidambaram Stadium,Rajasthan,bat,Chennai,wickets,8.0,MEK Hussey,Chennai,Rajasthan,Rajasthan,Chennai
+501241,160,7,124,139,7,124,2011,Mumbai,Dr DY Patil Sports Academy,Pune,field,Mumbai,runs,21.0,R Sharma,Pune,Mumbai,Mumbai,Pune
+501242,156,5,125,139,7,122,2011,Kochi,Nehru Stadium,Kolkata,field,Kerala,runs,17.0,BJ Hodge,Kerala,Kolkata,Kerala,Kolkata
+501243,175,5,125,179,6,122,2011,Hyderabad,Rajiv Gandhi International Stadium,Delhi,field,Delhi,wickets,4.0,V Sehwag,Hyderabad,Delhi,Hyderabad,Delhi
+501244,205,6,121,120,9,125,2011,Bangalore,M Chinnaswamy Stadium,Punjab,field,Bangalore,runs,85.0,CH Gayle,Bangalore,Punjab,Bangalore,Punjab
+501245,114,4,123,61,2,63,2011,Kolkata,Eden Gardens,Chennai,bat,Kolkata,runs,10.0,Iqbal Abdulla,Kolkata,Chennai,Chennai,Kolkata
+501246,178,4,124,146,10,126,2011,Mumbai,Wankhede Stadium,Delhi,field,Mumbai,runs,32.0,AT Rayudu,Mumbai,Delhi,Mumbai,Delhi
+501247,125,9,129,128,1,82,2011,Bangalore,M Chinnaswamy Stadium,Kerala,bat,Bangalore,wickets,9.0,CH Gayle,Bangalore,Kerala,Kerala,Bangalore
+501248,119,8,120,120,5,109,2011,Chandigarh,Punjab Cricket Association Stadium,Punjab,bat,Pune,wickets,5.0,R Sharma,Punjab,Pune,Punjab,Pune
+501249,196,3,125,133,10,121,2011,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Chennai,runs,63.0,M Vijay,Rajasthan,Chennai,Chennai,Rajasthan
+501250,136,8,121,137,4,113,2011,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,bat,Pune,wickets,6.0,MR Marsh,Hyderabad,Pune,Hyderabad,Pune
+501251,163,8,123,87,10,81,2011,Chandigarh,Punjab Cricket Association Stadium,Mumbai,field,Punjab,runs,76.0,BA Bhatt,Punjab,Mumbai,Punjab,Mumbai
+501252,146,6,125,151,1,104,2011,Jaipur,Sawai Mansingh Stadium,Bangalore,field,Bangalore,wickets,9.0,S Aravind,Rajasthan,Bangalore,Rajasthan,Bangalore
+501253,176,4,122,158,6,124,2011,Chennai,MA Chidambaram Stadium,Chennai,bat,Chennai,runs,18.0,MS Dhoni,Chennai,Delhi,Chennai,Delhi
+501254,178,7,129,181,4,118,2011,Indore,Holkar Cricket Stadium,Punjab,field,Punjab,wickets,6.0,KD Karthik,Kerala,Punjab,Kerala,Punjab
+501255,89,4,80,105,6,79,2011,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Bangalore,wickets,4.0,CH Gayle,Bangalore,Kolkata,Kolkata,Bangalore
+501256,135,6,121,125,8,128,2011,Mumbai,Wankhede Stadium,Hyderabad,bat,Hyderabad,runs,10.0,A Mishra,Mumbai,Hyderabad,Hyderabad,Mumbai
+501257,170,6,127,141,8,124,2011,Dharamsala,Himachal Pradesh Cricket Association Stadium,Delhi,field,Punjab,runs,29.0,PP Chawla,Punjab,Delhi,Punjab,Delhi
+501258,97,10,113,98,2,48,2011,Indore,Holkar Cricket Stadium,Kerala,field,Kerala,wickets,8.0,BJ Hodge,Kerala,Rajasthan,Rajasthan,Kerala
+501259,136,9,122,138,4,121,2011,Mumbai,Dr DY Patil Sports Academy,Hyderabad,field,Hyderabad,wickets,6.0,A Mishra,Pune,Hyderabad,Pune,Hyderabad
+501260,232,2,126,121,10,106,2011,Dharamsala,Himachal Pradesh Cricket Association Stadium,Punjab,bat,Punjab,runs,111.0,AC Gilchrist,Punjab,Bangalore,Punjab,Bangalore
+501261,152,5,122,141,5,127,2011,Chennai,MA Chidambaram Stadium,Chennai,bat,Chennai,runs,11.0,WP Saha,Chennai,Kerala,Chennai,Kerala
+501262,118,7,124,119,3,103,2011,Mumbai,Dr DY Patil Sports Academy,Kolkata,field,Kolkata,wickets,7.0,YK Pathan,Pune,Kolkata,Pune,Kolkata
+501263,133,5,122,134,0,81,2011,Mumbai,Wankhede Stadium,Mumbai,bat,Rajasthan,wickets,10.0,SR Watson,Mumbai,Rajasthan,Mumbai,Rajasthan
+501264,198,2,123,116,10,116,2011,Dharamsala,Himachal Pradesh Cricket Association Stadium,Punjab,field,Hyderabad,runs,82.0,S Dhawan,Punjab,Hyderabad,Hyderabad,Punjab
+501266,128,8,126,129,2,116,2011,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Bangalore,wickets,8.0,CH Gayle,Bangalore,Chennai,Chennai,Bangalore
+501267,175,7,122,178,5,126,2011,Kolkata,Eden Gardens,Mumbai,field,Mumbai,wickets,5.0,JEC Franklin,Kolkata,Mumbai,Kolkata,Mumbai
+501268,175,4,125,177,4,124,2011,Mumbai,Wankhede Stadium,Chennai,field,Chennai,wickets,6.0,SK Raina,Bangalore,Chennai,Bangalore,Chennai
+501269,147,7,124,148,6,117,2011,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,4.0,MM Patel,Mumbai,Kolkata,Kolkata,Mumbai
+501270,185,4,129,142,8,122,2011,Chennai,MA Chidambaram Stadium,Mumbai,field,Bangalore,runs,43.0,CH Gayle,Bangalore,Mumbai,Bangalore,Mumbai
+501271,205,5,122,147,8,122,2011,Chennai,MA Chidambaram Stadium,Chennai,bat,Chennai,runs,58.0,M Vijay,Chennai,Bangalore,Chennai,Bangalore
+548306,112,10,126,115,3,104,2012,Chennai,MA Chidambaram Stadium,Mumbai,field,Mumbai,wickets,8.0,RE Levi,Chennai,Mumbai,Chennai,Mumbai
+548307,97,9,74,100,2,68,2012,Kolkata,Eden Gardens,Delhi,field,Delhi,wickets,8.0,IK Pathan,Kolkata,Delhi,Kolkata,Delhi
+548308,129,9,123,101,9,124,2012,Mumbai,Wankhede Stadium,Mumbai,field,Pune,runs,28.0,SPD Smith,Mumbai,Pune,Pune,Mumbai
+548309,191,4,127,160,9,122,2012,Jaipur,Sawai Mansingh Stadium,Punjab,field,Rajasthan,runs,31.0,AM Rahane,Rajasthan,Punjab,Rajasthan,Punjab
+548310,157,8,122,137,7,122,2012,Bangalore,M Chinnaswamy Stadium,Delhi,field,Bangalore,runs,20.0,AB de Villiers,Bangalore,Delhi,Bangalore,Delhi
+548311,193,6,127,119,10,106,2012,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Hyderabad,field,Chennai,runs,74.0,RA Jadeja,Hyderabad,Chennai,Chennai,Hyderabad
+548312,164,5,123,142,10,125,2012,Jaipur,Sawai Mansingh Stadium,Kolkata,field,Rajasthan,runs,22.0,BJ Hodge,Rajasthan,Kolkata,Rajasthan,Kolkata
+548313,166,6,124,144,8,124,2012,Pune,Subrata Roy Sahara Stadium,Pune,bat,Pune,runs,22.0,MN Samuels,Pune,Punjab,Pune,Punjab
+548314,138,9,123,142,5,120,2012,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Hyderabad,bat,Mumbai,wickets,5.0,RG Sharma,Hyderabad,Mumbai,Hyderabad,Mumbai
+548315,165,8,122,123,9,127,2012,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Kolkata,runs,42.0,L Balaji,Bangalore,Kolkata,Kolkata,Bangalore
+548316,110,8,124,111,2,80,2012,Delhi,Feroz Shah Kotla,Delhi,field,Delhi,wickets,8.0,M Morkel,Delhi,Chennai,Chennai,Delhi
+548317,197,6,120,170,10,121,2012,Mumbai,Wankhede Stadium,Rajasthan,field,Mumbai,runs,27.0,KA Pollard,Mumbai,Rajasthan,Mumbai,Rajasthan
+548318,205,8,130,208,5,124,2012,Chennai,MA Chidambaram Stadium,Bangalore,bat,Chennai,wickets,5.0,F du Plessis,Chennai,Bangalore,Bangalore,Chennai
+548319,115,10,119,116,3,106,2012,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Punjab,wickets,7.0,AD Mascarenhas,Punjab,Pune,Pune,Punjab
+548320,131,5,125,137,5,121,2012,Kolkata,Eden Gardens,Rajasthan,bat,Kolkata,wickets,5.0,Shakib Al Hasan,Kolkata,Rajasthan,Rajasthan,Kolkata
+548321,157,8,126,162,5,119,2012,Delhi,Feroz Shah Kotla,Hyderabad,bat,Delhi,wickets,5.0,KP Pietersen,Delhi,Hyderabad,Hyderabad,Delhi
+548322,155,5,124,156,3,119,2012,Pune,Subrata Roy Sahara Stadium,Chennai,bat,Pune,wickets,7.0,JD Ryder,Pune,Chennai,Chennai,Pune
+548323,134,9,121,132,7,122,2012,Kolkata,Eden Gardens,Kolkata,field,Punjab,runs,2.0,SP Narine,Kolkata,Punjab,Punjab,Kolkata
+548324,195,2,121,136,10,120,2012,Bangalore,M Chinnaswamy Stadium,Rajasthan,bat,Rajasthan,runs,59.0,AM Rahane,Bangalore,Rajasthan,Rajasthan,Bangalore
+548325,92,10,120,93,3,95,2012,Mumbai,Wankhede Stadium,Delhi,field,Delhi,wickets,7.0,S Nadeem,Mumbai,Delhi,Mumbai,Delhi
+548326,196,2,125,197,5,124,2012,Jaipur,Sawai Mansingh Stadium,Hyderabad,bat,Rajasthan,wickets,5.0,BJ Hodge,Rajasthan,Hyderabad,Hyderabad,Rajasthan
+548327,182,6,123,186,4,124,2012,Bangalore,M Chinnaswamy Stadium,Pune,bat,Bangalore,wickets,6.0,CH Gayle,Bangalore,Pune,Pune,Bangalore
+548328,124,7,122,127,2,100,2012,Chandigarh,Punjab Cricket Association Stadium,Punjab,bat,Kolkata,wickets,8.0,G Gambhir,Punjab,Kolkata,Punjab,Kolkata
+548329,187,4,121,193,1,104,2012,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,bat,Delhi,wickets,9.0,DA Warner,Hyderabad,Delhi,Hyderabad,Delhi
+548330,164,5,121,151,7,124,2012,Chennai,MA Chidambaram Stadium,Pune,field,Chennai,runs,13.0,KMDN Kulasekara,Chennai,Pune,Chennai,Pune
+548331,163,6,123,166,5,125,2012,Chandigarh,Punjab Cricket Association Stadium,Bangalore,field,Bangalore,wickets,5.0,CH Gayle,Punjab,Bangalore,Punjab,Bangalore
+548332,146,4,123,147,3,121,2012,Chennai,MA Chidambaram Stadium,Rajasthan,bat,Chennai,wickets,7.0,F du Plessis,Chennai,Rajasthan,Rajasthan,Chennai
+548333,192,3,130,172,7,122,2012,Delhi,Feroz Shah Kotla,Delhi,field,Pune,runs,20.0,SC Ganguly,Delhi,Pune,Pune,Delhi
+548334,163,6,125,164,4,121,2012,Mumbai,Wankhede Stadium,Mumbai,bat,Punjab,wickets,6.0,SE Marsh,Mumbai,Punjab,Mumbai,Punjab
+548335,126,7,121,127,5,121,2012,Cuttack,Barabati Stadium,Kolkata,field,Kolkata,wickets,5.0,B Lee,Hyderabad,Kolkata,Hyderabad,Kolkata
+548336,189,3,125,143,7,124,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Bangalore,runs,46.0,AB de Villiers,Rajasthan,Bangalore,Bangalore,Rajasthan
+548337,146,2,120,148,2,98,2012,Pune,Subrata Roy Sahara Stadium,Pune,bat,Delhi,wickets,8.0,V Sehwag,Pune,Delhi,Pune,Delhi
+548339,168,3,126,171,6,123,2012,Chandigarh,Punjab Cricket Association Stadium,Punjab,bat,Mumbai,wickets,4.0,AT Rayudu,Punjab,Mumbai,Punjab,Mumbai
+548341,177,4,122,159,7,126,2012,Pune,Subrata Roy Sahara Stadium,Hyderabad,bat,Hyderabad,runs,18.0,CL White,Pune,Hyderabad,Hyderabad,Pune
+548342,207,5,125,170,9,124,2012,Delhi,Feroz Shah Kotla,Mumbai,field,Delhi,runs,37.0,V Sehwag,Delhi,Mumbai,Delhi,Mumbai
+548343,156,8,125,149,8,123,2012,Chennai,MA Chidambaram Stadium,Punjab,bat,Punjab,runs,7.0,Mandeep Singh,Chennai,Punjab,Punjab,Chennai
+548344,190,4,124,143,6,123,2012,Kolkata,Eden Gardens,Kolkata,bat,Kolkata,runs,47.0,G Gambhir,Kolkata,Bangalore,Kolkata,Bangalore
+548345,152,6,123,151,3,124,2012,Delhi,Feroz Shah Kotla,Delhi,bat,Delhi,runs,1.0,V Sehwag,Delhi,Rajasthan,Delhi,Rajasthan
+548346,100,10,115,101,5,117,2012,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,5.0,DW Steyn,Mumbai,Hyderabad,Hyderabad,Mumbai
+548347,139,5,123,140,5,127,2012,Chennai,MA Chidambaram Stadium,Chennai,bat,Kolkata,wickets,5.0,G Gambhir,Chennai,Kolkata,Chennai,Kolkata
+548348,186,4,121,173,5,125,2012,Cuttack,Barabati Stadium,Hyderabad,bat,Hyderabad,runs,13.0,KC Sangakkara,Hyderabad,Pune,Hyderabad,Pune
+548349,141,6,123,144,4,93,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan,bat,Delhi,wickets,6.0,P Negi,Rajasthan,Delhi,Rajasthan,Delhi
+548350,158,5,124,163,6,120,2012,Bangalore,M Chinnaswamy Stadium,Punjab,field,Punjab,wickets,4.0,Azhar Mahmood,Bangalore,Punjab,Bangalore,Punjab
+548351,120,9,123,119,6,126,2012,Pune,Subrata Roy Sahara Stadium,Mumbai,bat,Mumbai,runs,1.0,SL Malinga,Pune,Mumbai,Mumbai,Pune
+548352,160,6,123,150,5,122,2012,Chennai,MA Chidambaram Stadium,Chennai,bat,Chennai,runs,10.0,SK Raina,Chennai,Hyderabad,Chennai,Hyderabad
+548353,150,5,129,143,8,126,2012,Kolkata,Eden Gardens,Kolkata,bat,Kolkata,runs,7.0,SP Narine,Kolkata,Pune,Kolkata,Pune
+548354,177,6,124,134,8,127,2012,Chandigarh,Punjab Cricket Association Stadium,Rajasthan,bat,Rajasthan,runs,43.0,SR Watson,Punjab,Rajasthan,Rajasthan,Punjab
+548355,173,8,125,174,8,123,2012,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,2.0,DR Smith,Mumbai,Chennai,Chennai,Mumbai
+548356,181,2,123,185,5,117,2012,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Bangalore,wickets,5.0,AB de Villiers,Bangalore,Hyderabad,Hyderabad,Bangalore
+548357,153,9,123,154,4,119,2012,Delhi,Feroz Shah Kotla,Delhi,bat,Kolkata,wickets,6.0,JH Kallis,Delhi,Kolkata,Delhi,Kolkata
+548358,125,6,123,126,3,98,2012,Pune,Subrata Roy Sahara Stadium,Pune,bat,Rajasthan,wickets,7.0,SR Watson,Pune,Rajasthan,Pune,Rajasthan
+548359,170,5,123,145,8,123,2012,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Punjab,runs,25.0,Mandeep Singh,Hyderabad,Punjab,Punjab,Hyderabad
+548360,141,6,122,142,1,111,2012,Mumbai,Wankhede Stadium,Bangalore,field,Bangalore,wickets,9.0,CH Gayle,Mumbai,Bangalore,Mumbai,Bangalore
+548361,126,6,126,127,6,117,2012,Jaipur,Sawai Mansingh Stadium,Chennai,field,Chennai,wickets,4.0,BW Hilfenhaus,Rajasthan,Chennai,Rajasthan,Chennai
+548362,173,3,125,138,9,121,2012,Pune,Subrata Roy Sahara Stadium,Pune,field,Bangalore,runs,35.0,CH Gayle,Pune,Bangalore,Bangalore,Pune
+548363,182,1,123,155,4,122,2012,Kolkata,Eden Gardens,Mumbai,bat,Mumbai,runs,27.0,RG Sharma,Kolkata,Mumbai,Mumbai,Kolkata
+548364,114,5,125,115,1,93,2012,Chennai,MA Chidambaram Stadium,Chennai,field,Chennai,wickets,9.0,BW Hilfenhaus,Chennai,Delhi,Delhi,Chennai
+548365,170,4,122,125,9,122,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan,bat,Rajasthan,runs,45.0,A Chandila,Rajasthan,Pune,Rajasthan,Pune
+548366,190,4,123,194,6,122,2012,Chandigarh,Punjab Cricket Association Stadium,Hyderabad,bat,Punjab,wickets,4.0,DJ Hussey,Punjab,Hyderabad,Hyderabad,Punjab
+548367,171,6,131,173,5,125,2012,Bangalore,M Chinnaswamy Stadium,Mumbai,field,Mumbai,wickets,5.0,AT Rayudu,Bangalore,Mumbai,Bangalore,Mumbai
+548368,158,6,121,160,5,121,2012,Kolkata,Eden Gardens,Chennai,field,Chennai,wickets,5.0,MEK Hussey,Kolkata,Chennai,Kolkata,Chennai
+548369,136,8,121,140,5,115,2012,Delhi,Feroz Shah Kotla,Punjab,bat,Delhi,wickets,5.0,UT Yadav,Delhi,Punjab,Punjab,Delhi
+548370,140,7,128,108,10,117,2012,Mumbai,Wankhede Stadium,Mumbai,field,Kolkata,runs,32.0,SP Narine,Mumbai,Kolkata,Kolkata,Mumbai
+548371,120,7,121,123,4,101,2012,Dharamsala,Himachal Pradesh Cricket Association Stadium,Punjab,field,Punjab,wickets,6.0,AC Gilchrist,Punjab,Chennai,Chennai,Punjab
+548372,215,1,124,194,9,124,2012,Delhi,Feroz Shah Kotla,Delhi,field,Bangalore,runs,21.0,CH Gayle,Delhi,Bangalore,Bangalore,Delhi
+548373,126,8,124,128,5,119,2012,Hyderabad,Rajiv Gandhi International Stadium,Rajasthan,bat,Hyderabad,wickets,5.0,DW Steyn,Hyderabad,Rajasthan,Rajasthan,Hyderabad
+548374,141,8,123,145,4,113,2012,Dharamsala,Himachal Pradesh Cricket Association Stadium,Delhi,field,Delhi,wickets,6.0,UT Yadav,Punjab,Delhi,Punjab,Delhi
+548375,136,4,122,102,8,124,2012,Pune,Subrata Roy Sahara Stadium,Kolkata,bat,Kolkata,runs,34.0,Shakib Al Hasan,Pune,Kolkata,Kolkata,Pune
+548376,132,7,124,123,9,123,2012,Hyderabad,Rajiv Gandhi International Stadium,Bangalore,field,Hyderabad,runs,9.0,DW Steyn,Hyderabad,Bangalore,Hyderabad,Bangalore
+548377,162,6,132,163,0,118,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan,bat,Mumbai,wickets,10.0,DR Smith,Rajasthan,Mumbai,Rajasthan,Mumbai
+548378,162,4,122,144,8,124,2012,Pune,Subrata Roy Sahara Stadium,Kolkata,bat,Kolkata,runs,18.0,YK Pathan,Delhi,Kolkata,Kolkata,Delhi
+548379,187,5,123,149,9,126,2012,Bangalore,M Chinnaswamy Stadium,Mumbai,field,Chennai,runs,38.0,MS Dhoni,Chennai,Mumbai,Chennai,Mumbai
+548380,222,5,123,136,10,106,2012,Chennai,MA Chidambaram Stadium,Delhi,field,Chennai,runs,86.0,M Vijay,Delhi,Chennai,Chennai,Delhi
+548381,190,3,124,192,5,124,2012,Chennai,MA Chidambaram Stadium,Chennai,bat,Kolkata,wickets,5.0,MS Bisla,Kolkata,Chennai,Chennai,Kolkata
+597998,128,10,124,129,4,115,2013,Kolkata,Eden Gardens,Kolkata,field,Kolkata,wickets,6.0,SP Narine,Kolkata,Delhi,Delhi,Kolkata
+597999,156,5,125,154,5,122,2013,Bangalore,M Chinnaswamy Stadium,Mumbai,field,Bangalore,runs,2.0,CH Gayle,Bangalore,Mumbai,Bangalore,Mumbai
+598000,126,6,122,104,10,115,2013,Hyderabad,Rajiv Gandhi International Stadium,Pune,field,Hyderabad,runs,22.0,A Mishra,Hyderabad,Pune,Hyderabad,Pune
+598001,165,7,122,160,6,126,2013,Delhi,Feroz Shah Kotla,Rajasthan,bat,Rajasthan,runs,5.0,R Dravid,Delhi,Rajasthan,Rajasthan,Delhi
+598002,148,6,126,139,9,126,2013,Chennai,MA Chidambaram Stadium,Mumbai,bat,Mumbai,runs,9.0,KA Pollard,Chennai,Mumbai,Mumbai,Chennai
+598003,99,9,121,100,2,77,2013,Pune,Subrata Roy Sahara Stadium,Pune,bat,Punjab,wickets,8.0,M Vohra,Pune,Punjab,Pune,Punjab
+598005,144,6,122,125,10,120,2013,Jaipur,Sawai Mansingh Stadium,Kolkata,field,Rajasthan,runs,19.0,SK Trivedi,Rajasthan,Kolkata,Rajasthan,Kolkata
+598006,209,5,124,165,9,124,2013,Mumbai,Wankhede Stadium,Mumbai,bat,Mumbai,runs,44.0,KD Karthik,Mumbai,Delhi,Mumbai,Delhi
+598007,138,10,121,139,0,106,2013,Chandigarh,Punjab Cricket Association Stadium,Chennai,field,Chennai,wickets,10.0,MEK Hussey,Punjab,Chennai,Punjab,Chennai
+598008,154,8,123,158,2,114,2013,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Bangalore,wickets,8.0,CH Gayle,Bangalore,Kolkata,Kolkata,Bangalore
+598009,145,5,123,148,3,116,2013,Pune,Subrata Roy Sahara Stadium,Rajasthan,bat,Pune,wickets,7.0,AJ Finch,Pune,Rajasthan,Rajasthan,Pune
+598010,114,8,125,115,7,118,2013,Delhi,Feroz Shah Kotla,Delhi,bat,Hyderabad,wickets,3.0,A Mishra,Delhi,Hyderabad,Delhi,Hyderabad
+598011,183,3,123,142,8,124,2013,Mumbai,Wankhede Stadium,Mumbai,bat,Mumbai,runs,41.0,RG Sharma,Mumbai,Pune,Mumbai,Pune
+598012,165,6,127,166,6,126,2013,Chennai,MA Chidambaram Stadium,Chennai,field,Chennai,wickets,4.0,RA Jadeja,Chennai,Bangalore,Bangalore,Chennai
+598013,180,4,124,132,7,123,2013,Kolkata,Eden Gardens,Kolkata,bat,Kolkata,runs,48.0,G Gambhir,Kolkata,Hyderabad,Kolkata,Hyderabad
+598014,124,10,116,126,4,119,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Rajasthan,wickets,6.0,JP Faulkner,Rajasthan,Punjab,Punjab,Rajasthan
+598015,159,5,122,135,8,122,2013,Chennai,MA Chidambaram Stadium,Pune,bat,Pune,runs,24.0,SPD Smith,Chennai,Pune,Pune,Chennai
+598016,157,9,123,153,9,125,2013,Chandigarh,Punjab Cricket Association Stadium,Kolkata,field,Punjab,runs,4.0,MS Gony,Punjab,Kolkata,Punjab,Kolkata
+598018,119,8,125,108,10,114,2013,Pune,Maharashtra Cricket Association Stadium,Pune,field,Hyderabad,runs,11.0,A Mishra,Pune,Hyderabad,Hyderabad,Pune
+598019,179,3,128,92,10,113,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan,bat,Rajasthan,runs,87.0,AM Rahane,Rajasthan,Mumbai,Rajasthan,Mumbai
+598020,169,4,125,83,10,109,2013,Delhi,Feroz Shah Kotla,Chennai,bat,Chennai,runs,86.0,MEK Hussey,Delhi,Chennai,Chennai,Delhi
+598021,123,9,122,127,5,114,2013,Hyderabad,Rajiv Gandhi International Stadium,Punjab,bat,Hyderabad,wickets,5.0,GH Vihari,Hyderabad,Punjab,Punjab,Hyderabad
+598022,119,9,121,124,6,116,2013,Kolkata,Eden Gardens,Kolkata,bat,Chennai,wickets,4.0,RA Jadeja,Kolkata,Chennai,Kolkata,Chennai
+598023,117,10,118,123,3,114,2013,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Bangalore,wickets,7.0,R Vinay Kumar,Bangalore,Rajasthan,Rajasthan,Bangalore
+598024,161,4,122,165,1,106,2013,Delhi,Feroz Shah Kotla,Mumbai,bat,Delhi,wickets,9.0,V Sehwag,Delhi,Mumbai,Mumbai,Delhi
+598025,185,4,124,186,3,120,2013,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Punjab,wickets,7.0,DA Miller,Punjab,Pune,Pune,Punjab
+598026,185,4,127,186,5,121,2013,Chennai,MA Chidambaram Stadium,Rajasthan,bat,Chennai,wickets,5.0,MEK Hussey,Chennai,Rajasthan,Rajasthan,Chennai
+598027,263,5,128,133,9,123,2013,Bangalore,M Chinnaswamy Stadium,Pune,field,Bangalore,runs,130.0,CH Gayle,Bangalore,Pune,Bangalore,Pune
+598028,171,4,123,164,7,121,2013,Dharamsala,Himachal Pradesh Cricket Association Stadium,Delhi,field,Punjab,runs,7.0,DA Miller,Punjab,Delhi,Punjab,Delhi
+598029,159,6,122,162,5,119,2013,Kolkata,Eden Gardens,Kolkata,bat,Mumbai,wickets,5.0,DR Smith,Kolkata,Mumbai,Kolkata,Mumbai
+598030,159,6,123,160,5,123,2013,Chennai,MA Chidambaram Stadium,Hyderabad,bat,Chennai,wickets,5.0,MS Dhoni,Chennai,Hyderabad,Hyderabad,Chennai
+598031,149,6,120,150,4,113,2013,Kolkata,Eden Gardens,Punjab,bat,Kolkata,wickets,6.0,JH Kallis,Kolkata,Punjab,Punjab,Kolkata
+598032,144,9,129,146,2,108,2013,Jaipur,Sawai Mansingh Stadium,Hyderabad,bat,Rajasthan,wickets,8.0,JP Faulkner,Rajasthan,Hyderabad,Hyderabad,Rajasthan
+598033,194,7,123,136,7,124,2013,Mumbai,Wankhede Stadium,Mumbai,bat,Mumbai,runs,58.0,DR Smith,Mumbai,Bangalore,Mumbai,Bangalore
+598034,200,3,122,186,4,127,2013,Chennai,MA Chidambaram Stadium,Kolkata,field,Chennai,runs,14.0,MEK Hussey,Chennai,Kolkata,Chennai,Kolkata
+598035,164,5,128,149,4,123,2013,Raipur,Shaheed Veer Narayan Singh International Stadium,Pune,field,Delhi,runs,15.0,DA Warner,Delhi,Pune,Delhi,Pune
+598036,171,6,125,173,6,121,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Rajasthan,wickets,4.0,SV Samson,Rajasthan,Bangalore,Bangalore,Rajasthan
+598037,174,3,125,170,10,126,2013,Mumbai,Wankhede Stadium,Mumbai,bat,Mumbai,runs,4.0,RG Sharma,Mumbai,Punjab,Mumbai,Punjab
+598038,164,3,121,127,9,124,2013,Pune,Subrata Roy Sahara Stadium,Chennai,bat,Chennai,runs,37.0,MS Dhoni,Pune,Chennai,Chennai,Pune
+598039,129,4,125,130,3,111,2013,Hyderabad,Rajiv Gandhi International Stadium,Mumbai,bat,Hyderabad,wickets,7.0,I Sharma,Hyderabad,Mumbai,Mumbai,Hyderabad
+598040,136,7,125,137,3,108,2013,Raipur,Shaheed Veer Narayan Singh International Stadium,Kolkata,bat,Delhi,wickets,7.0,DA Warner,Delhi,Kolkata,Kolkata,Delhi
+598041,186,4,122,171,6,120,2013,Chennai,MA Chidambaram Stadium,Chennai,bat,Chennai,runs,15.0,SK Raina,Chennai,Punjab,Chennai,Punjab
+598042,187,3,123,170,9,124,2013,Pune,Subrata Roy Sahara Stadium,Bangalore,bat,Bangalore,runs,17.0,AB de Villiers,Pune,Bangalore,Bangalore,Pune
+598043,132,6,126,133,2,108,2013,Kolkata,Eden Gardens,Rajasthan,bat,Kolkata,wickets,8.0,YK Pathan,Kolkata,Rajasthan,Rajasthan,Kolkata
+598044,80,10,117,81,4,86,2013,Hyderabad,Rajiv Gandhi International Stadium,Delhi,bat,Hyderabad,wickets,6.0,DJG Sammy,Hyderabad,Delhi,Delhi,Hyderabad
+598045,174,5,126,176,3,113,2013,Bangalore,M Chinnaswamy Stadium,Punjab,field,Punjab,wickets,7.0,AC Gilchrist,Bangalore,Punjab,Bangalore,Punjab
+598046,139,5,124,79,10,96,2013,Mumbai,Wankhede Stadium,Mumbai,bat,Mumbai,runs,60.0,MG Johnson,Mumbai,Chennai,Mumbai,Chennai
+598047,178,4,127,182,5,122,2013,Jaipur,Sawai Mansingh Stadium,Pune,bat,Rajasthan,wickets,5.0,AM Rahane,Rajasthan,Pune,Pune,Rajasthan
+598048,161,6,125,162,3,110,2013,Bangalore,M Chinnaswamy Stadium,Hyderabad,bat,Bangalore,wickets,7.0,V Kohli,Bangalore,Hyderabad,Hyderabad,Bangalore
+598049,154,4,125,155,1,112,2013,Jaipur,Sawai Mansingh Stadium,Delhi,bat,Rajasthan,wickets,9.0,AM Rahane,Rajasthan,Delhi,Delhi,Rajasthan
+598050,170,6,126,105,10,110,2013,Mumbai,Wankhede Stadium,Mumbai,bat,Mumbai,runs,65.0,SR Tendulkar,Mumbai,Kolkata,Mumbai,Kolkata
+598051,223,3,128,146,8,124,2013,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Chennai,runs,77.0,SK Raina,Hyderabad,Chennai,Chennai,Hyderabad
+598052,145,6,123,147,2,117,2013,Chandigarh,Punjab Cricket Association Stadium,Rajasthan,field,Rajasthan,wickets,8.0,KK Cooper,Punjab,Rajasthan,Punjab,Rajasthan
+598053,152,6,124,106,10,120,2013,Pune,Subrata Roy Sahara Stadium,Kolkata,bat,Kolkata,runs,46.0,G Gambhir,Pune,Kolkata,Kolkata,Pune
+598054,183,4,124,179,7,125,2013,Delhi,Feroz Shah Kotla,Delhi,field,Bangalore,runs,4.0,JD Unadkat,Delhi,Bangalore,Bangalore,Delhi
+598055,112,8,121,116,5,116,2013,Pune,Subrata Roy Sahara Stadium,Pune,bat,Mumbai,wickets,5.0,MG Johnson,Pune,Mumbai,Pune,Mumbai
+598056,150,7,121,120,9,122,2013,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Hyderabad,runs,30.0,PA Patel,Punjab,Hyderabad,Hyderabad,Punjab
+598057,115,9,121,116,5,120,2013,Ranchi,JSCA International Stadium Complex,Kolkata,field,Kolkata,wickets,5.0,JH Kallis,Kolkata,Bangalore,Bangalore,Kolkata
+598058,141,4,123,144,5,104,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Rajasthan,wickets,5.0,SR Watson,Rajasthan,Chennai,Chennai,Rajasthan
+598059,120,7,123,121,5,103,2013,Delhi,Feroz Shah Kotla,Punjab,field,Punjab,wickets,5.0,Harmeet Singh,Delhi,Punjab,Delhi,Punjab
+598060,178,3,126,184,4,122,2013,Mumbai,Wankhede Stadium,Hyderabad,bat,Mumbai,wickets,7.0,KA Pollard,Mumbai,Hyderabad,Hyderabad,Mumbai
+598061,170,4,121,163,7,123,2013,Ranchi,JSCA International Stadium Complex,Kolkata,field,Pune,runs,7.0,MK Pandey,Kolkata,Pune,Pune,Kolkata
+598062,168,4,124,135,9,124,2013,Chennai,MA Chidambaram Stadium,Chennai,bat,Chennai,runs,33.0,MS Dhoni,Chennai,Delhi,Chennai,Delhi
+598063,166,8,124,152,7,124,2013,Mumbai,Wankhede Stadium,Rajasthan,field,Mumbai,runs,14.0,AP Tare,Mumbai,Rajasthan,Mumbai,Rajasthan
+598064,190,3,125,194,4,113,2013,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Punjab,wickets,6.0,DA Miller,Punjab,Bangalore,Bangalore,Punjab
+598065,136,9,124,113,9,121,2013,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,bat,Hyderabad,runs,23.0,A Mishra,Hyderabad,Rajasthan,Hyderabad,Rajasthan
+598066,183,8,124,133,9,118,2013,Dharamsala,Himachal Pradesh Cricket Association Stadium,Mumbai,field,Punjab,runs,50.0,Azhar Mahmood,Punjab,Mumbai,Punjab,Mumbai
+598067,172,5,123,134,9,127,2013,Pune,Subrata Roy Sahara Stadium,Pune,bat,Pune,runs,38.0,LJ Wright,Pune,Delhi,Pune,Delhi
+598068,106,2,50,82,6,50,2013,Bangalore,M Chinnaswamy Stadium,Chennai,field,Bangalore,runs,24.0,V Kohli,Bangalore,Chennai,Bangalore,Chennai
+598069,130,7,123,132,5,117,2013,Hyderabad,Rajiv Gandhi International Stadium,Kolkata,bat,Hyderabad,wickets,5.0,PA Patel,Hyderabad,Kolkata,Kolkata,Hyderabad
+598070,192,1,120,144,10,114,2013,Delhi,Feroz Shah Kotla,Chennai,bat,Chennai,runs,48.0,MEK Hussey,Chennai,Mumbai,Chennai,Mumbai
+598071,132,7,124,135,6,118,2013,Delhi,Feroz Shah Kotla,Hyderabad,bat,Rajasthan,wickets,4.0,BJ Hodge,Rajasthan,Hyderabad,Hyderabad,Rajasthan
+598072,165,6,125,169,6,123,2013,Kolkata,Eden Gardens,Rajasthan,bat,Mumbai,wickets,4.0,Harbhajan Singh,Mumbai,Rajasthan,Rajasthan,Mumbai
+598073,148,9,123,125,9,127,2013,Kolkata,Eden Gardens,Mumbai,bat,Mumbai,runs,23.0,KA Pollard,Chennai,Mumbai,Mumbai,Chennai
+729279,163,5,124,122,7,121,2014,Abu Dhabi,Sheikh Zayed Stadium,Kolkata,bat,Kolkata,runs,41.0,JH Kallis,Mumbai,Kolkata,Kolkata,Mumbai
+729281,145,4,126,146,2,104,2014,UAE,Sharjah Cricket Stadium,Bangalore,field,Bangalore,wickets,8.0,YS Chahal,Delhi,Bangalore,Delhi,Bangalore
+729283,205,4,128,206,4,118,2014,Abu Dhabi,Sheikh Zayed Stadium,Chennai,bat,Punjab,wickets,6.0,GJ Maxwell,Chennai,Punjab,Chennai,Punjab
+729285,133,6,125,135,6,119,2014,Abu Dhabi,Sheikh Zayed Stadium,Rajasthan,field,Rajasthan,wickets,4.0,AM Rahane,Hyderabad,Rajasthan,Hyderabad,Rajasthan
+729287,115,9,124,116,3,106,2014,UAE,Dubai International Cricket Stadium,Bangalore,field,Bangalore,wickets,7.0,PA Patel,Bangalore,Mumbai,Mumbai,Bangalore
+729289,166,5,129,167,6,120,2014,UAE,Dubai International Cricket Stadium,Kolkata,bat,Delhi,wickets,4.0,JP Duminy,Kolkata,Delhi,Kolkata,Delhi
+729291,191,5,123,193,3,116,2014,UAE,Sharjah Cricket Stadium,Punjab,field,Punjab,wickets,7.0,GJ Maxwell,Rajasthan,Punjab,Rajasthan,Punjab
+729293,177,7,123,84,9,96,2014,Abu Dhabi,Sheikh Zayed Stadium,Chennai,bat,Chennai,runs,93.0,SK Raina,Chennai,Delhi,Chennai,Delhi
+729295,193,6,124,121,10,121,2014,UAE,Sharjah Cricket Stadium,Hyderabad,field,Punjab,runs,72.0,GJ Maxwell,Punjab,Hyderabad,Punjab,Hyderabad
+729297,140,6,127,133,10,121,2014,UAE,Dubai International Cricket Stadium,Rajasthan,field,Chennai,runs,7.0,RA Jadeja,Rajasthan,Chennai,Chennai,Rajasthan
+729299,150,7,124,148,5,123,2014,UAE,Sharjah Cricket Stadium,Bangalore,field,Kolkata,runs,2.0,CA Lynn,Bangalore,Kolkata,Kolkata,Bangalore
+729301,184,1,122,180,4,123,2014,UAE,Dubai International Cricket Stadium,Hyderabad,bat,Hyderabad,runs,4.0,AJ Finch,Hyderabad,Delhi,Hyderabad,Delhi
+729303,141,7,120,142,3,117,2014,UAE,Dubai International Cricket Stadium,Mumbai,bat,Chennai,wickets,7.0,MM Sharma,Chennai,Mumbai,Mumbai,Chennai
+729305,70,10,91,71,4,80,2014,Abu Dhabi,Sheikh Zayed Stadium,Rajasthan,field,Rajasthan,wickets,6.0,PV Tambe,Rajasthan,Bangalore,Bangalore,Rajasthan
+729307,132,9,122,109,10,115,2014,Abu Dhabi,Sheikh Zayed Stadium,Kolkata,field,Punjab,runs,23.0,Sandeep Sharma,Kolkata,Punjab,Punjab,Kolkata
+729309,125,7,124,126,4,114,2014,UAE,Sharjah Cricket Stadium,Mumbai,bat,Delhi,wickets,6.0,M Vijay,Delhi,Mumbai,Mumbai,Delhi
+729311,145,5,123,146,5,117,2014,UAE,Sharjah Cricket Stadium,Hyderabad,bat,Chennai,wickets,5.0,DR Smith,Hyderabad,Chennai,Hyderabad,Chennai
+729313,124,8,121,127,5,119,2014,UAE,Dubai International Cricket Stadium,Punjab,field,Punjab,wickets,5.0,Sandeep Sharma,Punjab,Bangalore,Bangalore,Punjab
+729317,172,5,125,157,7,126,2014,UAE,Dubai International Cricket Stadium,Mumbai,field,Hyderabad,runs,15.0,B Kumar,Mumbai,Hyderabad,Hyderabad,Mumbai
+733971,148,3,103,114,9,103,2014,Ranchi,JSCA International Stadium Complex,Chennai,bat,Chennai,runs,34.0,RA Jadeja,Chennai,Kolkata,Chennai,Kolkata
+733973,168,5,125,170,5,118,2014,Mumbai,Wankhede Stadium,Punjab,bat,Mumbai,wickets,5.0,CJ Anderson,Mumbai,Punjab,Punjab,Mumbai
+733975,152,5,121,156,3,114,2014,Delhi,Feroz Shah Kotla,Rajasthan,field,Rajasthan,wickets,7.0,KK Nair,Delhi,Rajasthan,Delhi,Rajasthan
+733977,155,6,127,158,6,123,2014,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Bangalore,wickets,4.0,AB de Villiers,Bangalore,Hyderabad,Hyderabad,Bangalore
+733979,170,6,124,160,6,125,2014,Ahmedabad,Sardar Patel Stadium,Kolkata,field,Rajasthan,runs,10.0,PV Tambe,Rajasthan,Kolkata,Rajasthan,Kolkata
+733981,178,5,124,181,2,120,2014,Delhi,Feroz Shah Kotla,Chennai,field,Chennai,wickets,8.0,DR Smith,Delhi,Chennai,Delhi,Chennai
+733983,187,5,128,168,8,124,2014,Mumbai,Wankhede Stadium,Bangalore,field,Mumbai,runs,19.0,RG Sharma,Mumbai,Bangalore,Mumbai,Bangalore
+733985,160,5,122,161,2,111,2014,Delhi,Feroz Shah Kotla,Delhi,bat,Kolkata,wickets,8.0,G Gambhir,Delhi,Kolkata,Delhi,Kolkata
+733987,231,4,125,187,6,123,2014,Cuttack,Barabati Stadium,Chennai,field,Punjab,runs,44.0,GJ Maxwell,Punjab,Chennai,Punjab,Chennai
+733989,134,9,122,102,10,124,2014,Ahmedabad,Sardar Patel Stadium,Rajasthan,field,Hyderabad,runs,32.0,B Kumar,Rajasthan,Hyderabad,Hyderabad,Rajasthan
+733991,198,8,131,166,9,124,2014,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Punjab,runs,32.0,Sandeep Sharma,Bangalore,Punjab,Punjab,Bangalore
+733993,143,7,121,44,2,30,2014,Delhi,Feroz Shah Kotla,Hyderabad,field,Hyderabad,wickets,8.0,DW Steyn,Delhi,Hyderabad,Delhi,Hyderabad
+733995,157,6,124,160,6,122,2014,Mumbai,Wankhede Stadium,Chennai,field,Chennai,wickets,4.0,DR Smith,Mumbai,Chennai,Mumbai,Chennai
+733997,149,8,122,150,1,111,2014,Cuttack,Barabati Stadium,Kolkata,field,Kolkata,wickets,9.0,G Gambhir,Punjab,Kolkata,Punjab,Kolkata
+733999,190,5,125,191,5,118,2014,Bangalore,M Chinnaswamy Stadium,Bangalore,bat,Rajasthan,wickets,5.0,JP Faulkner,Bangalore,Rajasthan,Bangalore,Rajasthan
+734001,157,3,124,160,3,115,2014,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,bat,Mumbai,wickets,7.0,AT Rayudu,Hyderabad,Mumbai,Hyderabad,Mumbai
+734003,148,8,123,149,5,123,2014,Ranchi,JSCA International Stadium Complex,Rajasthan,bat,Chennai,wickets,5.0,RA Jadeja,Chennai,Rajasthan,Rajasthan,Chennai
+734005,186,4,125,170,7,124,2014,Bangalore,M Chinnaswamy Stadium,Delhi,field,Bangalore,runs,16.0,Yuvraj Singh,Bangalore,Delhi,Bangalore,Delhi
+734007,205,5,129,211,4,113,2014,Hyderabad,Rajiv Gandhi International Stadium,Punjab,field,Punjab,wickets,6.0,WP Saha,Hyderabad,Punjab,Hyderabad,Punjab
+734009,141,5,125,142,4,116,2014,Cuttack,Barabati Stadium,Kolkata,field,Kolkata,wickets,6.0,RV Uthappa,Kolkata,Mumbai,Mumbai,Kolkata
+734011,201,6,125,139,9,126,2014,Ahmedabad,Sardar Patel Stadium,Delhi,field,Rajasthan,runs,62.0,AM Rahane,Rajasthan,Delhi,Rajasthan,Delhi
+734013,138,4,123,142,5,122,2014,Ranchi,JSCA International Stadium Complex,Chennai,bat,Bangalore,wickets,5.0,AB de Villiers,Chennai,Bangalore,Chennai,Bangalore
+734015,142,8,126,146,3,118,2014,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,bat,Kolkata,wickets,7.0,UT Yadav,Hyderabad,Kolkata,Hyderabad,Kolkata
+734017,178,3,123,153,8,127,2014,Ahmedabad,Sardar Patel Stadium,Mumbai,bat,Mumbai,runs,25.0,MEK Hussey,Rajasthan,Mumbai,Mumbai,Rajasthan
+734019,164,7,124,165,6,129,2014,Delhi,Feroz Shah Kotla,Punjab,field,Punjab,wickets,4.0,AR Patel,Delhi,Punjab,Delhi,Punjab
+734021,160,6,123,161,3,121,2014,Hyderabad,Rajiv Gandhi International Stadium,Bangalore,bat,Hyderabad,wickets,7.0,DA Warner,Hyderabad,Bangalore,Bangalore,Hyderabad
+734023,154,4,123,156,2,109,2014,Kolkata,Eden Gardens,Kolkata,field,Kolkata,wickets,8.0,RV Uthappa,Kolkata,Chennai,Chennai,Kolkata
+734025,156,8,123,159,3,120,2014,Chandigarh,Punjab Cricket Association Stadium,Mumbai,field,Mumbai,wickets,7.0,LMP Simmons,Punjab,Mumbai,Punjab,Mumbai
+734027,195,4,125,165,5,122,2014,Kolkata,Eden Gardens,Bangalore,field,Kolkata,runs,30.0,RV Uthappa,Kolkata,Bangalore,Kolkata,Bangalore
+734029,185,3,121,189,4,121,2014,Ranchi,JSCA International Stadium Complex,Hyderabad,field,Hyderabad,wickets,6.0,DA Warner,Chennai,Hyderabad,Chennai,Hyderabad
+734031,173,10,120,158,4,123,2014,Mumbai,Wankhede Stadium,Delhi,field,Mumbai,runs,15.0,MEK Hussey,Mumbai,Delhi,Mumbai,Delhi
+734033,179,4,124,163,8,123,2014,Chandigarh,Punjab Cricket Association Stadium,Rajasthan,field,Punjab,runs,16.0,SE Marsh,Punjab,Rajasthan,Punjab,Rajasthan
+734035,154,6,124,160,2,107,2014,Bangalore,M Chinnaswamy Stadium,Chennai,field,Chennai,wickets,8.0,MS Dhoni,Bangalore,Chennai,Bangalore,Chennai
+734037,160,7,124,161,6,90,2014,Kolkata,Eden Gardens,Kolkata,field,Kolkata,wickets,4.0,YK Pathan,Kolkata,Hyderabad,Hyderabad,Kolkata
+734039,115,10,111,119,3,89,2014,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Punjab,wickets,7.0,M Vohra,Punjab,Delhi,Delhi,Punjab
+734041,189,4,123,195,5,92,2014,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,5.0,CJ Anderson,Mumbai,Rajasthan,Rajasthan,Mumbai
+734043,163,8,123,135,8,122,2014,Kolkata,Eden Gardens,Punjab,field,Kolkata,runs,28.0,UT Yadav,Punjab,Kolkata,Kolkata,Punjab
+734045,173,8,120,176,3,118,2014,Mumbai,"Brabourne Stadium, Mumbai",Chennai,field,Chennai,wickets,7.0,SK Raina,Chennai,Mumbai,Mumbai,Chennai
+734047,226,6,129,202,7,128,2014,Mumbai,Wankhede Stadium,Chennai,field,Punjab,runs,24.0,V Sehwag,Chennai,Punjab,Punjab,Chennai
+734049,199,4,122,200,7,123,2014,Bangalore,M Chinnaswamy Stadium,Kolkata,field,Kolkata,wickets,3.0,MK Pandey,Kolkata,Punjab,Punjab,Kolkata
+829705,168,3,122,170,3,113,2015,Kolkata,Eden Gardens,Kolkata,field,Kolkata,wickets,7.0,M Morkel,Kolkata,Mumbai,Mumbai,Kolkata
+829707,150,7,123,149,9,125,2015,Chennai,MA Chidambaram Stadium,Delhi,field,Chennai,runs,1.0,A Nehra,Chennai,Delhi,Chennai,Delhi
+829709,162,7,128,136,8,127,2015,Pune,Maharashtra Cricket Association Stadium,Punjab,field,Rajasthan,runs,26.0,JP Faulkner,Punjab,Rajasthan,Rajasthan,Punjab
+829711,209,4,128,164,6,124,2015,Chennai,MA Chidambaram Stadium,Chennai,bat,Chennai,runs,45.0,BB McCullum,Chennai,Hyderabad,Chennai,Hyderabad
+829713,177,6,123,179,7,115,2015,Kolkata,Eden Gardens,Bangalore,field,Bangalore,wickets,3.0,CH Gayle,Kolkata,Bangalore,Kolkata,Bangalore
+829715,184,3,127,186,7,125,2015,Delhi,Feroz Shah Kotla,Rajasthan,field,Rajasthan,wickets,3.0,DJ Hooda,Delhi,Rajasthan,Delhi,Rajasthan
+829717,177,5,123,159,7,125,2015,Mumbai,Wankhede Stadium,Mumbai,field,Punjab,runs,18.0,GJ Bailey,Mumbai,Punjab,Punjab,Mumbai
+829719,166,10,126,172,2,111,2015,Bangalore,M Chinnaswamy Stadium,Hyderabad,field,Hyderabad,wickets,8.0,DA Warner,Bangalore,Hyderabad,Bangalore,Hyderabad
+829721,164,6,121,165,3,119,2015,Ahmedabad,Sardar Patel Stadium,Mumbai,bat,Rajasthan,wickets,7.0,SPD Smith,Rajasthan,Mumbai,Mumbai,Rajasthan
+829723,165,9,122,169,3,124,2015,Kolkata,Eden Gardens,Kolkata,field,Kolkata,wickets,7.0,AD Russell,Kolkata,Chennai,Chennai,Kolkata
+829725,165,7,126,169,5,127,2015,Pune,Maharashtra Cricket Association Stadium,Punjab,bat,Delhi,wickets,5.0,MA Agarwal,Punjab,Delhi,Punjab,Delhi
+829727,127,5,125,131,4,124,2015,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Rajasthan,field,Rajasthan,wickets,6.0,AM Rahane,Hyderabad,Rajasthan,Hyderabad,Rajasthan
+829729,183,7,124,189,4,111,2015,Mumbai,Wankhede Stadium,Mumbai,bat,Chennai,wickets,6.0,A Nehra,Mumbai,Chennai,Mumbai,Chennai
+829731,167,4,126,163,8,121,2015,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi,bat,Delhi,runs,4.0,JP Duminy,Hyderabad,Delhi,Delhi,Hyderabad
+829733,155,9,123,159,6,108,2015,Pune,Maharashtra Cricket Association Stadium,Kolkata,field,Kolkata,wickets,4.0,AD Russell,Punjab,Kolkata,Punjab,Kolkata
+829735,156,4,123,157,2,111,2015,Ahmedabad,Sardar Patel Stadium,Chennai,bat,Rajasthan,wickets,8.0,AM Rahane,Rajasthan,Chennai,Chennai,Rajasthan
+829737,209,7,128,191,7,134,2015,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Mumbai,runs,18.0,Harbhajan Singh,Bangalore,Mumbai,Mumbai,Bangalore
+829739,146,8,126,147,4,112,2015,Delhi,Feroz Shah Kotla,Kolkata,field,Kolkata,wickets,6.0,UT Yadav,Delhi,Kolkata,Delhi,Kolkata
+829743,176,4,122,101,4,74,2015,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Kolkata,field,Hyderabad,runs,16.0,DA Warner,Hyderabad,Kolkata,Hyderabad,Kolkata
+829745,181,8,123,154,8,121,2015,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Chennai,runs,27.0,SK Raina,Bangalore,Chennai,Chennai,Bangalore
+829747,190,4,127,153,9,128,2015,Delhi,Feroz Shah Kotla,Mumbai,field,Delhi,runs,37.0,SS Iyer,Delhi,Mumbai,Delhi,Mumbai
+829749,130,9,123,134,1,97,2015,Ahmedabad,Sardar Patel Stadium,Bangalore,field,Bangalore,wickets,9.0,MA Starc,Rajasthan,Bangalore,Rajasthan,Bangalore
+829751,157,8,129,137,8,123,2015,Mumbai,Wankhede Stadium,Mumbai,bat,Mumbai,runs,20.0,SL Malinga,Mumbai,Hyderabad,Mumbai,Hyderabad
+829753,192,3,126,95,9,122,2015,Chennai,MA Chidambaram Stadium,Chennai,bat,Chennai,runs,97.0,BB McCullum,Chennai,Punjab,Chennai,Punjab
+829757,95,10,116,99,0,65,2015,Delhi,Feroz Shah Kotla,Bangalore,field,Bangalore,wickets,10.0,VR Aaron,Delhi,Bangalore,Delhi,Bangalore
+829759,150,6,120,130,9,125,2015,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Hyderabad,runs,20.0,TA Boult,Punjab,Hyderabad,Hyderabad,Punjab
+829761,171,7,125,158,6,125,2015,Kolkata,Eden Gardens,Kolkata,bat,Kolkata,runs,13.0,PP Chawla,Kolkata,Delhi,Kolkata,Delhi
+829765,134,6,127,132,9,123,2015,Chennai,MA Chidambaram Stadium,Kolkata,field,Chennai,runs,2.0,DJ Bravo,Chennai,Kolkata,Chennai,Kolkata
+829767,118,8,123,119,1,89,2015,Delhi,Feroz Shah Kotla,Delhi,field,Delhi,wickets,9.0,NM Coulter-Nile,Delhi,Punjab,Punjab,Delhi
+829769,187,5,125,179,7,128,2015,Mumbai,Wankhede Stadium,Rajasthan,field,Mumbai,runs,8.0,AT Rayudu,Mumbai,Rajasthan,Mumbai,Rajasthan
+829771,111,4,65,115,3,62,2015,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Bangalore,wickets,7.0,Mandeep Singh,Bangalore,Kolkata,Kolkata,Bangalore
+829773,192,7,124,170,6,124,2015,Hyderabad,Rajiv Gandhi International Stadium,Chennai,field,Hyderabad,runs,22.0,DA Warner,Hyderabad,Chennai,Hyderabad,Chennai
+829775,172,3,122,149,7,123,2015,Chandigarh,Punjab Cricket Association Stadium,Mumbai,bat,Mumbai,runs,23.0,LMP Simmons,Punjab,Mumbai,Mumbai,Punjab
+829777,189,2,124,175,7,131,2015,Mumbai,"Brabourne Stadium, Mumbai",Delhi,field,Rajasthan,runs,14.0,AM Rahane,Rajasthan,Delhi,Rajasthan,Delhi
+829779,148,9,125,124,10,119,2015,Chennai,MA Chidambaram Stadium,Chennai,bat,Chennai,runs,24.0,SK Raina,Chennai,Bangalore,Chennai,Bangalore
+829781,167,7,121,132,9,124,2015,Kolkata,Eden Gardens,Hyderabad,field,Kolkata,runs,35.0,UT Yadav,Kolkata,Hyderabad,Kolkata,Hyderabad
+829783,152,6,121,153,5,123,2015,Mumbai,Wankhede Stadium,Delhi,bat,Mumbai,wickets,5.0,Harbhajan Singh,Mumbai,Delhi,Delhi,Mumbai
+829785,226,3,128,88,10,84,2015,Bangalore,M Chinnaswamy Stadium,Punjab,field,Bangalore,runs,138.0,CH Gayle,Bangalore,Punjab,Bangalore,Punjab
+829787,201,4,126,194,7,121,2015,Mumbai,"Brabourne Stadium, Mumbai",Rajasthan,field,Hyderabad,runs,7.0,EJG Morgan,Rajasthan,Hyderabad,Hyderabad,Rajasthan
+829789,158,5,122,159,4,117,2015,Chennai,MA Chidambaram Stadium,Chennai,bat,Mumbai,wickets,6.0,HH Pandya,Chennai,Mumbai,Chennai,Mumbai
+829791,183,5,123,184,9,123,2015,Kolkata,Eden Gardens,Punjab,bat,Kolkata,wickets,1.0,AD Russell,Kolkata,Punjab,Punjab,Kolkata
+829793,163,4,123,157,4,121,2015,Raipur,Shaheed Veer Narayan Singh International Stadium,Hyderabad,bat,Hyderabad,runs,6.0,MC Henriques,Delhi,Hyderabad,Hyderabad,Delhi
+829795,235,1,125,196,7,123,2015,Mumbai,Wankhede Stadium,Bangalore,bat,Bangalore,runs,39.0,AB de Villiers,Mumbai,Bangalore,Bangalore,Mumbai
+829797,157,5,123,145,9,124,2015,Chennai,MA Chidambaram Stadium,Chennai,bat,Chennai,runs,12.0,RA Jadeja,Chennai,Rajasthan,Chennai,Rajasthan
+829799,185,5,124,180,7,124,2015,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,bat,Hyderabad,runs,5.0,DA Warner,Hyderabad,Punjab,Hyderabad,Punjab
+829801,119,6,120,120,4,100,2015,Raipur,Shaheed Veer Narayan Singh International Stadium,Chennai,bat,Delhi,wickets,6.0,Z Khan,Delhi,Chennai,Chennai,Delhi
+829803,106,6,63,84,6,63,2015,Chandigarh,Punjab Cricket Association Stadium,Bangalore,field,Punjab,runs,22.0,AR Patel,Punjab,Bangalore,Punjab,Bangalore
+829805,171,4,129,166,7,127,2015,Mumbai,Wankhede Stadium,Kolkata,field,Mumbai,runs,5.0,HH Pandya,Mumbai,Kolkata,Mumbai,Kolkata
+829807,135,3,70,83,4,36,2015,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,bat,Bangalore,wickets,6.0,V Kohli,Hyderabad,Bangalore,Hyderabad,Bangalore
+829809,130,7,123,134,3,106,2015,Chandigarh,Punjab Cricket Association Stadium,Punjab,bat,Chennai,wickets,7.0,P Negi,Punjab,Chennai,Punjab,Chennai
+829811,199,6,125,190,9,134,2015,Mumbai,"Brabourne Stadium, Mumbai",Rajasthan,bat,Rajasthan,runs,9.0,SR Watson,Rajasthan,Kolkata,Rajasthan,Kolkata
+829815,113,10,124,114,1,88,2015,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,bat,Mumbai,wickets,9.0,MJ McClenaghan,Hyderabad,Mumbai,Hyderabad,Mumbai
+829817,187,6,129,162,10,119,2015,Mumbai,Wankhede Stadium,Mumbai,bat,Mumbai,runs,25.0,KA Pollard,Chennai,Mumbai,Mumbai,Chennai
+829819,180,4,125,109,10,117,2015,Pune,Maharashtra Cricket Association Stadium,Bangalore,bat,Bangalore,runs,71.0,AB de Villiers,Bangalore,Rajasthan,Bangalore,Rajasthan
+829821,139,8,125,140,7,122,2015,Ranchi,JSCA International Stadium Complex,Chennai,field,Chennai,wickets,3.0,A Nehra,Chennai,Bangalore,Bangalore,Chennai
+829823,202,5,121,161,8,125,2015,Kolkata,Eden Gardens,Chennai,field,Mumbai,runs,41.0,RG Sharma,Mumbai,Chennai,Mumbai,Chennai
+980901,121,8,126,126,1,92,2016,Mumbai,Wankhede Stadium,Mumbai,bat,Pune,wickets,9.0,AM Rahane,Mumbai,Pune,Mumbai,Pune
+980903,98,10,110,99,1,90,2016,Kolkata,Eden Gardens,Kolkata,field,Kolkata,wickets,9.0,AD Russell,Kolkata,Delhi,Delhi,Kolkata
+980905,161,6,124,162,5,109,2016,Chandigarh,Punjab Cricket Association Stadium,Gujarat,field,Gujarat,wickets,5.0,AJ Finch,Punjab,Gujarat,Punjab,Gujarat
+980907,227,4,125,182,6,125,2016,Bangalore,M Chinnaswamy Stadium,Hyderabad,field,Bangalore,runs,45.0,AB de Villiers,Bangalore,Hyderabad,Bangalore,Hyderabad
+980909,187,5,127,188,4,119,2016,Kolkata,Eden Gardens,Mumbai,field,Mumbai,wickets,6.0,RG Sharma,Kolkata,Mumbai,Kolkata,Mumbai
+980911,163,5,120,164,3,113,2016,Rajkot,Saurashtra Cricket Association Stadium,Pune,bat,Gujarat,wickets,7.0,AJ Finch,Gujarat,Pune,Pune,Gujarat
+980913,111,9,123,113,2,84,2016,Delhi,Feroz Shah Kotla,Delhi,field,Delhi,wickets,8.0,A Mishra,Delhi,Punjab,Punjab,Delhi
+980915,142,7,125,146,2,115,2016,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,bat,Kolkata,wickets,8.0,G Gambhir,Hyderabad,Kolkata,Hyderabad,Kolkata
+980917,143,8,127,147,7,124,2016,Mumbai,Wankhede Stadium,Gujarat,field,Gujarat,wickets,3.0,AJ Finch,Mumbai,Gujarat,Mumbai,Gujarat
+980919,152,7,123,153,4,114,2016,Chandigarh,Punjab Cricket Association Stadium,Pune,bat,Punjab,wickets,6.0,M Vohra,Punjab,Pune,Pune,Punjab
+980921,191,5,121,192,3,122,2016,Bangalore,M Chinnaswamy Stadium,Delhi,field,Delhi,wickets,7.0,Q de Kock,Bangalore,Delhi,Bangalore,Delhi
+980923,142,6,126,145,3,108,2016,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Hyderabad,wickets,7.0,DA Warner,Hyderabad,Mumbai,Mumbai,Hyderabad
+980925,138,8,125,141,4,106,2016,Chandigarh,Punjab Cricket Association Stadium,Kolkata,field,Kolkata,wickets,6.0,RV Uthappa,Punjab,Kolkata,Punjab,Kolkata
+980927,170,7,126,171,4,111,2016,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,6.0,RG Sharma,Mumbai,Bangalore,Bangalore,Mumbai
+980929,135,8,123,137,0,94,2016,Rajkot,Saurashtra Cricket Association Stadium,Hyderabad,field,Hyderabad,wickets,10.0,B Kumar,Gujarat,Hyderabad,Gujarat,Hyderabad
+980931,185,3,128,172,9,126,2016,Pune,Maharashtra Cricket Association Stadium,Pune,field,Bangalore,runs,13.0,AB de Villiers,Pune,Bangalore,Bangalore,Pune
+980933,164,4,129,154,7,122,2016,Delhi,Feroz Shah Kotla,Mumbai,field,Delhi,runs,10.0,SV Samson,Delhi,Mumbai,Delhi,Mumbai
+980935,143,6,123,146,5,112,2016,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Hyderabad,wickets,5.0,Mustafizur Rahman,Hyderabad,Punjab,Punjab,Hyderabad
+980937,180,2,122,182,4,124,2016,Rajkot,Saurashtra Cricket Association Stadium,Bangalore,bat,Gujarat,wickets,6.0,V Kohli,Gujarat,Bangalore,Bangalore,Gujarat
+980939,160,5,120,162,8,124,2016,Pune,Maharashtra Cricket Association Stadium,Kolkata,field,Kolkata,wickets,2.0,SA Yadav,Pune,Kolkata,Pune,Kolkata
+980941,189,6,124,164,7,123,2016,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Mumbai,runs,25.0,PA Patel,Punjab,Mumbai,Mumbai,Punjab
+980943,118,8,123,94,3,73,2016,Hyderabad,Rajiv Gandhi International Stadium,Pune,field,Pune,runs,34.0,AB Dinda,Hyderabad,Pune,Hyderabad,Pune
+980945,172,6,121,171,5,121,2016,Delhi,Feroz Shah Kotla,Delhi,field,Gujarat,runs,1.0,CH Morris,Delhi,Gujarat,Gujarat,Delhi
+980947,174,5,120,178,4,113,2016,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,6.0,RG Sharma,Mumbai,Kolkata,Kolkata,Mumbai
+980949,195,3,125,196,7,127,2016,Pune,Maharashtra Cricket Association Stadium,Gujarat,field,Gujarat,wickets,3.0,DR Smith,Pune,Gujarat,Pune,Gujarat
+980951,186,8,123,159,10,117,2016,Delhi,Feroz Shah Kotla,Kolkata,field,Delhi,runs,27.0,CR Brathwaite,Delhi,Kolkata,Delhi,Kolkata
+980953,194,5,124,179,6,122,2016,Hyderabad,Rajiv Gandhi International Stadium,Bangalore,field,Hyderabad,runs,15.0,DA Warner,Hyderabad,Bangalore,Hyderabad,Bangalore
+980955,154,10,122,131,9,123,2016,Rajkot,Saurashtra Cricket Association Stadium,Gujarat,field,Punjab,runs,23.0,AR Patel,Gujarat,Punjab,Punjab,Gujarat
+980957,159,5,127,161,2,113,2016,Pune,Maharashtra Cricket Association Stadium,Mumbai,field,Mumbai,wickets,8.0,RG Sharma,Pune,Mumbai,Pune,Mumbai
+980959,185,7,124,189,5,124,2016,Bangalore,M Chinnaswamy Stadium,Kolkata,field,Kolkata,wickets,5.0,AD Russell,Bangalore,Kolkata,Bangalore,Kolkata
+980961,149,7,123,150,2,106,2016,Rajkot,Saurashtra Cricket Association Stadium,Delhi,field,Delhi,wickets,8.0,RR Pant,Gujarat,Delhi,Gujarat,Delhi
+980963,164,3,123,157,9,124,2016,Kolkata,Eden Gardens,Punjab,field,Kolkata,runs,7.0,AD Russell,Kolkata,Punjab,Kolkata,Punjab
+980965,162,7,127,166,3,121,2016,Delhi,Feroz Shah Kotla,Pune,field,Pune,wickets,7.0,AM Rahane,Delhi,Pune,Delhi,Pune
+980967,126,6,125,129,5,117,2016,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Hyderabad,wickets,5.0,B Kumar,Hyderabad,Gujarat,Gujarat,Hyderabad
+980969,191,6,126,195,3,118,2016,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Bangalore,wickets,7.0,V Kohli,Bangalore,Pune,Pune,Bangalore
+980971,181,5,123,172,5,122,2016,Chandigarh,Punjab Cricket Association Stadium,Delhi,field,Punjab,runs,9.0,MP Stoinis,Punjab,Delhi,Punjab,Delhi
+980973,177,3,123,92,10,103,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Mumbai,field,Hyderabad,runs,85.0,A Nehra,Mumbai,Hyderabad,Hyderabad,Mumbai
+980975,158,4,123,164,5,109,2016,Kolkata,Eden Gardens,Gujarat,field,Gujarat,wickets,5.0,P Kumar,Kolkata,Gujarat,Kolkata,Gujarat
+980977,175,6,124,174,4,122,2016,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Bangalore,runs,1.0,SR Watson,Punjab,Bangalore,Bangalore,Punjab
+980979,137,8,123,133,8,121,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Hyderabad,bat,Hyderabad,runs,4.0,A Zampa,Pune,Hyderabad,Hyderabad,Pune
+980981,151,4,122,153,4,122,2016,Bangalore,M Chinnaswamy Stadium,Mumbai,field,Mumbai,wickets,6.0,KH Pandya,Bangalore,Mumbai,Bangalore,Mumbai
+980983,146,8,125,150,3,112,2016,Hyderabad,Rajiv Gandhi International Stadium,Delhi,field,Delhi,wickets,7.0,CH Morris,Hyderabad,Delhi,Hyderabad,Delhi
+980985,124,9,122,127,3,106,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Mumbai,bat,Punjab,wickets,7.0,MP Stoinis,Mumbai,Punjab,Mumbai,Punjab
+980987,248,3,122,104,10,120,2016,Bangalore,M Chinnaswamy Stadium,Gujarat,field,Bangalore,runs,144.0,AB de Villiers,Bangalore,Gujarat,Bangalore,Gujarat
+980989,103,6,108,66,2,34,2016,Kolkata,Eden Gardens,Pune,bat,Kolkata,wickets,8.0,YK Pathan,Kolkata,Pune,Pune,Kolkata
+980991,179,4,120,180,3,123,2016,Chandigarh,Punjab Cricket Association Stadium,Punjab,bat,Hyderabad,wickets,7.0,HM Amla,Punjab,Hyderabad,Punjab,Hyderabad
+980993,206,4,121,126,10,116,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi,field,Mumbai,runs,80.0,KH Pandya,Mumbai,Delhi,Mumbai,Delhi
+980995,183,5,125,186,1,114,2016,Kolkata,Eden Gardens,Bangalore,field,Bangalore,wickets,9.0,V Kohli,Kolkata,Bangalore,Kolkata,Bangalore
+980997,121,6,122,76,1,71,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Pune,field,Pune,runs,19.0,AB Dinda,Pune,Delhi,Delhi,Pune
+980999,211,3,97,120,9,89,2016,Bangalore,M Chinnaswamy Stadium,Punjab,field,Bangalore,runs,82.0,V Kohli,Bangalore,Punjab,Bangalore,Punjab
+981001,124,8,125,125,4,89,2016,Kanpur,Green Park,Gujarat,field,Gujarat,wickets,6.0,DR Smith,Gujarat,Kolkata,Kolkata,Gujarat
+981003,158,7,121,161,4,126,2016,Raipur,Shaheed Veer Narayan Singh International Stadium,Delhi,field,Delhi,wickets,6.0,KK Nair,Delhi,Hyderabad,Hyderabad,Delhi
+981005,172,7,123,173,6,127,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Punjab,bat,Pune,wickets,4.0,MS Dhoni,Pune,Punjab,Punjab,Pune
+981007,172,8,125,173,4,111,2016,Kanpur,Green Park,Gujarat,field,Gujarat,wickets,6.0,SK Raina,Gujarat,Mumbai,Mumbai,Gujarat
+981009,171,6,123,149,8,124,2016,Kolkata,Eden Gardens,Hyderabad,field,Kolkata,runs,22.0,YK Pathan,Kolkata,Hyderabad,Kolkata,Hyderabad
+981011,138,8,125,139,4,111,2016,Raipur,Shaheed Veer Narayan Singh International Stadium,Bangalore,field,Bangalore,wickets,6.0,V Kohli,Delhi,Bangalore,Delhi,Bangalore
+981013,158,10,125,159,6,115,2016,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Bangalore,wickets,4.0,AB de Villiers,Gujarat,Bangalore,Gujarat,Bangalore
+981015,162,8,124,140,8,120,2016,Delhi,Feroz Shah Kotla,Kolkata,field,Hyderabad,runs,22.0,MC Henriques,Hyderabad,Kolkata,Hyderabad,Kolkata
+981017,162,7,125,163,6,117,2016,Delhi,Feroz Shah Kotla,Hyderabad,field,Hyderabad,wickets,4.0,DA Warner,Gujarat,Hyderabad,Gujarat,Hyderabad
+981019,208,7,126,200,7,124,2016,Bangalore,M Chinnaswamy Stadium,Hyderabad,bat,Hyderabad,runs,8.0,BCJ Cutting,Bangalore,Hyderabad,Hyderabad,Bangalore
+1082591,207,4,125,172,10,123,2017,Hyderabad,Rajiv Gandhi International Stadium,Bangalore,field,Hyderabad,runs,35.0,Yuvraj Singh,Hyderabad,Bangalore,Hyderabad,Bangalore
+1082592,184,8,125,187,3,122,2017,Pune,Maharashtra Cricket Association Stadium,Pune,field,Pune,wickets,7.0,SPD Smith,Pune,Mumbai,Mumbai,Pune
+1082593,183,4,122,184,0,96,2017,Rajkot,Saurashtra Cricket Association Stadium,Kolkata,field,Kolkata,wickets,10.0,CA Lynn,Gujarat,Kolkata,Gujarat,Kolkata
+1082594,163,6,125,164,4,122,2017,Indore,Holkar Cricket Stadium,Punjab,field,Punjab,wickets,6.0,GJ Maxwell,Punjab,Pune,Pune,Punjab
+1082595,157,8,124,142,9,124,2017,Bengaluru,M.Chinnaswamy Stadium,Bangalore,bat,Bangalore,runs,15.0,KM Jadhav,Bangalore,Delhi,Bangalore,Delhi
+1082596,135,7,120,140,1,96,2017,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Hyderabad,wickets,9.0,Rashid Khan,Hyderabad,Gujarat,Gujarat,Hyderabad
+1082597,178,7,128,180,6,126,2017,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,4.0,N Rana,Mumbai,Kolkata,Kolkata,Mumbai
+1082598,148,4,123,150,2,89,2017,Indore,Holkar Cricket Stadium,Bangalore,bat,Punjab,wickets,8.0,AR Patel,Punjab,Bangalore,Bangalore,Punjab
+1082599,205,4,125,108,10,101,2017,Pune,Maharashtra Cricket Association Stadium,Pune,field,Delhi,runs,97.0,SV Samson,Pune,Delhi,Delhi,Pune
+1082600,158,8,126,159,6,113,2017,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,4.0,JJ Bumrah,Mumbai,Hyderabad,Hyderabad,Mumbai
+1082601,170,9,130,171,2,104,2017,Kolkata,Eden Gardens,Kolkata,field,Kolkata,wickets,8.0,SP Narine,Kolkata,Punjab,Punjab,Kolkata
+1082602,142,5,124,145,6,119,2017,Bangalore,M Chinnaswamy Stadium,Mumbai,field,Mumbai,wickets,4.0,KA Pollard,Bangalore,Mumbai,Bangalore,Mumbai
+1082603,171,8,124,172,3,112,2017,Rajkot,Saurashtra Cricket Association Stadium,Gujarat,field,Gujarat,wickets,7.0,AJ Tye,Gujarat,Pune,Pune,Gujarat
+1082604,172,6,126,155,6,124,2017,Kolkata,Eden Gardens,Hyderabad,field,Kolkata,runs,17.0,RV Uthappa,Kolkata,Hyderabad,Kolkata,Hyderabad
+1082605,188,6,127,137,9,121,2017,Delhi,Feroz Shah Kotla,Delhi,bat,Delhi,runs,51.0,CJ Anderson,Delhi,Punjab,Delhi,Punjab
+1082606,176,4,126,177,4,125,2017,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,6.0,N Rana,Mumbai,Gujarat,Gujarat,Mumbai
+1082607,161,8,126,134,9,124,2017,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Pune,runs,27.0,BA Stokes,Bangalore,Pune,Pune,Bangalore
+1082608,168,7,122,169,6,123,2017,Delhi,Feroz Shah Kotla,Delhi,bat,Kolkata,wickets,4.0,NM Coulter-Nile,Delhi,Kolkata,Delhi,Kolkata
+1082609,159,6,125,154,10,124,2017,Hyderabad,Rajiv Gandhi International Stadium,Punjab,field,Hyderabad,runs,5.0,B Kumar,Hyderabad,Punjab,Hyderabad,Punjab
+1082610,213,2,123,192,7,126,2017,Rajkot,Saurashtra Cricket Association Stadium,Gujarat,field,Bangalore,runs,21.0,CH Gayle,Gujarat,Bangalore,Bangalore,Gujarat
+1082611,191,4,123,176,5,122,2017,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,bat,Hyderabad,runs,15.0,KS Williamson,Hyderabad,Delhi,Hyderabad,Delhi
+1082612,198,4,127,199,2,98,2017,Indore,Holkar Cricket Stadium,Mumbai,field,Mumbai,wickets,8.0,JC Buttler,Punjab,Mumbai,Punjab,Mumbai
+1082613,187,5,121,188,6,111,2017,Kolkata,Eden Gardens,Gujarat,field,Gujarat,wickets,4.0,SK Raina,Kolkata,Gujarat,Kolkata,Gujarat
+1082614,142,8,127,128,7,125,2017,Mumbai,Wankhede Stadium,Delhi,field,Mumbai,runs,14.0,MJ McClenaghan,Mumbai,Delhi,Mumbai,Delhi
+1082615,176,3,124,179,4,121,2017,Pune,Maharashtra Cricket Association Stadium,Pune,field,Pune,wickets,6.0,MS Dhoni,Pune,Hyderabad,Hyderabad,Pune
+1082616,188,7,121,162,7,124,2017,Rajkot,Saurashtra Cricket Association Stadium,Gujarat,field,Punjab,runs,26.0,HM Amla,Gujarat,Punjab,Punjab,Gujarat
+1082617,131,10,121,49,10,62,2017,Kolkata,Eden Gardens,Bangalore,field,Kolkata,runs,82.0,NM Coulter-Nile,Kolkata,Bangalore,Kolkata,Bangalore
+1082618,160,6,122,157,8,123,2017,Mumbai,Wankhede Stadium,Mumbai,field,Pune,runs,3.0,BA Stokes,Mumbai,Pune,Pune,Mumbai
+1082620,182,5,125,184,3,114,2017,Pune,Maharashtra Cricket Association Stadium,Kolkata,field,Kolkata,wickets,7.0,RV Uthappa,Pune,Kolkata,Pune,Kolkata
+1082621,134,10,123,135,3,89,2017,Bangalore,M Chinnaswamy Stadium,Gujarat,field,Gujarat,wickets,7.0,AJ Tye,Bangalore,Gujarat,Bangalore,Gujarat
+1082622,160,6,122,161,3,99,2017,Kolkata,Eden Gardens,Kolkata,field,Kolkata,wickets,7.0,G Gambhir,Kolkata,Delhi,Delhi,Kolkata
+1082623,207,3,122,181,9,121,2017,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Hyderabad,runs,26.0,Rashid Khan,Punjab,Hyderabad,Hyderabad,Punjab
+1082624,157,3,123,96,9,122,2017,Pune,Maharashtra Cricket Association Stadium,Bangalore,field,Pune,runs,61.0,LH Ferguson,Pune,Bangalore,Pune,Bangalore
+1082626,67,10,108,68,0,49,2017,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Punjab,wickets,10.0,Sandeep Sharma,Punjab,Delhi,Delhi,Punjab
+1082627,209,3,125,161,7,122,2017,Hyderabad,Rajiv Gandhi International Stadium,Kolkata,field,Hyderabad,runs,48.0,DA Warner,Hyderabad,Kolkata,Hyderabad,Kolkata
+1082628,162,8,122,165,6,123,2017,Mumbai,Wankhede Stadium,Bangalore,bat,Mumbai,wickets,5.0,RG Sharma,Mumbai,Bangalore,Bangalore,Mumbai
+1082629,161,10,121,167,5,123,2017,Pune,Maharashtra Cricket Association Stadium,Pune,field,Pune,wickets,5.0,BA Stokes,Pune,Gujarat,Gujarat,Pune
+1082630,185,3,123,189,4,117,2017,Delhi,Feroz Shah Kotla,Delhi,field,Delhi,wickets,6.0,Mohammed Shami,Delhi,Hyderabad,Hyderabad,Delhi
+1082631,155,8,120,158,6,118,2017,Kolkata,Eden Gardens,Pune,field,Pune,wickets,4.0,RA Tripathi,Kolkata,Pune,Kolkata,Pune
+1082632,208,7,124,214,3,110,2017,Delhi,Feroz Shah Kotla,Delhi,field,Delhi,wickets,7.0,RR Pant,Delhi,Gujarat,Gujarat,Delhi
+1082633,138,7,123,119,10,117,2017,Bangalore,M Chinnaswamy Stadium,Bangalore,field,Punjab,runs,19.0,Sandeep Sharma,Bangalore,Punjab,Punjab,Bangalore
+1082634,148,8,124,136,9,122,2017,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Pune,runs,12.0,JD Unadkat,Hyderabad,Pune,Pune,Hyderabad
+1082635,212,3,128,66,10,83,2017,Delhi,Feroz Shah Kotla,Delhi,field,Mumbai,runs,146.0,LMP Simmons,Delhi,Mumbai,Mumbai,Delhi
+1082636,158,6,122,159,4,94,2017,Bangalore,M Chinnaswamy Stadium,Kolkata,field,Kolkata,wickets,6.0,SP Narine,Bangalore,Kolkata,Bangalore,Kolkata
+1082637,189,3,123,192,4,121,2017,Chandigarh,Punjab Cricket Association Stadium,Gujarat,field,Gujarat,wickets,6.0,DR Smith,Punjab,Gujarat,Punjab,Gujarat
+1082638,138,7,126,140,3,112,2017,Hyderabad,Rajiv Gandhi International Stadium,Mumbai,bat,Hyderabad,wickets,7.0,S Dhawan,Hyderabad,Mumbai,Mumbai,Hyderabad
+1082639,167,6,126,153,6,122,2017,Chandigarh,Punjab Cricket Association Stadium,Kolkata,field,Punjab,runs,14.0,MM Sharma,Punjab,Kolkata,Punjab,Kolkata
+1082640,195,5,124,197,8,119,2017,Kanpur,Green Park,Delhi,field,Delhi,wickets,2.0,SS Iyer,Gujarat,Delhi,Gujarat,Delhi
+1082641,230,3,129,223,6,126,2017,Mumbai,Wankhede Stadium,Mumbai,field,Punjab,runs,7.0,WP Saha,Mumbai,Punjab,Punjab,Mumbai
+1082642,168,8,124,161,7,125,2017,Delhi,Feroz Shah Kotla,Delhi,bat,Delhi,runs,7.0,KK Nair,Delhi,Pune,Delhi,Pune
+1082643,154,10,118,158,2,110,2017,Kanpur,Green Park,Hyderabad,field,Hyderabad,wickets,8.0,Mohammed Siraj,Gujarat,Hyderabad,Gujarat,Hyderabad
+1082644,173,5,125,164,8,125,2017,Kolkata,Eden Gardens,Kolkata,field,Mumbai,runs,9.0,AT Rayudu,Kolkata,Mumbai,Mumbai,Kolkata
+1082645,73,10,98,78,1,73,2017,Pune,Maharashtra Cricket Association Stadium,Pune,field,Pune,wickets,9.0,JD Unadkat,Pune,Punjab,Punjab,Pune
+1082646,161,6,127,151,10,122,2017,Delhi,Feroz Shah Kotla,Bangalore,bat,Bangalore,runs,10.0,HV Patel,Delhi,Bangalore,Bangalore,Delhi
+1082647,162,4,125,142,9,127,2017,Mumbai,Wankhede Stadium,Mumbai,field,Pune,runs,20.0,Washington Sundar,Mumbai,Pune,Pune,Mumbai
+1082648,128,7,122,48,3,35,2017,Bangalore,M Chinnaswamy Stadium,Kolkata,field,Kolkata,wickets,7.0,NM Coulter-Nile,Hyderabad,Kolkata,Hyderabad,Kolkata
+1082649,107,10,116,111,4,91,2017,Bangalore,M Chinnaswamy Stadium,Mumbai,field,Mumbai,wickets,6.0,KV Sharma,Mumbai,Kolkata,Kolkata,Mumbai
+1082650,129,8,125,128,6,123,2017,Hyderabad,Rajiv Gandhi International Stadium,Mumbai,bat,Mumbai,runs,1.0,KH Pandya,Mumbai,Pune,Mumbai,Pune
+1136561,165,4,122,169,9,124,2018,Mumbai,Wankhede Stadium,Chennai,field,Chennai,wickets,1.0,DJ Bravo,Mumbai,Chennai,Mumbai,Chennai
+1136562,166,7,124,167,4,114,2018,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Punjab,wickets,6.0,KL Rahul,Delhi,Punjab,Delhi,Punjab
+1136563,176,7,121,177,6,123,2018,Kolkata,Eden Gardens,Kolkata,field,Kolkata,wickets,4.0,SP Narine,Bangalore,Kolkata,Bangalore,Kolkata
+1136564,125,9,125,127,1,100,2018,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Hyderabad,wickets,9.0,S Dhawan,Rajasthan,Hyderabad,Rajasthan,Hyderabad
+1136565,202,6,123,205,5,123,2018,Chennai,MA Chidambaram Stadium,Chennai,field,Chennai,wickets,5.0,SW Billings,Kolkata,Chennai,Kolkata,Chennai
+1136566,153,5,109,60,4,37,2018,Jaipur,Sawai Mansingh Stadium,Delhi,field,Rajasthan,runs,10.0,SV Samson,Rajasthan,Delhi,Rajasthan,Delhi
+1136567,147,8,124,151,9,121,2018,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Hyderabad,wickets,1.0,Rashid Khan,Mumbai,Hyderabad,Mumbai,Hyderabad
+1136568,155,10,119,159,6,118,2018,Bengaluru,M.Chinnaswamy Stadium,Bangalore,field,Bangalore,wickets,4.0,UT Yadav,Punjab,Bangalore,Punjab,Bangalore
+1136569,194,7,125,195,3,121,2018,Mumbai,Wankhede Stadium,Delhi,field,Delhi,wickets,7.0,JJ Roy,Mumbai,Delhi,Mumbai,Delhi
+1136570,138,8,123,139,5,119,2018,Kolkata,Eden Gardens,Hyderabad,field,Hyderabad,wickets,5.0,B Stanlake,Kolkata,Hyderabad,Kolkata,Hyderabad
+1136571,217,4,128,198,6,123,2018,Bengaluru,M.Chinnaswamy Stadium,Bangalore,field,Rajasthan,runs,19.0,SV Samson,Rajasthan,Bangalore,Rajasthan,Bangalore
+1136572,197,7,121,193,5,129,2018,Chandigarh,Punjab Cricket Association Stadium,Chennai,field,Punjab,runs,4.0,CH Gayle,Punjab,Chennai,Punjab,Chennai
+1136573,200,9,122,129,10,91,2018,Kolkata,Eden Gardens,Delhi,field,Kolkata,runs,71.0,N Rana,Kolkata,Delhi,Kolkata,Delhi
+1136574,213,6,127,167,8,124,2018,Mumbai,Wankhede Stadium,Bangalore,field,Mumbai,runs,46.0,RG Sharma,Mumbai,Bangalore,Mumbai,Bangalore
+1136575,160,8,124,163,3,115,2018,Jaipur,Sawai Mansingh Stadium,Kolkata,field,Kolkata,wickets,7.0,N Rana,Rajasthan,Kolkata,Rajasthan,Kolkata
+1136576,193,3,123,178,5,130,2018,Chandigarh,Punjab Cricket Association Stadium,Punjab,bat,Punjab,runs,15.0,CH Gayle,Punjab,Hyderabad,Punjab,Hyderabad
+1136577,204,5,126,140,10,119,2018,Pune,Maharashtra Cricket Association Stadium,Rajasthan,field,Chennai,runs,64.0,SR Watson,Chennai,Rajasthan,Chennai,Rajasthan
+1136578,191,7,128,126,1,69,2018,Kolkata,Eden Gardens,Punjab,field,Punjab,wickets,9.0,KL Rahul,Kolkata,Punjab,Kolkata,Punjab
+1136579,174,5,123,176,4,111,2018,Bengaluru,M.Chinnaswamy Stadium,Bangalore,field,Bangalore,wickets,6.0,AB de Villiers,Delhi,Bangalore,Delhi,Bangalore
+1136580,182,3,124,178,6,122,2018,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Chennai,runs,4.0,AT Rayudu,Chennai,Hyderabad,Chennai,Hyderabad
+1136581,167,7,124,168,7,124,2018,Jaipur,Sawai Mansingh Stadium,Mumbai,bat,Rajasthan,wickets,3.0,JC Archer,Mumbai,Rajasthan,Mumbai,Rajasthan
+1136582,143,8,124,139,8,127,2018,Delhi,Arun Jaitley Stadium,Delhi,field,Punjab,runs,4.0,AS Rajpoot,Punjab,Delhi,Punjab,Delhi
+1136583,118,10,116,87,10,114,2018,Mumbai,Wankhede Stadium,Mumbai,field,Hyderabad,runs,31.0,Rashid Khan,Hyderabad,Mumbai,Hyderabad,Mumbai
+1136584,205,8,124,207,5,127,2018,Bengaluru,M.Chinnaswamy Stadium,Chennai,field,Chennai,wickets,5.0,MS Dhoni,Bangalore,Chennai,Bangalore,Chennai
+1136585,132,6,123,119,10,116,2018,Hyderabad,Rajiv Gandhi International Stadium,Punjab,field,Hyderabad,runs,13.0,AS Rajpoot,Hyderabad,Punjab,Hyderabad,Punjab
+1136586,219,4,123,164,9,123,2018,Delhi,Arun Jaitley Stadium,Kolkata,field,Delhi,runs,55.0,SS Iyer,Delhi,Kolkata,Delhi,Kolkata
+1136587,169,5,124,170,2,123,2018,Pune,Maharashtra Cricket Association Stadium,Mumbai,field,Mumbai,wickets,8.0,RG Sharma,Chennai,Mumbai,Chennai,Mumbai
+1136588,151,7,120,140,6,120,2018,Jaipur,Sawai Mansingh Stadium,Hyderabad,bat,Hyderabad,runs,11.0,KS Williamson,Hyderabad,Rajasthan,Hyderabad,Rajasthan
+1136589,175,4,124,176,5,122,2018,Bengaluru,M.Chinnaswamy Stadium,Kolkata,field,Kolkata,wickets,6.0,CA Lynn,Bangalore,Kolkata,Bangalore,Kolkata
+1136590,211,4,124,198,5,126,2018,Pune,Maharashtra Cricket Association Stadium,Delhi,field,Chennai,runs,13.0,SR Watson,Chennai,Delhi,Chennai,Delhi
+1136591,167,7,123,153,7,130,2018,Bengaluru,M.Chinnaswamy Stadium,Mumbai,field,Bangalore,runs,14.0,TG Southee,Bangalore,Mumbai,Bangalore,Mumbai
+1136592,196,6,109,146,5,75,2018,Delhi,Arun Jaitley Stadium,Rajasthan,field,Delhi,runs,4.0,RR Pant,Delhi,Rajasthan,Delhi,Rajasthan
+1136593,177,5,123,180,4,113,2018,Kolkata,Eden Gardens,Kolkata,field,Kolkata,wickets,6.0,SP Narine,Chennai,Kolkata,Chennai,Kolkata
+1136594,174,6,125,176,4,116,2018,Indore,Holkar Cricket Stadium,Mumbai,field,Mumbai,wickets,6.0,SA Yadav,Punjab,Mumbai,Punjab,Mumbai
+1136595,127,9,121,128,4,112,2018,Pune,Maharashtra Cricket Association Stadium,Chennai,field,Chennai,wickets,6.0,RA Jadeja,Bangalore,Chennai,Bangalore,Chennai
+1136596,163,5,122,164,3,124,2018,Hyderabad,Rajiv Gandhi International Stadium,Delhi,bat,Hyderabad,wickets,7.0,Rashid Khan,Delhi,Hyderabad,Delhi,Hyderabad
+1136597,181,4,125,168,6,121,2018,Mumbai,Wankhede Stadium,Kolkata,field,Mumbai,runs,13.0,HH Pandya,Mumbai,Kolkata,Mumbai,Kolkata
+1136598,152,9,121,155,4,115,2018,Indore,Holkar Cricket Stadium,Punjab,field,Punjab,wickets,6.0,Mujeeb Ur Rahman,Rajasthan,Punjab,Rajasthan,Punjab
+1136599,146,10,126,141,6,123,2018,Hyderabad,Rajiv Gandhi International Stadium,Bangalore,field,Hyderabad,runs,5.0,KS Williamson,Hyderabad,Bangalore,Hyderabad,Bangalore
+1136600,158,8,122,143,7,122,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan,bat,Rajasthan,runs,15.0,JC Buttler,Rajasthan,Punjab,Rajasthan,Punjab
+1136601,210,6,125,108,10,109,2018,Kolkata,Eden Gardens,Kolkata,field,Mumbai,runs,102.0,Ishan Kishan,Mumbai,Kolkata,Mumbai,Kolkata
+1136602,187,5,121,191,1,114,2018,Delhi,Arun Jaitley Stadium,Delhi,bat,Hyderabad,wickets,9.0,S Dhawan,Delhi,Hyderabad,Delhi,Hyderabad
+1136603,176,4,131,177,6,121,2018,Jaipur,Sawai Mansingh Stadium,Chennai,bat,Rajasthan,wickets,4.0,JC Buttler,Chennai,Rajasthan,Chennai,Rajasthan
+1136604,245,6,125,214,8,126,2018,Indore,Holkar Cricket Stadium,Punjab,field,Kolkata,runs,31.0,SP Narine,Kolkata,Punjab,Kolkata,Punjab
+1136605,181,4,126,187,5,119,2018,Delhi,Arun Jaitley Stadium,Bangalore,field,Bangalore,wickets,5.0,AB de Villiers,Delhi,Bangalore,Delhi,Bangalore
+1136606,179,4,130,180,2,115,2018,Pune,Maharashtra Cricket Association Stadium,Chennai,field,Chennai,wickets,8.0,AT Rayudu,Hyderabad,Chennai,Hyderabad,Chennai
+1136607,168,6,127,171,3,112,2018,Mumbai,Wankhede Stadium,Rajasthan,field,Rajasthan,wickets,7.0,JC Buttler,Mumbai,Rajasthan,Mumbai,Rajasthan
+1136608,88,10,94,92,0,51,2018,Indore,Holkar Cricket Stadium,Bangalore,field,Bangalore,wickets,10.0,UT Yadav,Punjab,Bangalore,Punjab,Bangalore
+1136609,142,10,115,145,4,109,2018,Kolkata,Eden Gardens,Kolkata,field,Kolkata,wickets,6.0,Kuldeep Yadav,Rajasthan,Kolkata,Rajasthan,Kolkata
+1136610,186,8,126,183,5,125,2018,Mumbai,Wankhede Stadium,Punjab,field,Mumbai,runs,3.0,JJ Bumrah,Mumbai,Punjab,Mumbai,Punjab
+1136611,218,6,122,204,3,123,2018,Bengaluru,M.Chinnaswamy Stadium,Hyderabad,field,Bangalore,runs,14.0,AB de Villiers,Bangalore,Hyderabad,Bangalore,Hyderabad
+1136612,162,5,126,128,6,120,2018,Delhi,Arun Jaitley Stadium,Chennai,field,Delhi,runs,34.0,HV Patel,Delhi,Chennai,Delhi,Chennai
+1136613,164,5,124,134,10,117,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan,bat,Rajasthan,runs,30.0,S Gopal,Rajasthan,Bangalore,Rajasthan,Bangalore
+1136614,172,9,126,173,5,123,2018,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,bat,Kolkata,wickets,5.0,CA Lynn,Hyderabad,Kolkata,Hyderabad,Kolkata
+1136615,174,4,125,163,10,122,2018,Delhi,Arun Jaitley Stadium,Delhi,bat,Delhi,runs,11.0,A Mishra,Delhi,Mumbai,Delhi,Mumbai
+1136616,153,10,124,159,5,123,2018,Pune,Maharashtra Cricket Association Stadium,Chennai,field,Chennai,wickets,5.0,L Ngidi,Punjab,Chennai,Punjab,Chennai
+1136617,139,7,129,140,8,118,2018,Mumbai,Wankhede Stadium,Chennai,field,Chennai,wickets,2.0,F du Plessis,Hyderabad,Chennai,Hyderabad,Chennai
+1136618,169,7,126,144,4,121,2018,Kolkata,Eden Gardens,Rajasthan,field,Kolkata,runs,25.0,AD Russell,Kolkata,Rajasthan,Kolkata,Rajasthan
+1136619,174,7,124,160,9,121,2018,Kolkata,Eden Gardens,Kolkata,field,Hyderabad,runs,14.0,Rashid Khan,Hyderabad,Kolkata,Hyderabad,Kolkata
+1136620,178,6,127,181,2,114,2018,Mumbai,Wankhede Stadium,Chennai,field,Chennai,wickets,8.0,SR Watson,Hyderabad,Chennai,Hyderabad,Chennai
+1175356,70,10,104,71,3,110,2019,Chennai,MA Chidambaram Stadium,Chennai,field,Chennai,wickets,7.0,Harbhajan Singh,Bangalore,Chennai,Bangalore,Chennai
+1175357,181,3,123,183,4,121,2019,Kolkata,Eden Gardens,Kolkata,field,Kolkata,wickets,6.0,AD Russell,Hyderabad,Kolkata,Hyderabad,Kolkata
+1175358,213,6,124,176,9,122,2019,Mumbai,Wankhede Stadium,Mumbai,field,Delhi,runs,37.0,RR Pant,Delhi,Mumbai,Delhi,Mumbai
+1175359,184,4,128,170,9,124,2019,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Punjab,runs,14.0,CH Gayle,Punjab,Rajasthan,Punjab,Rajasthan
+1175360,147,6,125,150,4,121,2019,Delhi,Arun Jaitley Stadium,Delhi,bat,Chennai,wickets,6.0,SR Watson,Delhi,Chennai,Delhi,Chennai
+1175361,218,4,124,190,4,125,2019,Kolkata,Eden Gardens,Punjab,field,Kolkata,runs,28.0,AD Russell,Kolkata,Punjab,Kolkata,Punjab
+1175362,187,8,125,181,5,123,2019,Bengaluru,M.Chinnaswamy Stadium,Bangalore,field,Mumbai,runs,6.0,JJ Bumrah,Mumbai,Bangalore,Mumbai,Bangalore
+1175363,198,2,124,201,5,119,2019,Hyderabad,Rajiv Gandhi International Stadium,Rajasthan,bat,Hyderabad,wickets,5.0,Rashid Khan,Rajasthan,Hyderabad,Rajasthan,Hyderabad
+1175364,176,7,124,177,2,119,2019,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Punjab,wickets,8.0,MA Agarwal,Mumbai,Punjab,Mumbai,Punjab
+1175366,231,2,121,113,10,123,2019,Hyderabad,Rajiv Gandhi International Stadium,Bangalore,field,Hyderabad,runs,118.0,JM Bairstow,Hyderabad,Bangalore,Hyderabad,Bangalore
+1175367,175,5,126,167,8,125,2019,Chennai,MA Chidambaram Stadium,Rajasthan,field,Chennai,runs,8.0,MS Dhoni,Chennai,Rajasthan,Chennai,Rajasthan
+1175368,166,9,124,152,10,121,2019,Chandigarh,Punjab Cricket Association Stadium,Delhi,field,Punjab,runs,14.0,SM Curran,Punjab,Delhi,Punjab,Delhi
+1175369,158,4,122,164,3,124,2019,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Rajasthan,wickets,7.0,S Gopal,Bangalore,Rajasthan,Bangalore,Rajasthan
+1175370,170,5,125,133,8,127,2019,Mumbai,Wankhede Stadium,Chennai,field,Mumbai,runs,37.0,HH Pandya,Mumbai,Chennai,Mumbai,Chennai
+1175371,129,8,122,131,5,114,2019,Delhi,Arun Jaitley Stadium,Hyderabad,field,Hyderabad,wickets,5.0,JM Bairstow,Delhi,Hyderabad,Delhi,Hyderabad
+1175372,205,3,124,206,5,122,2019,Bengaluru,M.Chinnaswamy Stadium,Kolkata,field,Kolkata,wickets,5.0,AD Russell,Bangalore,Kolkata,Bangalore,Kolkata
+1178393,160,3,125,138,5,124,2019,Chennai,MA Chidambaram Stadium,Chennai,bat,Chennai,runs,22.0,Harbhajan Singh,Chennai,Punjab,Chennai,Punjab
+1178394,136,7,124,96,10,109,2019,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Mumbai,runs,40.0,AS Joseph,Mumbai,Hyderabad,Mumbai,Hyderabad
+1178395,149,8,124,152,6,120,2019,Bengaluru,M.Chinnaswamy Stadium,Delhi,field,Delhi,wickets,4.0,K Rabada,Bangalore,Delhi,Bangalore,Delhi
+1178396,139,3,125,140,2,86,2019,Jaipur,Sawai Mansingh Stadium,Kolkata,field,Kolkata,wickets,8.0,HF Gurney,Rajasthan,Kolkata,Rajasthan,Kolkata
+1178397,150,4,123,151,4,119,2019,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Punjab,wickets,6.0,KL Rahul,Hyderabad,Punjab,Hyderabad,Punjab
+1178398,108,9,123,111,3,108,2019,Chennai,MA Chidambaram Stadium,Chennai,field,Chennai,wickets,7.0,DL Chahar,Kolkata,Chennai,Kolkata,Chennai
+1178399,197,4,125,198,7,127,2019,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,3.0,KA Pollard,Punjab,Mumbai,Punjab,Mumbai
+1178400,151,7,122,155,6,124,2019,Jaipur,Sawai Mansingh Stadium,Chennai,field,Chennai,wickets,4.0,MS Dhoni,Rajasthan,Chennai,Rajasthan,Chennai
+1178401,178,7,124,180,3,115,2019,Kolkata,Eden Gardens,Delhi,field,Delhi,wickets,7.0,S Dhawan,Kolkata,Delhi,Kolkata,Delhi
+1178402,187,5,123,188,6,119,2019,Mumbai,Wankhede Stadium,Rajasthan,field,Rajasthan,wickets,4.0,JC Buttler,Mumbai,Rajasthan,Mumbai,Rajasthan
+1178403,173,4,125,174,2,117,2019,Chandigarh,Punjab Cricket Association Stadium,Bangalore,field,Bangalore,wickets,8.0,AB de Villiers,Punjab,Bangalore,Punjab,Bangalore
+1178404,161,8,125,162,5,120,2019,Kolkata,Eden Gardens,Chennai,field,Chennai,wickets,5.0,Imran Tahir,Kolkata,Chennai,Kolkata,Chennai
+1178405,155,7,124,116,10,117,2019,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Delhi,runs,39.0,KMA Paul,Delhi,Hyderabad,Delhi,Hyderabad
+1178406,171,7,121,172,5,120,2019,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,5.0,SL Malinga,Bangalore,Mumbai,Bangalore,Mumbai
+1178407,182,6,122,170,7,126,2019,Chandigarh,Punjab Cricket Association Stadium,Rajasthan,field,Punjab,runs,12.0,R Ashwin,Punjab,Rajasthan,Punjab,Rajasthan
+1178408,132,5,123,137,4,104,2019,Hyderabad,Rajiv Gandhi International Stadium,Chennai,bat,Hyderabad,wickets,6.0,DA Warner,Chennai,Hyderabad,Chennai,Hyderabad
+1178409,168,5,124,128,9,123,2019,Delhi,Arun Jaitley Stadium,Mumbai,bat,Mumbai,runs,40.0,HH Pandya,Mumbai,Delhi,Mumbai,Delhi
+1178410,213,4,125,203,5,128,2019,Kolkata,Eden Gardens,Kolkata,field,Bangalore,runs,10.0,V Kohli,Bangalore,Kolkata,Bangalore,Kolkata
+1178411,161,5,124,162,5,115,2019,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Rajasthan,wickets,5.0,SPD Smith,Mumbai,Rajasthan,Mumbai,Rajasthan
+1178412,163,7,122,166,5,126,2019,Delhi,Arun Jaitley Stadium,Delhi,field,Delhi,wickets,5.0,SS Iyer,Punjab,Delhi,Punjab,Delhi
+1178413,159,8,124,161,1,94,2019,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Hyderabad,wickets,9.0,KK Ahmed,Kolkata,Hyderabad,Kolkata,Hyderabad
+1178414,161,7,122,160,8,123,2019,Bengaluru,M.Chinnaswamy Stadium,Chennai,field,Bangalore,runs,1.0,PA Patel,Bangalore,Chennai,Bangalore,Chennai
+1178415,191,6,124,193,4,117,2019,Jaipur,Sawai Mansingh Stadium,Delhi,field,Delhi,wickets,6.0,RR Pant,Rajasthan,Delhi,Rajasthan,Delhi
+1178416,175,3,123,176,4,121,2019,Chennai,MA Chidambaram Stadium,Chennai,field,Chennai,wickets,6.0,SR Watson,Hyderabad,Chennai,Hyderabad,Chennai
+1178417,202,4,125,185,7,124,2019,Bengaluru,M.Chinnaswamy Stadium,Punjab,field,Bangalore,runs,17.0,AB de Villiers,Bangalore,Punjab,Bangalore,Punjab
+1178418,175,6,123,177,7,121,2019,Kolkata,Eden Gardens,Rajasthan,field,Rajasthan,wickets,3.0,VR Aaron,Kolkata,Rajasthan,Kolkata,Rajasthan
+1178419,155,4,123,109,10,112,2019,Chennai,MA Chidambaram Stadium,Chennai,field,Mumbai,runs,46.0,RG Sharma,Mumbai,Chennai,Mumbai,Chennai
+1178420,160,8,123,161,3,118,2019,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Rajasthan,wickets,7.0,JD Unadkat,Hyderabad,Rajasthan,Hyderabad,Rajasthan
+1178421,187,5,120,171,7,122,2019,Delhi,Arun Jaitley Stadium,Delhi,bat,Delhi,runs,16.0,S Dhawan,Delhi,Bangalore,Delhi,Bangalore
+1178422,232,2,126,198,7,120,2019,Kolkata,Eden Gardens,Mumbai,field,Kolkata,runs,34.0,AD Russell,Kolkata,Mumbai,Kolkata,Mumbai
+1178423,212,6,130,167,8,127,2019,Hyderabad,Rajiv Gandhi International Stadium,Punjab,field,Hyderabad,runs,45.0,DA Warner,Hyderabad,Punjab,Hyderabad,Punjab
+1178425,179,4,125,99,10,98,2019,Chennai,MA Chidambaram Stadium,Delhi,field,Chennai,runs,80.0,MS Dhoni,Chennai,Delhi,Chennai,Delhi
+1178427,183,6,121,185,3,113,2019,Chandigarh,Punjab Cricket Association Stadium,Kolkata,field,Kolkata,wickets,7.0,Shubman Gill,Punjab,Kolkata,Punjab,Kolkata
+1178428,115,9,126,121,5,98,2019,Delhi,Arun Jaitley Stadium,Rajasthan,bat,Delhi,wickets,5.0,A Mishra,Rajasthan,Delhi,Rajasthan,Delhi
+1178429,175,7,123,178,6,123,2019,Bengaluru,M.Chinnaswamy Stadium,Bangalore,field,Bangalore,wickets,4.0,SO Hetmyer,Hyderabad,Bangalore,Hyderabad,Bangalore
+1178430,170,5,121,173,4,113,2019,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Punjab,wickets,6.0,KL Rahul,Chennai,Punjab,Chennai,Punjab
+1178431,133,7,128,134,1,100,2019,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,9.0,HH Pandya,Kolkata,Mumbai,Kolkata,Mumbai
+1181764,131,4,124,132,4,113,2019,Chennai,MA Chidambaram Stadium,Chennai,bat,Mumbai,wickets,6.0,SA Yadav,Chennai,Mumbai,Chennai,Mumbai
+1181766,162,8,128,165,8,124,2019,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi,field,Delhi,wickets,2.0,RR Pant,Hyderabad,Delhi,Hyderabad,Delhi
+1181767,147,9,123,151,4,116,2019,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Chennai,field,Chennai,wickets,6.0,F du Plessis,Delhi,Chennai,Delhi,Chennai
+1181768,149,8,123,148,7,124,2019,Hyderabad,Rajiv Gandhi International Stadium,Mumbai,bat,Mumbai,runs,1.0,JJ Bumrah,Mumbai,Chennai,Mumbai,Chennai
+1216492,162,9,124,166,5,120,2021,Abu Dhabi,Sheikh Zayed Stadium,Chennai,field,Chennai,wickets,5.0,AT Rayudu,Mumbai,Chennai,Mumbai,Chennai
+1216494,84,8,121,85,2,84,2021,Abu Dhabi,Sheikh Zayed Stadium,Kolkata,bat,Bangalore,wickets,8.0,Mohammed Siraj,Kolkata,Bangalore,Kolkata,Bangalore
+1216495,149,8,120,151,0,107,2021,UAE,Sharjah Cricket Stadium,Hyderabad,field,Hyderabad,wickets,10.0,S Nadeem,Mumbai,Hyderabad,Mumbai,Hyderabad
+1216496,216,7,128,200,6,124,2021,UAE,Sharjah Cricket Stadium,Chennai,field,Rajasthan,runs,16.0,SV Samson,Rajasthan,Chennai,Rajasthan,Chennai
+1216497,194,6,125,135,9,125,2021,Abu Dhabi,Sheikh Zayed Stadium,Delhi,field,Kolkata,runs,59.0,CV Varun,Kolkata,Delhi,Kolkata,Delhi
+1216498,126,7,125,114,10,123,2021,UAE,Dubai International Cricket Stadium,Hyderabad,field,Punjab,runs,12.0,CJ Jordan,Punjab,Hyderabad,Punjab,Hyderabad
+1216499,164,6,123,166,5,121,2021,Abu Dhabi,Sheikh Zayed Stadium,Mumbai,field,Mumbai,wickets,5.0,SA Yadav,Bangalore,Mumbai,Bangalore,Mumbai
+1216500,184,8,127,138,10,126,2021,UAE,Sharjah Cricket Stadium,Rajasthan,field,Delhi,runs,46.0,R Ashwin,Delhi,Rajasthan,Delhi,Rajasthan
+1216501,167,10,126,157,5,122,2021,Abu Dhabi,Sheikh Zayed Stadium,Kolkata,bat,Kolkata,runs,10.0,RA Tripathi,Kolkata,Chennai,Kolkata,Chennai
+1216502,120,7,124,121,5,90,2021,UAE,Sharjah Cricket Stadium,Hyderabad,field,Hyderabad,wickets,5.0,Sandeep Sharma,Bangalore,Hyderabad,Bangalore,Hyderabad
+1216503,191,4,125,143,8,125,2021,Abu Dhabi,Sheikh Zayed Stadium,Punjab,field,Mumbai,runs,48.0,KA Pollard,Mumbai,Punjab,Mumbai,Punjab
+1216504,174,6,128,137,9,121,2021,UAE,Dubai International Cricket Stadium,Rajasthan,field,Kolkata,runs,37.0,Shivam Mavi,Kolkata,Rajasthan,Kolkata,Rajasthan
+1216505,152,7,123,154,4,117,2021,Abu Dhabi,Sheikh Zayed Stadium,Delhi,field,Delhi,wickets,6.0,A Nortje,Bangalore,Delhi,Bangalore,Delhi
+1216506,153,6,121,154,1,116,2021,Abu Dhabi,Sheikh Zayed Stadium,Chennai,field,Chennai,wickets,9.0,RD Gaikwad,Punjab,Chennai,Punjab,Chennai
+1216507,158,4,123,163,5,121,2021,UAE,Dubai International Cricket Stadium,Hyderabad,bat,Rajasthan,wickets,5.0,R Tewatia,Hyderabad,Rajasthan,Hyderabad,Rajasthan
+1216508,195,5,131,146,9,123,2021,Abu Dhabi,Sheikh Zayed Stadium,Kolkata,field,Mumbai,runs,49.0,RG Sharma,Mumbai,Kolkata,Mumbai,Kolkata
+1216509,179,4,124,185,5,122,2021,UAE,Sharjah Cricket Stadium,Chennai,bat,Delhi,wickets,5.0,S Dhawan,Chennai,Delhi,Chennai,Delhi
+1216510,206,3,125,109,10,108,2021,UAE,Dubai International Cricket Stadium,Bangalore,field,Punjab,runs,97.0,KL Rahul,Punjab,Bangalore,Punjab,Bangalore
+1216511,193,4,127,136,10,110,2021,Abu Dhabi,Sheikh Zayed Stadium,Mumbai,bat,Mumbai,runs,57.0,SA Yadav,Mumbai,Rajasthan,Mumbai,Rajasthan
+1216513,178,4,123,181,0,113,2021,UAE,Dubai International Cricket Stadium,Punjab,bat,Chennai,wickets,10.0,SR Watson,Punjab,Chennai,Punjab,Chennai
+1216514,154,6,122,158,2,116,2021,Abu Dhabi,Sheikh Zayed Stadium,Rajasthan,bat,Bangalore,wickets,8.0,YS Chahal,Rajasthan,Bangalore,Rajasthan,Bangalore
+1216515,228,4,122,210,8,127,2021,UAE,Sharjah Cricket Stadium,Kolkata,field,Delhi,runs,18.0,SS Iyer,Delhi,Kolkata,Delhi,Kolkata
+1216516,164,5,128,157,5,124,2021,UAE,Dubai International Cricket Stadium,Hyderabad,bat,Hyderabad,runs,7.0,PK Garg,Hyderabad,Chennai,Hyderabad,Chennai
+1216518,154,6,123,156,2,114,2021,UAE,Dubai International Cricket Stadium,Hyderabad,field,Hyderabad,wickets,8.0,MK Pandey,Rajasthan,Hyderabad,Rajasthan,Hyderabad
+1216519,196,4,126,137,9,126,2021,UAE,Dubai International Cricket Stadium,Bangalore,field,Delhi,runs,59.0,AR Patel,Delhi,Bangalore,Delhi,Bangalore
+1216520,149,9,123,150,2,114,2021,UAE,Sharjah Cricket Stadium,Punjab,field,Punjab,wickets,8.0,CH Gayle,Kolkata,Punjab,Kolkata,Punjab
+1216521,114,9,125,116,0,74,2021,UAE,Sharjah Cricket Stadium,Mumbai,field,Mumbai,wickets,10.0,TA Boult,Chennai,Mumbai,Chennai,Mumbai
+1216522,177,6,129,179,3,130,2021,UAE,Dubai International Cricket Stadium,Rajasthan,bat,Bangalore,wickets,7.0,AB de Villiers,Rajasthan,Bangalore,Rajasthan,Bangalore
+1216523,164,6,124,162,5,120,2021,Abu Dhabi,Sheikh Zayed Stadium,Kolkata,bat,Kolkata,runs,2.0,KD Karthik,Kolkata,Punjab,Kolkata,Punjab
+1216524,219,2,124,131,10,119,2021,UAE,Dubai International Cricket Stadium,Delhi,field,Hyderabad,runs,88.0,WP Saha,Hyderabad,Delhi,Hyderabad,Delhi
+1216525,169,4,131,132,8,125,2021,UAE,Dubai International Cricket Stadium,Bangalore,bat,Bangalore,runs,37.0,V Kohli,Bangalore,Chennai,Bangalore,Chennai
+1216526,148,5,125,149,2,101,2021,Abu Dhabi,Sheikh Zayed Stadium,Kolkata,bat,Mumbai,wickets,8.0,Q de Kock,Kolkata,Mumbai,Kolkata,Mumbai
+1216527,223,2,127,226,6,123,2021,UAE,Sharjah Cricket Stadium,Rajasthan,field,Rajasthan,wickets,4.0,SV Samson,Punjab,Rajasthan,Punjab,Rajasthan
+1216528,167,6,122,147,8,126,2021,UAE,Dubai International Cricket Stadium,Chennai,bat,Chennai,runs,20.0,RA Jadeja,Chennai,Hyderabad,Chennai,Hyderabad
+1216529,162,4,125,166,5,122,2021,Abu Dhabi,Sheikh Zayed Stadium,Delhi,bat,Mumbai,wickets,5.0,Q de Kock,Delhi,Mumbai,Delhi,Mumbai
+1216530,191,7,122,131,9,123,2021,UAE,Dubai International Cricket Stadium,Rajasthan,field,Kolkata,runs,60.0,PJ Cummins,Kolkata,Rajasthan,Kolkata,Rajasthan
+1216531,171,6,125,177,2,126,2021,UAE,Sharjah Cricket Stadium,Bangalore,bat,Punjab,wickets,8.0,KL Rahul,Bangalore,Punjab,Bangalore,Punjab
+1216532,162,4,123,147,7,124,2021,Abu Dhabi,Sheikh Zayed Stadium,Delhi,field,Hyderabad,runs,15.0,Rashid Khan,Hyderabad,Delhi,Hyderabad,Delhi
+1216533,125,5,122,126,3,106,2021,Abu Dhabi,Sheikh Zayed Stadium,Chennai,bat,Rajasthan,wickets,7.0,JC Buttler,Chennai,Rajasthan,Chennai,Rajasthan
+1216534,163,5,124,153,10,122,2021,UAE,Dubai International Cricket Stadium,Hyderabad,field,Bangalore,runs,10.0,YS Chahal,Bangalore,Hyderabad,Bangalore,Hyderabad
+1216535,110,9,122,111,1,87,2021,UAE,Dubai International Cricket Stadium,Mumbai,field,Mumbai,wickets,9.0,Ishan Kishan,Delhi,Mumbai,Delhi,Mumbai
+1216536,172,5,121,178,4,125,2021,UAE,Dubai International Cricket Stadium,Chennai,field,Chennai,wickets,6.0,RD Gaikwad,Kolkata,Chennai,Kolkata,Chennai
+1216537,185,4,129,186,3,108,2021,Abu Dhabi,Sheikh Zayed Stadium,Rajasthan,field,Rajasthan,wickets,7.0,BA Stokes,Punjab,Rajasthan,Punjab,Rajasthan
+1216538,208,5,123,174,7,129,2021,UAE,Sharjah Cricket Stadium,Mumbai,bat,Mumbai,runs,34.0,TA Boult,Mumbai,Hyderabad,Mumbai,Hyderabad
+1216539,175,3,123,131,7,124,2021,UAE,Dubai International Cricket Stadium,Chennai,field,Delhi,runs,44.0,PP Shaw,Delhi,Chennai,Delhi,Chennai
+1216540,194,2,125,112,9,123,2021,UAE,Sharjah Cricket Stadium,Bangalore,bat,Bangalore,runs,82.0,AB de Villiers,Bangalore,Kolkata,Bangalore,Kolkata
+1216541,195,5,125,196,2,117,2021,Abu Dhabi,Sheikh Zayed Stadium,Mumbai,bat,Rajasthan,wickets,8.0,BA Stokes,Mumbai,Rajasthan,Mumbai,Rajasthan
+1216542,201,6,125,132,10,103,2021,UAE,Dubai International Cricket Stadium,Hyderabad,bat,Hyderabad,runs,69.0,JM Bairstow,Hyderabad,Punjab,Hyderabad,Punjab
+1216543,161,7,128,148,8,124,2021,UAE,Dubai International Cricket Stadium,Delhi,bat,Delhi,runs,13.0,A Nortje,Delhi,Rajasthan,Delhi,Rajasthan
+1216544,145,6,127,150,2,113,2021,UAE,Dubai International Cricket Stadium,Bangalore,bat,Chennai,wickets,8.0,RD Gaikwad,Bangalore,Chennai,Bangalore,Chennai
+1216545,142,4,123,145,3,112,2021,Abu Dhabi,Sheikh Zayed Stadium,Hyderabad,bat,Kolkata,wickets,7.0,Shubman Gill,Hyderabad,Kolkata,Hyderabad,Kolkata
+1216546,164,5,123,167,5,120,2021,UAE,Dubai International Cricket Stadium,Delhi,bat,Punjab,wickets,5.0,S Dhawan,Delhi,Punjab,Delhi,Punjab
+1237177,200,5,121,143,8,126,2021,UAE,Dubai International Cricket Stadium,Delhi,field,Mumbai,runs,57.0,JJ Bumrah,Mumbai,Delhi,Mumbai,Delhi
+1237178,131,7,124,132,4,123,2021,Abu Dhabi,Sheikh Zayed Stadium,Hyderabad,field,Hyderabad,wickets,6.0,KS Williamson,Bangalore,Hyderabad,Bangalore,Hyderabad
+1237180,189,3,125,172,8,125,2021,Abu Dhabi,Sheikh Zayed Stadium,Delhi,bat,Delhi,runs,17.0,MP Stoinis,Delhi,Hyderabad,Delhi,Hyderabad
+1237181,156,7,123,157,5,112,2021,UAE,Dubai International Cricket Stadium,Delhi,bat,Mumbai,wickets,5.0,TA Boult,Delhi,Mumbai,Delhi,Mumbai
+1254058,159,9,124,160,8,126,2021,Chennai,MA Chidambaram Stadium,Bangalore,field,Bangalore,wickets,2.0,HV Patel,Mumbai,Bangalore,Mumbai,Bangalore
+1254059,188,7,123,190,3,116,2021,Mumbai,Wankhede Stadium,Delhi,field,Delhi,wickets,7.0,S Dhawan,Chennai,Delhi,Chennai,Delhi
+1254060,187,6,123,177,5,125,2021,Chennai,MA Chidambaram Stadium,Hyderabad,field,Kolkata,runs,10.0,N Rana,Kolkata,Hyderabad,Kolkata,Hyderabad
+1254061,221,6,126,217,7,127,2021,Mumbai,Wankhede Stadium,Rajasthan,field,Punjab,runs,4.0,SV Samson,Punjab,Rajasthan,Punjab,Rajasthan
+1254062,152,10,123,142,7,122,2021,Chennai,MA Chidambaram Stadium,Kolkata,field,Mumbai,runs,10.0,RD Chahar,Mumbai,Kolkata,Mumbai,Kolkata
+1254063,149,8,127,143,9,126,2021,Chennai,MA Chidambaram Stadium,Hyderabad,field,Bangalore,runs,6.0,GJ Maxwell,Bangalore,Hyderabad,Bangalore,Hyderabad
+1254064,147,8,124,150,7,119,2021,Mumbai,Wankhede Stadium,Rajasthan,field,Rajasthan,wickets,3.0,JD Unadkat,Delhi,Rajasthan,Delhi,Rajasthan
+1254065,106,8,124,107,4,96,2021,Mumbai,Wankhede Stadium,Chennai,field,Chennai,wickets,6.0,DL Chahar,Punjab,Chennai,Punjab,Chennai
+1254066,150,5,125,137,10,120,2021,Chennai,MA Chidambaram Stadium,Mumbai,bat,Mumbai,runs,13.0,KA Pollard,Mumbai,Hyderabad,Mumbai,Hyderabad
+1254067,204,4,128,166,8,123,2021,Chennai,MA Chidambaram Stadium,Bangalore,bat,Bangalore,runs,38.0,AB de Villiers,Bangalore,Kolkata,Bangalore,Kolkata
+1254068,195,4,122,198,4,115,2021,Mumbai,Wankhede Stadium,Delhi,field,Delhi,wickets,6.0,S Dhawan,Punjab,Delhi,Punjab,Delhi
+1254069,188,9,129,143,9,129,2021,Mumbai,Wankhede Stadium,Rajasthan,field,Chennai,runs,45.0,MM Ali,Chennai,Rajasthan,Chennai,Rajasthan
+1254070,137,9,120,138,4,121,2021,Chennai,MA Chidambaram Stadium,Mumbai,bat,Delhi,wickets,6.0,A Mishra,Mumbai,Delhi,Mumbai,Delhi
+1254071,120,10,120,121,1,116,2021,Chennai,MA Chidambaram Stadium,Punjab,bat,Hyderabad,wickets,9.0,JM Bairstow,Punjab,Hyderabad,Punjab,Hyderabad
+1254072,220,3,129,202,10,123,2021,Mumbai,Wankhede Stadium,Kolkata,field,Chennai,runs,18.0,F du Plessis,Chennai,Kolkata,Chennai,Kolkata
+1254073,177,9,128,181,0,101,2021,Mumbai,Wankhede Stadium,Bangalore,field,Bangalore,wickets,10.0,D Padikkal,Rajasthan,Bangalore,Rajasthan,Bangalore
+1254074,131,6,122,132,1,110,2021,Chennai,MA Chidambaram Stadium,Punjab,field,Punjab,wickets,9.0,KL Rahul,Mumbai,Punjab,Mumbai,Punjab
+1254075,133,9,126,134,4,120,2021,Mumbai,Wankhede Stadium,Rajasthan,field,Rajasthan,wickets,6.0,CH Morris,Kolkata,Rajasthan,Kolkata,Rajasthan
+1254076,191,4,125,122,9,125,2021,Mumbai,Wankhede Stadium,Chennai,bat,Chennai,runs,69.0,RA Jadeja,Chennai,Bangalore,Chennai,Bangalore
+1254078,123,9,124,126,5,101,2021,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Kolkata,field,Kolkata,wickets,5.0,EJG Morgan,Punjab,Kolkata,Punjab,Kolkata
+1254079,171,5,122,170,4,122,2021,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Delhi,field,Bangalore,runs,1.0,AB de Villiers,Bangalore,Delhi,Bangalore,Delhi
+1254080,171,3,126,173,3,114,2021,Delhi,Arun Jaitley Stadium,Hyderabad,bat,Chennai,wickets,7.0,RD Gaikwad,Hyderabad,Chennai,Hyderabad,Chennai
+1254081,171,4,124,172,3,113,2021,Delhi,Arun Jaitley Stadium,Mumbai,field,Mumbai,wickets,7.0,Q de Kock,Rajasthan,Mumbai,Rajasthan,Mumbai
+1254082,154,6,121,156,3,104,2021,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Delhi,field,Delhi,wickets,7.0,PP Shaw,Kolkata,Delhi,Kolkata,Delhi
+1254083,179,5,124,145,8,122,2021,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Bangalore,field,Punjab,runs,34.0,Harpreet Brar,Punjab,Bangalore,Punjab,Bangalore
+1254084,218,4,128,219,6,128,2021,Delhi,Arun Jaitley Stadium,Mumbai,field,Mumbai,wickets,4.0,KA Pollard,Chennai,Mumbai,Chennai,Mumbai
+1254085,220,3,128,165,8,127,2021,Delhi,Arun Jaitley Stadium,Hyderabad,field,Rajasthan,runs,55.0,JC Buttler,Rajasthan,Hyderabad,Rajasthan,Hyderabad
+1254086,166,6,122,167,3,109,2021,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Delhi,field,Delhi,wickets,7.0,MA Agarwal,Punjab,Delhi,Punjab,Delhi
+1254087,92,10,118,94,1,65,2021,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi",Bangalore,bat,Kolkata,wickets,9.0,CV Varun,Bangalore,Kolkata,Bangalore,Kolkata
+1254088,235,9,125,193,8,124,2021,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi",Mumbai,bat,Mumbai,runs,42.0,Ishan Kishan,Mumbai,Hyderabad,Mumbai,Hyderabad
+1254089,189,4,125,190,3,111,2021,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi",Rajasthan,field,Rajasthan,wickets,7.0,RD Gaikwad,Chennai,Rajasthan,Chennai,Rajasthan
+1254090,164,7,125,158,6,126,2021,Sharjah,Sharjah Cricket Stadium,Bangalore,bat,Bangalore,runs,6.0,GJ Maxwell,Bangalore,Punjab,Bangalore,Punjab
+1254091,134,7,125,139,4,121,2021,Sharjah,Sharjah Cricket Stadium,Chennai,field,Chennai,wickets,6.0,JR Hazlewood,Hyderabad,Chennai,Hyderabad,Chennai
+1254092,127,9,124,130,7,113,2021,Sharjah,Sharjah Cricket Stadium,Kolkata,field,Kolkata,wickets,3.0,SP Narine,Delhi,Kolkata,Delhi,Kolkata
+1254093,90,9,123,94,2,53,2021,Sharjah,Sharjah Cricket Stadium,Mumbai,field,Mumbai,wickets,8.0,NM Coulter-Nile,Rajasthan,Mumbai,Rajasthan,Mumbai
+1254094,134,6,127,139,4,83,2021,Dubai,Dubai International Cricket Stadium,Punjab,field,Punjab,wickets,6.0,KL Rahul,Chennai,Punjab,Chennai,Punjab
+1254095,141,7,124,137,6,122,2021,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi",Bangalore,field,Hyderabad,runs,4.0,KS Williamson,Hyderabad,Bangalore,Hyderabad,Bangalore
+1254096,155,6,128,159,3,93,2021,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi",Kolkata,field,Kolkata,wickets,7.0,SP Narine,Mumbai,Kolkata,Mumbai,Kolkata
+1254097,154,6,126,121,6,125,2021,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi",Rajasthan,field,Delhi,runs,33.0,SS Iyer,Delhi,Rajasthan,Delhi,Rajasthan
+1254098,171,6,126,172,8,123,2021,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi",Kolkata,bat,Chennai,wickets,2.0,RA Jadeja,Kolkata,Chennai,Kolkata,Chennai
+1254099,135,6,123,137,4,116,2021,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi",Mumbai,field,Mumbai,wickets,6.0,KA Pollard,Punjab,Mumbai,Punjab,Mumbai
+1254100,164,5,123,167,3,119,2021,Dubai,Dubai International Cricket Stadium,Rajasthan,bat,Hyderabad,wickets,7.0,JJ Roy,Rajasthan,Hyderabad,Rajasthan,Hyderabad
+1254101,164,5,126,166,3,125,2021,Dubai,Dubai International Cricket Stadium,Bangalore,field,Bangalore,wickets,7.0,KS Bharat,Delhi,Bangalore,Delhi,Bangalore
+1254102,165,7,124,168,5,121,2021,Dubai,Dubai International Cricket Stadium,Punjab,field,Punjab,wickets,5.0,KL Rahul,Kolkata,Punjab,Kolkata,Punjab
+1254103,149,9,123,153,3,107,2021,Dubai,Dubai International Cricket Stadium,Bangalore,field,Bangalore,wickets,7.0,YS Chahal,Rajasthan,Bangalore,Rajasthan,Bangalore
+1254104,156,7,125,136,8,124,2021,Dubai,Dubai International Cricket Stadium,Chennai,bat,Chennai,runs,20.0,RD Gaikwad,Chennai,Mumbai,Chennai,Mumbai
+1254105,134,9,126,139,2,111,2021,Dubai,Dubai International Cricket Stadium,Hyderabad,bat,Delhi,wickets,8.0,A Nortje,Hyderabad,Delhi,Hyderabad,Delhi
+1254106,171,4,127,85,10,97,2021,Sharjah,Sharjah Cricket Stadium,Rajasthan,field,Kolkata,runs,86.0,Shivam Mavi,Kolkata,Rajasthan,Kolkata,Rajasthan
+1254107,125,7,123,120,7,123,2021,Sharjah,Sharjah Cricket Stadium,Hyderabad,field,Punjab,runs,5.0,JO Holder,Punjab,Hyderabad,Punjab,Hyderabad
+1254108,165,6,127,111,10,114,2021,Dubai,Dubai International Cricket Stadium,Mumbai,field,Bangalore,runs,54.0,GJ Maxwell,Bangalore,Mumbai,Bangalore,Mumbai
+1254109,115,8,121,119,4,120,2021,Dubai,Dubai International Cricket Stadium,Hyderabad,bat,Kolkata,wickets,6.0,Shubman Gill,Hyderabad,Kolkata,Hyderabad,Kolkata
+1254110,136,5,126,139,7,124,2021,Dubai,Dubai International Cricket Stadium,Delhi,field,Delhi,wickets,3.0,AR Patel,Chennai,Delhi,Chennai,Delhi
+1254111,185,10,125,183,4,128,2021,Dubai,Dubai International Cricket Stadium,Punjab,field,Rajasthan,runs,2.0,Kartik Tyagi,Rajasthan,Punjab,Rajasthan,Punjab
+1254112,129,8,126,132,6,119,2021,Sharjah,Sharjah Cricket Stadium,Delhi,field,Delhi,wickets,4.0,AR Patel,Mumbai,Delhi,Mumbai,Delhi
+1254113,156,6,122,157,4,113,2021,Sharjah,Sharjah Cricket Stadium,Chennai,field,Chennai,wickets,6.0,DJ Bravo,Bangalore,Chennai,Bangalore,Chennai
+1254114,172,5,126,173,6,121,2021,Dubai,Dubai International Cricket Stadium,Chennai,field,Chennai,wickets,4.0,RD Gaikwad,Delhi,Chennai,Delhi,Chennai
+1254115,138,7,126,139,6,121,2021,Sharjah,Sharjah Cricket Stadium,Bangalore,bat,Kolkata,wickets,4.0,SP Narine,Bangalore,Kolkata,Bangalore,Kolkata
+1254116,135,5,124,136,7,124,2021,Sharjah,Sharjah Cricket Stadium,Kolkata,field,Kolkata,wickets,3.0,VR Iyer,Delhi,Kolkata,Delhi,Kolkata
+1254117,192,3,124,165,9,129,2021,Dubai,Dubai International Cricket Stadium,Kolkata,field,Chennai,runs,27.0,F du Plessis,Chennai,Kolkata,Chennai,Kolkata
+1304047,131,5,126,133,4,111,2022,Mumbai,Wankhede Stadium,Kolkata,field,Kolkata,wickets,6.0,UT Yadav,Chennai,Kolkata,Chennai,Kolkata
+1304048,177,5,122,179,6,117,2022,Mumbai,"Brabourne Stadium, Mumbai",Delhi,field,Delhi,wickets,4.0,Kuldeep Yadav,Mumbai,Delhi,Mumbai,Delhi
+1304049,205,2,127,208,5,126,2022,Mumbai,Dr DY Patil Sports Academy,Punjab,field,Punjab,wickets,5.0,OF Smith,Bangalore,Punjab,Bangalore,Punjab
+1304050,158,6,124,161,5,121,2022,Mumbai,Wankhede Stadium,Gujarat,field,Gujarat,wickets,5.0,Mohammed Shami,Lucknow,Gujarat,Lucknow,Gujarat
+1304051,210,6,130,149,7,125,2022,Pune,Maharashtra Cricket Association Stadium,Hyderabad,field,Rajasthan,runs,61.0,SV Samson,Rajasthan,Hyderabad,Rajasthan,Hyderabad
+1304052,128,10,115,132,7,121,2022,Mumbai,Dr DY Patil Sports Academy,Bangalore,field,Bangalore,wickets,3.0,PWH de Silva,Kolkata,Bangalore,Kolkata,Bangalore
+1304053,210,7,123,211,4,129,2022,Mumbai,"Brabourne Stadium, Mumbai",Lucknow,field,Lucknow,wickets,6.0,E Lewis,Chennai,Lucknow,Chennai,Lucknow
+1304054,137,10,118,141,4,92,2022,Mumbai,Wankhede Stadium,Kolkata,field,Kolkata,wickets,6.0,UT Yadav,Punjab,Kolkata,Punjab,Kolkata
+1304055,193,8,126,170,8,130,2022,Mumbai,Dr DY Patil Sports Academy,Mumbai,field,Rajasthan,runs,23.0,JC Buttler,Rajasthan,Mumbai,Rajasthan,Mumbai
+1304056,171,6,124,157,9,123,2022,Pune,Maharashtra Cricket Association Stadium,Delhi,field,Gujarat,runs,14.0,LH Ferguson,Gujarat,Delhi,Gujarat,Delhi
+1304057,180,8,133,126,10,112,2022,Mumbai,"Brabourne Stadium, Mumbai",Chennai,field,Punjab,runs,54.0,LS Livingstone,Punjab,Chennai,Punjab,Chennai
+1304058,169,7,121,157,9,126,2022,Mumbai,Dr DY Patil Sports Academy,Hyderabad,field,Lucknow,runs,12.0,Avesh Khan,Lucknow,Hyderabad,Lucknow,Hyderabad
+1304059,169,3,125,173,6,122,2022,Mumbai,Wankhede Stadium,Bangalore,field,Bangalore,wickets,4.0,KD Karthik,Rajasthan,Bangalore,Rajasthan,Bangalore
+1304060,161,4,121,162,5,97,2022,Pune,Maharashtra Cricket Association Stadium,Kolkata,field,Kolkata,wickets,5.0,PJ Cummins,Mumbai,Kolkata,Mumbai,Kolkata
+1304061,149,3,124,155,4,122,2022,Mumbai,Dr DY Patil Sports Academy,Lucknow,field,Lucknow,wickets,6.0,Q de Kock,Delhi,Lucknow,Delhi,Lucknow
+1304062,189,9,123,190,4,124,2022,Mumbai,"Brabourne Stadium, Mumbai",Gujarat,field,Gujarat,wickets,6.0,Shubman Gill,Punjab,Gujarat,Punjab,Gujarat
+1304063,154,7,125,155,2,110,2022,Mumbai,Dr DY Patil Sports Academy,Hyderabad,field,Hyderabad,wickets,8.0,Abhishek Sharma,Chennai,Hyderabad,Chennai,Hyderabad
+1304064,151,6,122,152,3,114,2022,Pune,Maharashtra Cricket Association Stadium,Bangalore,field,Bangalore,wickets,7.0,Anuj Rawat,Mumbai,Bangalore,Mumbai,Bangalore
+1304065,215,5,125,171,10,121,2022,Mumbai,"Brabourne Stadium, Mumbai",Kolkata,field,Delhi,runs,44.0,Kuldeep Yadav,Delhi,Kolkata,Delhi,Kolkata
+1304066,165,6,126,162,8,124,2022,Mumbai,Wankhede Stadium,Lucknow,field,Rajasthan,runs,3.0,YS Chahal,Rajasthan,Lucknow,Rajasthan,Lucknow
+1304067,162,7,128,168,3,118,2022,Mumbai,Dr DY Patil Sports Academy,Hyderabad,field,Hyderabad,wickets,8.0,KS Williamson,Gujarat,Hyderabad,Gujarat,Hyderabad
+1304068,216,4,127,193,9,129,2022,Mumbai,Dr DY Patil Sports Academy,Bangalore,field,Chennai,runs,23.0,S Dube,Chennai,Bangalore,Chennai,Bangalore
+1304069,198,5,127,186,9,125,2022,Pune,Maharashtra Cricket Association Stadium,Mumbai,field,Punjab,runs,12.0,MA Agarwal,Punjab,Mumbai,Punjab,Mumbai
+1304070,192,4,124,155,9,122,2022,Mumbai,Dr DY Patil Sports Academy,Rajasthan,field,Gujarat,runs,37.0,HH Pandya,Gujarat,Rajasthan,Gujarat,Rajasthan
+1304071,175,8,123,176,3,111,2022,Mumbai,"Brabourne Stadium, Mumbai",Hyderabad,field,Hyderabad,wickets,7.0,RA Tripathi,Kolkata,Hyderabad,Kolkata,Hyderabad
+1304072,199,4,124,181,9,125,2022,Mumbai,"Brabourne Stadium, Mumbai",Mumbai,field,Lucknow,runs,18.0,KL Rahul,Lucknow,Mumbai,Lucknow,Mumbai
+1304073,189,5,126,173,7,124,2022,Mumbai,Wankhede Stadium,Delhi,field,Bangalore,runs,16.0,KD Karthik,Bangalore,Delhi,Bangalore,Delhi
+1304074,151,10,126,152,3,116,2022,Mumbai,Dr DY Patil Sports Academy,Hyderabad,field,Hyderabad,wickets,7.0,Umran Malik,Punjab,Hyderabad,Punjab,Hyderabad
+1304075,169,5,125,170,7,121,2022,Pune,Maharashtra Cricket Association Stadium,Gujarat,field,Gujarat,wickets,3.0,DA Miller,Chennai,Gujarat,Chennai,Gujarat
+1304076,217,5,127,210,10,131,2022,Mumbai,"Brabourne Stadium, Mumbai",Kolkata,field,Rajasthan,runs,7.0,YS Chahal,Rajasthan,Kolkata,Rajasthan,Kolkata
+1304077,181,6,127,163,8,127,2022,Mumbai,Dr DY Patil Sports Academy,Lucknow,field,Bangalore,runs,18.0,F du Plessis,Bangalore,Lucknow,Bangalore,Lucknow
+1304078,115,10,121,119,1,69,2022,Mumbai,"Brabourne Stadium, Mumbai",Delhi,field,Delhi,wickets,9.0,Kuldeep Yadav,Punjab,Delhi,Punjab,Delhi
+1304079,155,7,123,156,7,127,2022,Navi Mumbai,Dr DY Patil Sports Academy,Chennai,field,Chennai,wickets,3.0,Mukesh Choudhary,Mumbai,Chennai,Mumbai,Chennai
+1304080,222,2,124,207,8,128,2022,Mumbai,Wankhede Stadium,Delhi,field,Rajasthan,runs,15.0,JC Buttler,Rajasthan,Delhi,Rajasthan,Delhi
+1304081,156,9,127,148,8,126,2022,Navi Mumbai,Dr DY Patil Sports Academy,Gujarat,bat,Gujarat,runs,8.0,Rashid Khan,Gujarat,Kolkata,Gujarat,Kolkata
+1304082,68,10,105,72,1,49,2022,Mumbai,"Brabourne Stadium, Mumbai",Hyderabad,field,Hyderabad,wickets,9.0,M Jansen,Bangalore,Hyderabad,Bangalore,Hyderabad
+1304083,168,6,125,132,8,128,2022,Mumbai,Wankhede Stadium,Mumbai,field,Lucknow,runs,36.0,KL Rahul,Lucknow,Mumbai,Lucknow,Mumbai
+1304084,187,4,133,176,6,126,2022,Mumbai,Wankhede Stadium,Chennai,field,Punjab,runs,11.0,S Dhawan,Punjab,Chennai,Punjab,Chennai
+1304085,144,8,123,115,10,123,2022,Pune,Maharashtra Cricket Association Stadium,Bangalore,field,Rajasthan,runs,29.0,R Parag,Rajasthan,Bangalore,Rajasthan,Bangalore
+1304086,195,6,126,199,5,125,2022,Mumbai,Wankhede Stadium,Gujarat,field,Gujarat,wickets,5.0,Umran Malik,Hyderabad,Gujarat,Hyderabad,Gujarat
+1304087,146,9,124,150,6,117,2022,Mumbai,Wankhede Stadium,Delhi,field,Delhi,wickets,4.0,Kuldeep Yadav,Kolkata,Delhi,Kolkata,Delhi
+1304088,153,8,124,133,8,129,2022,Pune,Maharashtra Cricket Association Stadium,Punjab,field,Lucknow,runs,20.0,KH Pandya,Lucknow,Punjab,Lucknow,Punjab
+1304089,170,6,122,174,4,122,2022,Mumbai,"Brabourne Stadium, Mumbai",Bangalore,bat,Gujarat,wickets,6.0,R Tewatia,Bangalore,Gujarat,Bangalore,Gujarat
+1304090,158,6,127,161,5,120,2022,Navi Mumbai,Dr DY Patil Sports Academy,Mumbai,field,Mumbai,wickets,5.0,SA Yadav,Rajasthan,Mumbai,Rajasthan,Mumbai
+1304091,195,3,132,189,7,123,2022,Mumbai,Wankhede Stadium,Lucknow,bat,Lucknow,runs,6.0,Mohsin Khan,Lucknow,Delhi,Lucknow,Delhi
+1304092,202,2,123,189,6,123,2022,Pune,Maharashtra Cricket Association Stadium,Hyderabad,field,Chennai,runs,13.0,RD Gaikwad,Chennai,Hyderabad,Chennai,Hyderabad
+1304093,152,5,127,158,3,124,2022,Mumbai,Wankhede Stadium,Kolkata,field,Kolkata,wickets,7.0,RK Singh,Rajasthan,Kolkata,Rajasthan,Kolkata
+1304094,143,8,129,145,2,100,2022,Navi Mumbai,Dr DY Patil Sports Academy,Gujarat,bat,Punjab,wickets,8.0,K Rabada,Gujarat,Punjab,Gujarat,Punjab
+1304095,173,8,127,160,8,120,2022,Pune,Maharashtra Cricket Association Stadium,Chennai,field,Bangalore,runs,13.0,HV Patel,Bangalore,Chennai,Bangalore,Chennai
+1304096,207,3,127,186,8,126,2022,Mumbai,"Brabourne Stadium, Mumbai",Hyderabad,field,Delhi,runs,21.0,DA Warner,Delhi,Hyderabad,Delhi,Hyderabad
+1304097,177,6,125,172,5,121,2022,Mumbai,"Brabourne Stadium, Mumbai",Gujarat,field,Mumbai,runs,5.0,TH David,Mumbai,Gujarat,Mumbai,Gujarat
+1304098,189,5,131,190,4,124,2022,Mumbai,Wankhede Stadium,Punjab,bat,Rajasthan,wickets,6.0,YBK Jaiswal,Punjab,Rajasthan,Punjab,Rajasthan
+1304099,176,7,122,101,10,89,2022,Pune,Maharashtra Cricket Association Stadium,Kolkata,field,Lucknow,runs,75.0,Avesh Khan,Lucknow,Kolkata,Lucknow,Kolkata
+1304100,192,3,126,125,10,120,2022,Mumbai,Wankhede Stadium,Bangalore,bat,Bangalore,runs,67.0,PWH de Silva,Bangalore,Hyderabad,Bangalore,Hyderabad
+1304101,208,6,131,117,10,108,2022,Navi Mumbai,Dr DY Patil Sports Academy,Delhi,field,Chennai,runs,91.0,DP Conway,Chennai,Delhi,Chennai,Delhi
+1304102,165,9,126,113,10,107,2022,Navi Mumbai,Dr DY Patil Sports Academy,Mumbai,field,Kolkata,runs,52.0,JJ Bumrah,Kolkata,Mumbai,Kolkata,Mumbai
+1304103,144,4,126,82,10,86,2022,Pune,Maharashtra Cricket Association Stadium,Gujarat,bat,Gujarat,runs,62.0,Shubman Gill,Gujarat,Lucknow,Gujarat,Lucknow
+1304104,160,6,125,161,2,114,2022,Navi Mumbai,Dr DY Patil Sports Academy,Delhi,field,Delhi,wickets,8.0,MR Marsh,Rajasthan,Delhi,Rajasthan,Delhi
+1304105,97,10,104,103,5,94,2022,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,5.0,DR Sams,Chennai,Mumbai,Chennai,Mumbai
+1304106,209,9,124,155,9,128,2022,Mumbai,"Brabourne Stadium, Mumbai",Bangalore,field,Punjab,runs,54.0,JM Bairstow,Punjab,Bangalore,Punjab,Bangalore
+1304107,177,6,128,123,8,123,2022,Pune,Maharashtra Cricket Association Stadium,Kolkata,bat,Kolkata,runs,54.0,AD Russell,Kolkata,Hyderabad,Kolkata,Hyderabad
+1304108,133,5,125,137,3,119,2022,Mumbai,Wankhede Stadium,Chennai,bat,Gujarat,wickets,7.0,WP Saha,Chennai,Gujarat,Chennai,Gujarat
+1304109,178,6,123,154,8,128,2022,Mumbai,"Brabourne Stadium, Mumbai",Rajasthan,bat,Rajasthan,runs,24.0,TA Boult,Rajasthan,Lucknow,Rajasthan,Lucknow
+1304110,159,7,123,142,9,126,2022,Navi Mumbai,Dr DY Patil Sports Academy,Punjab,field,Delhi,runs,17.0,SN Thakur,Delhi,Punjab,Delhi,Punjab
+1304111,193,6,125,190,7,130,2022,Mumbai,Wankhede Stadium,Mumbai,field,Hyderabad,runs,3.0,RA Tripathi,Hyderabad,Mumbai,Hyderabad,Mumbai
+1304112,210,0,122,208,8,127,2022,Navi Mumbai,Dr DY Patil Sports Academy,Lucknow,bat,Lucknow,runs,2.0,Q de Kock,Lucknow,Kolkata,Lucknow,Kolkata
+1304113,168,5,122,170,2,115,2022,Mumbai,Wankhede Stadium,Gujarat,bat,Bangalore,wickets,8.0,V Kohli,Gujarat,Bangalore,Gujarat,Bangalore
+1304114,150,6,125,151,5,122,2022,Mumbai,"Brabourne Stadium, Mumbai",Chennai,bat,Rajasthan,wickets,5.0,R Ashwin,Chennai,Rajasthan,Chennai,Rajasthan
+1304115,159,7,128,160,5,119,2022,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,5.0,JJ Bumrah,Delhi,Mumbai,Delhi,Mumbai
+1304116,157,8,125,160,5,95,2022,Mumbai,Wankhede Stadium,Hyderabad,bat,Punjab,wickets,5.0,Harpreet Brar,Hyderabad,Punjab,Hyderabad,Punjab
+1312197,188,6,127,191,3,125,2022,Kolkata,Eden Gardens,Gujarat,field,Gujarat,wickets,7.0,DA Miller,Rajasthan,Gujarat,Rajasthan,Gujarat
+1312198,207,4,126,193,6,130,2022,Kolkata,Eden Gardens,Lucknow,field,Bangalore,runs,14.0,RM Patidar,Bangalore,Lucknow,Bangalore,Lucknow
+1312199,157,8,127,161,3,109,2022,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Rajasthan,field,Rajasthan,wickets,7.0,JC Buttler,Bangalore,Rajasthan,Bangalore,Rajasthan
+1312200,130,9,120,133,3,113,2022,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Rajasthan,bat,Gujarat,wickets,7.0,HH Pandya,Rajasthan,Gujarat,Rajasthan,Gujarat
+1359475,178,7,121,182,5,122,2023,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Gujarat,field,Gujarat,wickets,5.0,Rashid Khan,Chennai,Gujarat,Chennai,Gujarat
+1359476,191,5,123,146,7,99,2023,Chandigarh,Punjab Cricket Association Stadium,Kolkata,field,Punjab,runs,7.0,Arshdeep Singh,Punjab,Kolkata,Punjab,Kolkata
+1359477,193,6,125,143,9,126,2023,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Delhi,field,Lucknow,runs,50.0,MA Wood,Lucknow,Delhi,Lucknow,Delhi
+1359478,203,5,122,131,8,126,2023,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Rajasthan,runs,72.0,JC Buttler,Rajasthan,Hyderabad,Rajasthan,Hyderabad
+1359479,171,7,130,172,2,102,2023,Bengaluru,M Chinnaswamy Stadium,Bangalore,field,Bangalore,wickets,8.0,F du Plessis,Mumbai,Bangalore,Mumbai,Bangalore
+1359480,217,7,124,205,7,136,2023,Chennai,MA Chidambaram Stadium,Lucknow,field,Chennai,runs,12.0,MM Ali,Chennai,Lucknow,Chennai,Lucknow
+1359481,162,8,125,163,4,115,2023,Delhi,Arun Jaitley Stadium,Gujarat,field,Gujarat,wickets,6.0,B Sai Sudharsan,Delhi,Gujarat,Delhi,Gujarat
+1359482,197,5,127,192,7,125,2023,Guwahati,"Barsapara Cricket Stadium, Guwahati",Rajasthan,field,Punjab,runs,5.0,NT Ellis,Punjab,Rajasthan,Punjab,Rajasthan
+1359483,204,7,129,123,10,107,2023,Kolkata,Eden Gardens,Bangalore,field,Kolkata,runs,81.0,SN Thakur,Kolkata,Bangalore,Kolkata,Bangalore
+1359484,121,8,122,127,5,101,2023,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Hyderabad,bat,Lucknow,wickets,5.0,KH Pandya,Hyderabad,Lucknow,Hyderabad,Lucknow
+1359485,199,4,124,142,9,128,2023,Guwahati,"Barsapara Cricket Stadium, Guwahati",Delhi,field,Rajasthan,runs,57.0,YBK Jaiswal,Rajasthan,Delhi,Rajasthan,Delhi
+1359486,157,8,125,159,3,114,2023,Mumbai,Wankhede Stadium,Chennai,field,Chennai,wickets,7.0,RA Jadeja,Mumbai,Chennai,Mumbai,Chennai
+1359487,204,4,127,207,7,123,2023,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Gujarat,bat,Kolkata,wickets,3.0,RK Singh,Gujarat,Kolkata,Gujarat,Kolkata
+1359488,143,9,125,145,2,103,2023,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Hyderabad,wickets,8.0,S Dhawan,Punjab,Hyderabad,Punjab,Hyderabad
+1359489,212,2,124,213,9,129,2023,Bengaluru,M Chinnaswamy Stadium,Lucknow,field,Lucknow,wickets,1.0,N Pooran,Bangalore,Lucknow,Bangalore,Lucknow
+1359490,172,10,124,173,4,122,2023,Delhi,Arun Jaitley Stadium,Mumbai,field,Mumbai,wickets,6.0,RG Sharma,Delhi,Mumbai,Delhi,Mumbai
+1359491,175,8,126,172,6,127,2023,Chennai,MA Chidambaram Stadium,Chennai,field,Rajasthan,runs,3.0,R Ashwin,Rajasthan,Chennai,Rajasthan,Chennai
+1359492,153,8,129,154,4,119,2023,Chandigarh,Punjab Cricket Association Stadium,Gujarat,field,Gujarat,wickets,6.0,MM Sharma,Punjab,Gujarat,Punjab,Gujarat
+1359493,228,4,128,205,7,128,2023,Kolkata,Eden Gardens,Kolkata,field,Hyderabad,runs,23.0,HC Brook,Hyderabad,Kolkata,Hyderabad,Kolkata
+1359494,174,6,124,151,9,123,2023,Bengaluru,M Chinnaswamy Stadium,Delhi,field,Bangalore,runs,23.0,V Kohli,Bangalore,Delhi,Bangalore,Delhi
+1359495,159,8,127,161,8,122,2023,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Punjab,field,Punjab,wickets,2.0,Sikandar Raza,Lucknow,Punjab,Lucknow,Punjab
+1359496,185,6,128,186,5,109,2023,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,5.0,VR Iyer,Kolkata,Mumbai,Kolkata,Mumbai
+1359497,177,7,124,179,7,118,2023,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Rajasthan,field,Rajasthan,wickets,3.0,SO Hetmyer,Gujarat,Rajasthan,Gujarat,Rajasthan
+1359498,226,6,126,218,8,126,2023,Bengaluru,M Chinnaswamy Stadium,Bangalore,field,Chennai,runs,8.0,DP Conway,Chennai,Bangalore,Chennai,Bangalore
+1359499,192,5,122,178,10,127,2023,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Mumbai,runs,14.0,C Green,Mumbai,Hyderabad,Mumbai,Hyderabad
+1359500,154,7,122,144,6,123,2023,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Lucknow,runs,10.0,MP Stoinis,Lucknow,Rajasthan,Lucknow,Rajasthan
+1359501,174,4,123,150,10,113,2023,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Bangalore,runs,24.0,Mohammed Siraj,Bangalore,Punjab,Bangalore,Punjab
+1359502,127,10,130,128,6,121,2023,Delhi,Arun Jaitley Stadium,Delhi,field,Delhi,wickets,4.0,I Sharma,Kolkata,Delhi,Kolkata,Delhi
+1359503,134,7,122,138,3,112,2023,Chennai,MA Chidambaram Stadium,Chennai,field,Chennai,wickets,7.0,RA Jadeja,Hyderabad,Chennai,Hyderabad,Chennai
+1359504,135,6,120,128,7,121,2023,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gujarat,bat,Gujarat,runs,7.0,MM Sharma,Gujarat,Lucknow,Gujarat,Lucknow
+1359505,214,8,129,201,6,123,2023,Mumbai,Wankhede Stadium,Mumbai,field,Punjab,runs,13.0,SM Curran,Punjab,Mumbai,Punjab,Mumbai
+1359506,189,9,125,182,6,126,2023,Bengaluru,M Chinnaswamy Stadium,Rajasthan,field,Bangalore,runs,7.0,GJ Maxwell,Bangalore,Rajasthan,Bangalore,Rajasthan
+1359507,235,4,123,186,8,129,2023,Kolkata,Eden Gardens,Kolkata,field,Chennai,runs,49.0,AM Rahane,Chennai,Kolkata,Chennai,Kolkata
+1359508,144,9,121,137,6,121,2023,Hyderabad,Rajiv Gandhi International Stadium,Delhi,bat,Delhi,runs,7.0,AR Patel,Delhi,Hyderabad,Delhi,Hyderabad
+1359509,207,6,125,152,9,121,2023,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Mumbai,field,Gujarat,runs,55.0,A Manohar,Gujarat,Mumbai,Gujarat,Mumbai
+1359510,200,5,125,179,8,122,2023,Bengaluru,M Chinnaswamy Stadium,Bangalore,field,Kolkata,runs,21.0,CV Varun,Kolkata,Bangalore,Kolkata,Bangalore
+1359511,202,5,124,170,6,121,2023,Jaipur,Sawai Mansingh Stadium,Rajasthan,bat,Rajasthan,runs,32.0,YBK Jaiswal,Rajasthan,Chennai,Rajasthan,Chennai
+1359512,257,5,129,201,10,128,2023,Chandigarh,Punjab Cricket Association Stadium,Punjab,field,Lucknow,runs,56.0,MP Stoinis,Lucknow,Punjab,Lucknow,Punjab
+1359513,179,7,123,180,3,110,2023,Kolkata,Eden Gardens,Gujarat,field,Gujarat,wickets,7.0,J Little,Kolkata,Gujarat,Kolkata,Gujarat
+1359514,197,6,129,188,6,123,2023,Delhi,Arun Jaitley Stadium,Hyderabad,bat,Hyderabad,runs,9.0,MR Marsh,Hyderabad,Delhi,Hyderabad,Delhi
+1359515,200,4,127,201,6,125,2023,Chennai,MA Chidambaram Stadium,Chennai,bat,Punjab,wickets,4.0,DP Conway,Chennai,Punjab,Chennai,Punjab
+1359516,212,7,133,214,4,125,2023,Mumbai,Wankhede Stadium,Rajasthan,bat,Mumbai,wickets,6.0,YBK Jaiswal,Rajasthan,Mumbai,Rajasthan,Mumbai
+1359517,126,9,122,108,10,124,2023,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Bangalore,bat,Bangalore,runs,18.0,F du Plessis,Bangalore,Lucknow,Bangalore,Lucknow
+1359518,130,8,124,125,6,124,2023,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Delhi,bat,Delhi,runs,5.0,Mohammed Shami,Delhi,Gujarat,Delhi,Gujarat
+1359520,214,3,128,216,4,116,2023,Chandigarh,Punjab Cricket Association Stadium,Mumbai,field,Mumbai,wickets,6.0,Ishan Kishan,Punjab,Mumbai,Punjab,Mumbai
+1359521,171,9,127,166,8,127,2023,Hyderabad,Rajiv Gandhi International Stadium,Kolkata,bat,Kolkata,runs,5.0,CV Varun,Kolkata,Hyderabad,Kolkata,Hyderabad
+1359522,118,10,114,119,1,84,2023,Jaipur,Sawai Mansingh Stadium,Rajasthan,bat,Gujarat,wickets,9.0,Rashid Khan,Rajasthan,Gujarat,Rajasthan,Gujarat
+1359523,139,8,122,140,4,109,2023,Chennai,MA Chidambaram Stadium,Chennai,field,Chennai,wickets,6.0,M Pathirana,Mumbai,Chennai,Mumbai,Chennai
+1359524,181,4,125,187,3,103,2023,Delhi,Arun Jaitley Stadium,Bangalore,bat,Delhi,wickets,7.0,PD Salt,Bangalore,Delhi,Bangalore,Delhi
+1359525,227,2,125,171,7,125,2023,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Lucknow,field,Gujarat,runs,56.0,Shubman Gill,Gujarat,Lucknow,Gujarat,Lucknow
+1359526,214,2,125,217,6,125,2023,Jaipur,Sawai Mansingh Stadium,Rajasthan,bat,Hyderabad,wickets,4.0,GD Phillips,Rajasthan,Hyderabad,Rajasthan,Hyderabad
+1359527,179,7,126,182,5,123,2023,Kolkata,Eden Gardens,Punjab,bat,Kolkata,wickets,5.0,AD Russell,Punjab,Kolkata,Punjab,Kolkata
+1359528,199,6,123,200,4,106,2023,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,6.0,SA Yadav,Bangalore,Mumbai,Bangalore,Mumbai
+1359529,167,8,130,140,8,125,2023,Chennai,MA Chidambaram Stadium,Chennai,bat,Chennai,runs,27.0,RA Jadeja,Chennai,Delhi,Chennai,Delhi
+1359530,149,8,121,151,1,82,2023,Kolkata,Eden Gardens,Rajasthan,field,Rajasthan,wickets,9.0,YBK Jaiswal,Kolkata,Rajasthan,Kolkata,Rajasthan
+1359531,218,5,120,191,8,123,2023,Mumbai,Wankhede Stadium,Gujarat,field,Mumbai,runs,27.0,SA Yadav,Mumbai,Gujarat,Mumbai,Gujarat
+1359532,182,6,123,185,3,121,2023,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,bat,Lucknow,wickets,7.0,PN Mankad,Hyderabad,Lucknow,Hyderabad,Lucknow
+1359533,167,7,127,136,8,123,2023,Delhi,Arun Jaitley Stadium,Delhi,field,Punjab,runs,31.0,P Simran Singh,Punjab,Delhi,Punjab,Delhi
+1359534,171,5,124,59,10,65,2023,Jaipur,Sawai Mansingh Stadium,Bangalore,bat,Bangalore,runs,112.0,WD Parnell,Bangalore,Rajasthan,Bangalore,Rajasthan
+1359535,144,6,125,147,4,118,2023,Chennai,MA Chidambaram Stadium,Chennai,bat,Kolkata,wickets,6.0,RK Singh,Chennai,Kolkata,Chennai,Kolkata
+1359536,188,9,128,154,9,125,2023,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Hyderabad,field,Gujarat,runs,34.0,Shubman Gill,Gujarat,Hyderabad,Gujarat,Hyderabad
+1359537,177,4,125,172,5,130,2023,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Mumbai,field,Lucknow,runs,5.0,MP Stoinis,Lucknow,Mumbai,Lucknow,Mumbai
+1359538,213,2,125,198,8,124,2023,Dharamsala,Himachal Pradesh Cricket Association Stadium,Punjab,field,Delhi,runs,15.0,RR Rossouw,Delhi,Punjab,Delhi,Punjab
+1359539,186,5,124,187,2,121,2023,Hyderabad,Rajiv Gandhi International Stadium,Bangalore,field,Bangalore,wickets,8.0,V Kohli,Hyderabad,Bangalore,Hyderabad,Bangalore
+1359540,187,5,126,189,6,126,2023,Dharamsala,Himachal Pradesh Cricket Association Stadium,Rajasthan,field,Rajasthan,wickets,4.0,D Padikkal,Punjab,Rajasthan,Punjab,Rajasthan
+1359541,223,3,129,146,9,127,2023,Delhi,Arun Jaitley Stadium,Chennai,bat,Chennai,runs,77.0,RD Gaikwad,Chennai,Delhi,Chennai,Delhi
+1359542,176,8,127,175,7,125,2023,Kolkata,Eden Gardens,Kolkata,field,Lucknow,runs,1.0,N Pooran,Lucknow,Kolkata,Lucknow,Kolkata
+1359543,200,5,126,201,2,113,2023,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,8.0,C Green,Hyderabad,Mumbai,Hyderabad,Mumbai
+1359544,197,5,125,198,4,123,2023,Bengaluru,M Chinnaswamy Stadium,Gujarat,field,Gujarat,wickets,6.0,Shubman Gill,Bangalore,Gujarat,Bangalore,Gujarat
+1370350,172,7,122,157,10,132,2023,Chennai,MA Chidambaram Stadium,Gujarat,field,Chennai,runs,15.0,RD Gaikwad,Chennai,Gujarat,Chennai,Gujarat
+1370351,182,8,126,101,10,102,2023,Chennai,MA Chidambaram Stadium,Mumbai,bat,Mumbai,runs,81.0,Akash Madhwal,Mumbai,Lucknow,Mumbai,Lucknow
+1370352,233,3,127,171,10,115,2023,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Mumbai,field,Gujarat,runs,62.0,Shubman Gill,Gujarat,Mumbai,Gujarat,Mumbai
+1370353,214,4,122,171,5,94,2023,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Chennai,field,Chennai,wickets,5.0,DP Conway,Gujarat,Chennai,Gujarat,Chennai
+1422119,173,6,129,176,4,120,2024,Chennai,MA Chidambaram Stadium,Bangalore,bat,Chennai,wickets,6.0,Mustafizur Rahman,Bangalore,Chennai,Bangalore,Chennai
+1422120,174,9,124,177,6,122,2024,Mohali,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab,field,Punjab,wickets,4.0,SM Curran,Delhi,Punjab,Delhi,Punjab
+1422121,208,7,128,204,7,122,2024,Kolkata,Eden Gardens,Hyderabad,field,Kolkata,runs,4.0,AD Russell,Kolkata,Hyderabad,Kolkata,Hyderabad
+1422122,193,4,127,173,6,124,2024,Jaipur,Sawai Mansingh Stadium,Rajasthan,bat,Rajasthan,runs,20.0,SV Samson,Rajasthan,Lucknow,Rajasthan,Lucknow
+1422123,168,6,124,162,9,123,2024,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Mumbai,field,Gujarat,runs,6.0,B Sai Sudharsan,Gujarat,Mumbai,Gujarat,Mumbai
+1422124,176,6,125,178,6,123,2024,Bengaluru,M Chinnaswamy Stadium,Bangalore,field,Bangalore,wickets,4.0,V Kohli,Punjab,Bangalore,Punjab,Bangalore
+1422125,206,6,125,143,8,128,2024,Chennai,MA Chidambaram Stadium,Gujarat,field,Chennai,runs,63.0,S Dube,Chennai,Gujarat,Chennai,Gujarat
+1422126,277,3,130,246,5,126,2024,Hyderabad,Rajiv Gandhi International Stadium,Mumbai,field,Hyderabad,runs,31.0,Abhishek Sharma,Hyderabad,Mumbai,Hyderabad,Mumbai
+1422127,185,5,125,173,5,124,2024,Jaipur,Sawai Mansingh Stadium,Delhi,field,Rajasthan,runs,12.0,R Parag,Rajasthan,Delhi,Rajasthan,Delhi
+1422128,182,6,123,186,3,105,2024,Bengaluru,M Chinnaswamy Stadium,Kolkata,field,Kolkata,wickets,7.0,SP Narine,Bangalore,Kolkata,Bangalore,Kolkata
+1422129,199,8,125,178,5,122,2024,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,bat,Lucknow,runs,21.0,MP Yadav,Lucknow,Punjab,Lucknow,Punjab
+1422130,162,8,122,168,3,119,2024,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Hyderabad,bat,Gujarat,wickets,7.0,MM Sharma,Hyderabad,Gujarat,Hyderabad,Gujarat
+1422131,191,5,127,171,6,129,2024,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi,bat,Delhi,runs,20.0,KK Ahmed,Delhi,Chennai,Delhi,Chennai
+1422132,125,9,124,127,4,99,2024,Mumbai,Wankhede Stadium,Rajasthan,field,Rajasthan,wickets,6.0,TA Boult,Mumbai,Rajasthan,Mumbai,Rajasthan
+1422133,181,5,126,153,10,122,2024,Bengaluru,M Chinnaswamy Stadium,Bangalore,field,Lucknow,runs,28.0,MP Yadav,Lucknow,Bangalore,Lucknow,Bangalore
+1422134,272,7,134,166,10,110,2024,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Kolkata,bat,Kolkata,runs,106.0,SP Narine,Kolkata,Delhi,Kolkata,Delhi
+1422135,199,4,124,200,7,123,2024,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Punjab,field,Punjab,wickets,3.0,Shashank Singh,Gujarat,Punjab,Gujarat,Punjab
+1422136,165,5,121,166,4,111,2024,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,field,Hyderabad,wickets,6.0,Abhishek Sharma,Chennai,Hyderabad,Chennai,Hyderabad
+1422137,183,3,125,189,4,118,2024,Jaipur,Sawai Mansingh Stadium,Rajasthan,field,Rajasthan,wickets,6.0,JC Buttler,Bangalore,Rajasthan,Bangalore,Rajasthan
+1422138,234,5,129,205,8,122,2024,Mumbai,Wankhede Stadium,Delhi,field,Mumbai,runs,29.0,R Shepherd,Mumbai,Delhi,Mumbai,Delhi
+1422139,163,5,121,130,10,122,2024,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,bat,Lucknow,runs,33.0,Yash Thakur,Lucknow,Gujarat,Lucknow,Gujarat
+1426260,137,9,128,141,3,109,2024,Chennai,MA Chidambaram Stadium,Chennai,field,Chennai,wickets,7.0,RA Jadeja,Kolkata,Chennai,Kolkata,Chennai
+1426261,182,9,125,180,6,126,2024,Mohali,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab,field,Hyderabad,runs,2.0,Nithish Kumar Reddy,Hyderabad,Punjab,Hyderabad,Punjab
+1426262,196,3,127,199,7,128,2024,Jaipur,Sawai Mansingh Stadium,Gujarat,field,Gujarat,wickets,3.0,Rashid Khan,Rajasthan,Gujarat,Rajasthan,Gujarat
+1426263,196,8,128,199,3,96,2024,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,7.0,JJ Bumrah,Bangalore,Mumbai,Bangalore,Mumbai
+1426264,167,7,127,170,4,112,2024,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,bat,Delhi,wickets,6.0,Kuldeep Yadav,Lucknow,Delhi,Lucknow,Delhi
+1426265,147,8,125,152,7,122,2024,Mohali,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Rajasthan,field,Rajasthan,wickets,3.0,SO Hetmyer,Punjab,Rajasthan,Punjab,Rajasthan
+1426266,161,7,127,162,2,105,2024,Kolkata,Eden Gardens,Kolkata,field,Kolkata,wickets,8.0,PD Salt,Lucknow,Kolkata,Lucknow,Kolkata
+1426267,206,4,125,186,6,124,2024,Mumbai,Wankhede Stadium,Mumbai,field,Chennai,runs,20.0,M Pathirana,Chennai,Mumbai,Chennai,Mumbai
+1426268,287,3,132,262,7,133,2024,Bengaluru,M Chinnaswamy Stadium,Bangalore,field,Hyderabad,runs,25.0,TM Head,Hyderabad,Bangalore,Hyderabad,Bangalore
+1426269,223,6,129,224,8,130,2024,Kolkata,Eden Gardens,Rajasthan,field,Rajasthan,wickets,2.0,JC Buttler,Kolkata,Rajasthan,Kolkata,Rajasthan
+1426270,89,10,112,92,4,55,2024,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Delhi,field,Delhi,wickets,6.0,RR Pant,Gujarat,Delhi,Gujarat,Delhi
+1426271,192,7,125,183,10,127,2024,Mohali,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab,field,Mumbai,runs,9.0,JJ Bumrah,Mumbai,Punjab,Mumbai,Punjab
+1426272,176,6,123,180,2,124,2024,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,field,Lucknow,wickets,8.0,KL Rahul,Chennai,Lucknow,Chennai,Lucknow
+1426273,266,7,123,199,10,122,2024,Delhi,Arun Jaitley Stadium,Delhi,field,Hyderabad,runs,67.0,TM Head,Hyderabad,Delhi,Hyderabad,Delhi
+1426274,222,6,129,221,10,124,2024,Kolkata,Eden Gardens,Bangalore,field,Kolkata,runs,1.0,AD Russell,Kolkata,Bangalore,Kolkata,Bangalore
+1426275,142,10,123,146,7,116,2024,Mohali,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab,bat,Gujarat,wickets,3.0,R Sai Kishore,Punjab,Gujarat,Punjab,Gujarat
+1426276,179,9,128,183,1,117,2024,Jaipur,Sawai Mansingh Stadium,Mumbai,bat,Rajasthan,wickets,9.0,Sandeep Sharma,Mumbai,Rajasthan,Mumbai,Rajasthan
+1426277,210,4,122,213,4,123,2024,Chennai,MA Chidambaram Stadium,Lucknow,field,Lucknow,wickets,6.0,MP Stoinis,Chennai,Lucknow,Chennai,Lucknow
+1426278,224,4,123,220,8,124,2024,Delhi,Arun Jaitley Stadium,Gujarat,field,Delhi,runs,4.0,RR Pant,Delhi,Gujarat,Delhi,Gujarat
+1426279,206,7,125,171,8,129,2024,Hyderabad,Rajiv Gandhi International Stadium,Bangalore,bat,Bangalore,runs,35.0,RM Patidar,Bangalore,Hyderabad,Bangalore,Hyderabad
+1426280,261,6,131,262,2,116,2024,Kolkata,Eden Gardens,Punjab,field,Punjab,wickets,8.0,JM Bairstow,Kolkata,Punjab,Kolkata,Punjab
+1426281,257,4,127,247,9,128,2024,Delhi,Arun Jaitley Stadium,Mumbai,field,Delhi,runs,10.0,J Fraser-McGurk,Delhi,Mumbai,Delhi,Mumbai
+1426282,196,5,128,199,3,116,2024,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Rajasthan,field,Rajasthan,wickets,7.0,SV Samson,Lucknow,Rajasthan,Lucknow,Rajasthan
+1426283,200,3,130,206,1,100,2024,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Bangalore,field,Bangalore,wickets,9.0,WG Jacks,Gujarat,Bangalore,Gujarat,Bangalore
+1426284,212,3,126,134,10,116,2024,Chennai,MA Chidambaram Stadium,Hyderabad,field,Chennai,runs,78.0,RD Gaikwad,Chennai,Hyderabad,Chennai,Hyderabad
+1426285,153,9,126,157,3,101,2024,Kolkata,Eden Gardens,Delhi,bat,Kolkata,wickets,7.0,CV Varun,Delhi,Kolkata,Delhi,Kolkata
+1426286,144,7,126,145,6,122,2024,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,field,Lucknow,wickets,4.0,MP Stoinis,Mumbai,Lucknow,Mumbai,Lucknow
+1426287,162,7,129,163,3,116,2024,Chennai,MA Chidambaram Stadium,Punjab,field,Punjab,wickets,7.0,Harpreet Brar,Chennai,Punjab,Chennai,Punjab
+1426288,201,3,128,200,7,132,2024,Hyderabad,Rajiv Gandhi International Stadium,Hyderabad,bat,Hyderabad,runs,1.0,B Kumar,Hyderabad,Rajasthan,Hyderabad,Rajasthan
+1426289,169,10,125,145,10,118,2024,Mumbai,Wankhede Stadium,Mumbai,field,Kolkata,runs,24.0,VR Iyer,Kolkata,Mumbai,Kolkata,Mumbai
+1426290,147,10,121,152,6,83,2024,Bengaluru,M Chinnaswamy Stadium,Bangalore,field,Bangalore,wickets,4.0,Mohammed Siraj,Gujarat,Bangalore,Gujarat,Bangalore
+1426291,167,9,125,139,9,124,2024,Dharamsala,Himachal Pradesh Cricket Association Stadium,Punjab,field,Chennai,runs,28.0,RA Jadeja,Chennai,Punjab,Chennai,Punjab
+1426292,235,6,129,137,10,103,2024,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,field,Kolkata,runs,98.0,SP Narine,Kolkata,Lucknow,Kolkata,Lucknow
+1426293,173,8,131,174,3,108,2024,Mumbai,Wankhede Stadium,Mumbai,field,Mumbai,wickets,7.0,SA Yadav,Hyderabad,Mumbai,Hyderabad,Mumbai
+1426294,221,8,121,201,8,131,2024,Delhi,Arun Jaitley Stadium,Rajasthan,field,Delhi,runs,20.0,Kuldeep Yadav,Delhi,Rajasthan,Delhi,Rajasthan
+1426295,165,4,123,167,0,60,2024,Hyderabad,Rajiv Gandhi International Stadium,Lucknow,bat,Hyderabad,wickets,10.0,TM Head,Lucknow,Hyderabad,Lucknow,Hyderabad
+1426296,241,7,127,181,10,105,2024,Dharamsala,Himachal Pradesh Cricket Association Stadium,Punjab,field,Bangalore,runs,60.0,V Kohli,Bangalore,Punjab,Bangalore,Punjab
+1426297,231,3,125,196,8,124,2024,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Chennai,field,Gujarat,runs,35.0,Shubman Gill,Gujarat,Chennai,Gujarat,Chennai
+1426298,157,7,99,139,8,102,2024,Kolkata,Eden Gardens,Mumbai,field,Kolkata,runs,18.0,CV Varun,Kolkata,Mumbai,Kolkata,Mumbai
+1426299,141,5,124,145,5,115,2024,Chennai,MA Chidambaram Stadium,Rajasthan,bat,Chennai,wickets,5.0,Simarjeet Singh,Rajasthan,Chennai,Rajasthan,Chennai
+1426300,187,9,127,140,10,120,2024,Bengaluru,M Chinnaswamy Stadium,Delhi,field,Bangalore,runs,47.0,C Green,Bangalore,Delhi,Bangalore,Delhi
+1426302,208,4,128,189,9,125,2024,Delhi,Arun Jaitley Stadium,Lucknow,field,Delhi,runs,19.0,I Sharma,Delhi,Lucknow,Delhi,Lucknow
+1426303,144,9,121,145,5,114,2024,Guwahati,"Barsapara Cricket Stadium, Guwahati",Rajasthan,bat,Punjab,wickets,5.0,SM Curran,Rajasthan,Punjab,Rajasthan,Punjab
+1426305,214,6,130,196,6,129,2024,Mumbai,Wankhede Stadium,Mumbai,field,Lucknow,runs,18.0,N Pooran,Lucknow,Mumbai,Lucknow,Mumbai
+1426306,218,5,127,191,7,126,2024,Bengaluru,M Chinnaswamy Stadium,Chennai,field,Bangalore,runs,27.0,F du Plessis,Bangalore,Chennai,Bangalore,Chennai
+1426307,214,5,125,215,6,122,2024,Hyderabad,Rajiv Gandhi International Stadium,Punjab,bat,Hyderabad,wickets,4.0,Abhishek Sharma,Punjab,Hyderabad,Punjab,Hyderabad
+1426309,159,10,124,164,2,84,2024,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Hyderabad,bat,Kolkata,wickets,8.0,MA Starc,Hyderabad,Kolkata,Hyderabad,Kolkata
+1426310,172,8,122,174,6,119,2024,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Rajasthan,field,Rajasthan,wickets,4.0,R Ashwin,Bangalore,Rajasthan,Bangalore,Rajasthan
+1426311,175,9,127,139,7,124,2024,Chennai,MA Chidambaram Stadium,Rajasthan,field,Hyderabad,runs,36.0,Shahbaz Ahmed,Hyderabad,Rajasthan,Hyderabad,Rajasthan
+1426312,113,10,117,114,2,67,2024,Chennai,MA Chidambaram Stadium,Hyderabad,bat,Kolkata,wickets,8.0,MA Starc,Hyderabad,Kolkata,Hyderabad,Kolkata
