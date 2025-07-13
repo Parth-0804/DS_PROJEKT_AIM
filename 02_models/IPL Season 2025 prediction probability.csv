@@ -1,0 +1,38 @@
+,inning1_runs,inning1_wickets,season,venue,toss_winner,toss_decision,team1,team2,winner,inning1_balls,winner_text,city,predicted_outcome,team1_win_probability,predicted_winner
+0,174.0,8.0,2025,Eden Gardens,Bangalore,field,Kolkata,Bangalore,0,120,Bangalore,Kolkata,0,0.23260982,Bangalore
+1,286.0,6.0,2025,Rajiv Gandhi International Stadium,Rajasthan,field,Hyderabad,Rajasthan,1,120,Hyderabad,Hyderabad,1,0.9948791,Hyderabad
+2,155.0,9.0,2025,MA Chidambaram Stadium,Chennai,field,Chennai,Mumbai,1,120,Chennai,Chennai,0,0.22280301,Mumbai
+5,151.0,9.0,2025,"Barsapara Cricket Stadium, Guwahati",Kolkata,field,Rajasthan,Kolkata,0,120,Kolkata,Guwahati,0,0.019849306,Kolkata
+7,196.0,7.0,2025,MA Chidambaram Stadium,Chennai,field,Chennai,Bangalore,0,120,Bangalore,Chennai,1,0.9908771,Chennai
+10,182.0,9.0,2025,"Barsapara Cricket Stadium, Guwahati",Chennai,field,Rajasthan,Chennai,1,120,Rajasthan,Guwahati,0,0.16853516,Chennai
+11,116.0,10.0,2025,Wankhede Stadium,Mumbai,field,Mumbai,Kolkata,1,120,Mumbai,Mumbai,0,0.49435183,Kolkata
+14,200.0,6.0,2025,Eden Gardens,Hyderabad,field,Kolkata,Hyderabad,1,120,Kolkata,Kolkata,1,0.9873448,Kolkata
+16,183.0,6.0,2025,MA Chidambaram Stadium,Delhi,bat,Chennai,Delhi,0,120,Delhi,Chennai,1,0.90491223,Chennai
+19,221.0,5.0,2025,Wankhede Stadium,Mumbai,field,Mumbai,Bangalore,0,120,Bangalore,Mumbai,1,0.9973181,Mumbai
+23,163.0,7.0,2025,M Chinnaswamy Stadium,Delhi,field,Bangalore,Delhi,0,120,Delhi,Bangalore,1,0.87170416,Bangalore
+24,103.0,9.0,2025,MA Chidambaram Stadium,Kolkata,field,Chennai,Kolkata,0,120,Kolkata,Chennai,0,0.3509616,Kolkata
+26,245.0,6.0,2025,Rajiv Gandhi International Stadium,Punjab,bat,Hyderabad,Punjab,1,120,Hyderabad,Hyderabad,1,0.99540365,Hyderabad
+27,173.0,4.0,2025,Sawai Mansingh Stadium,Bangalore,field,Rajasthan,Bangalore,0,120,Bangalore,Jaipur,1,0.7782148,Rajasthan
+28,205.0,5.0,2025,Arun Jaitley Stadium,Delhi,field,Delhi,Mumbai,1,120,Delhi,Delhi,1,0.975127,Delhi
+31,188.0,5.0,2025,Arun Jaitley Stadium,Rajasthan,field,Delhi,Rajasthan,1,120,Delhi,Delhi,1,0.98224384,Delhi
+32,162.0,5.0,2025,Wankhede Stadium,Mumbai,field,Mumbai,Hyderabad,1,120,Mumbai,Mumbai,1,0.96799034,Mumbai
+33,95.0,9.0,2025,M Chinnaswamy Stadium,Punjab,field,Bangalore,Punjab,0,120,Punjab,Bangalore,0,0.22164892,Punjab
+37,176.0,5.0,2025,Wankhede Stadium,Mumbai,field,Mumbai,Chennai,1,120,Mumbai,Mumbai,1,0.86169565,Mumbai
+40,143.0,8.0,2025,Rajiv Gandhi International Stadium,Hyderabad,field,Hyderabad,Mumbai,0,120,Mumbai,Hyderabad,0,0.28573856,Mumbai
+41,205.0,5.0,2025,M Chinnaswamy Stadium,Rajasthan,field,Bangalore,Rajasthan,1,120,Bangalore,Bangalore,1,0.88546073,Bangalore
+42,154.0,10.0,2025,MA Chidambaram Stadium,Hyderabad,field,Chennai,Hyderabad,0,120,Hyderabad,Chennai,0,0.19198146,Hyderabad
+45,162.0,8.0,2025,Arun Jaitley Stadium,Bangalore,field,Delhi,Bangalore,0,120,Bangalore,Delhi,0,0.26787922,Bangalore
+47,204.0,9.0,2025,Arun Jaitley Stadium,Delhi,field,Delhi,Kolkata,0,120,Kolkata,Delhi,1,0.71172804,Delhi
+48,190.0,10.0,2025,MA Chidambaram Stadium,Punjab,field,Chennai,Punjab,0,120,Punjab,Chennai,1,0.6490581,Chennai
+49,217.0,2.0,2025,Sawai Mansingh Stadium,Rajasthan,field,Rajasthan,Mumbai,0,120,Mumbai,Jaipur,1,0.77016044,Rajasthan
+51,213.0,5.0,2025,M Chinnaswamy Stadium,Chennai,field,Bangalore,Chennai,1,120,Bangalore,Bangalore,1,0.99582785,Bangalore
+52,206.0,4.0,2025,Eden Gardens,Kolkata,bat,Kolkata,Rajasthan,1,120,Kolkata,Kolkata,1,0.99501675,Kolkata
+56,179.0,6.0,2025,Eden Gardens,Kolkata,bat,Kolkata,Chennai,0,120,Chennai,Kolkata,1,0.9207198,Kolkata
+58,219.0,5.0,2025,Sawai Mansingh Stadium,Punjab,bat,Rajasthan,Punjab,0,120,Punjab,Jaipur,1,0.9623523,Rajasthan
+61,187.0,8.0,2025,Arun Jaitley Stadium,Rajasthan,field,Chennai,Rajasthan,0,120,Rajasthan,Delhi,0,0.35073292,Rajasthan
+62,180.0,5.0,2025,Wankhede Stadium,Delhi,field,Mumbai,Delhi,1,120,Mumbai,Mumbai,1,0.92276484,Mumbai
+65,206.0,8.0,2025,Sawai Mansingh Stadium,Delhi,field,Punjab,Delhi,0,120,Delhi,Jaipur,1,0.87293005,Punjab
+67,278.0,3.0,2025,Arun Jaitley Stadium,Hyderabad,bat,Kolkata,Hyderabad,0,120,Hyderabad,Delhi,1,0.9980888,Kolkata
+68,184.0,7.0,2025,Sawai Mansingh Stadium,Punjab,field,Punjab,Mumbai,1,120,Punjab,Jaipur,1,0.84151685,Punjab
+72,203.0,6.0,2025,"Narendra Modi Stadium, Ahmedabad",Punjab,field,Punjab,Mumbai,1,120,Punjab,Ahmedabad,1,0.9630922,Punjab
+73,190.0,9.0,2025,"Narendra Modi Stadium, Ahmedabad",Punjab,field,Bangalore,Punjab,1,120,Bangalore,Ahmedabad,0,0.46214408,Punjab
